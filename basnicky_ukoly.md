@@ -166,6 +166,3 @@
 <tr><td>Na démony dlouhý bič,<br>s právem po boku.<br>Zlo odejde navždy pryč.</td></tr>
 </table>
 
----
-
-Let me know if you want them compacted or with a different layout!
