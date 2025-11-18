@@ -1,154 +1,261 @@
-### Palice Drtič Bouří
+---
 
-|       **Palice Drtič Bouří**       |
-|:----------------------------------:|
-|   Blesky na oceli,                |
-|   nebe se trhá,                   |
-|   hory se řítí,                   |
-|   bohové mlčí.                    |
+<p align="center">
+
+| **Palice Drtič Bouří** |
+|:--:|
+| Blesky tančí po oceli,<br>nebe se trhá,<br>hory se hroutí,<br>bohové mlčí. |
+
+</p>
 
 ---
 
-### Meč Krvavý Trn
+<p align="center">
 
-|       **Meč Krvavý Trn**          |
-|:----------------------------------:|
-|   Krev na kameni,                 |
-|   světlo se třese,                |
-|   vítr ať šeptá,                  |
-|   do noci se směji.               |
+| **Meč Krvavý Trn** |
+|:--:|
+| Krev na kameni,<br>světlo se chvěje,<br>vítr nechť šeptá,<br>do noci se směji. |
 
----
-
-### Luk Okraj Bouře
-
-|      **Luk Okraj Bouře**          |
-|:----------------------------------:|
-|   Ledový vítr,                    |
-|   šíp mizí v mlze,                |
-|   mraky z oceli,                  |
-|   nebe rozetnou blesky.           |
+</p>
 
 ---
 
-### Kopí Tkalec Stínů
+<p align="center">
 
-|        **Kopí Tkalec Stínů**      |
-|:----------------------------------:|
-|   Runy spletené z ticha,          |
-|   rudé jiskry hoří,               |
-|   jen stíny a tvůj dech,          |
-|   v krvi je vše psáno.            |
+| **Luk Okraj Bouře** |
+|:--:|
+| Ledový vítr,<br>šíp mizí v mlze,<br>mraky z oceli<br>rozetnou blesky. |
 
----
-
-### Palice Planoucí Led
-
-|       **Palice Planoucí Led**     |
-|:----------------------------------:|
-|   Plamen líbá mráz,               |
-|   žár v ledu spí,                 |
-|   úder tříští svět,               |
-|   čas ztrácí vládu.               |
+</p>
 
 ---
 
-### Meč Nebeský Strážce
+<p align="center">
 
-|    **Meč Nebeský Strážce**        |
-|:----------------------------------:|
-|   Zlaté runy rozzáří se,          |
-|   meč nese v srdci                |
-|   moudrost hvězdy,                |
-|   věčný ochránce nespí.           |
+| **Meč Probleskující Čepel** |
+|:--:|
+| Runy spletené z ticha,<br>zpečetěné na věčnost,<br>jen stíny a tvůj dech –<br>v krvi je vše psáno. |
 
----
-
-### Palice Krvavý Měsíc
-
-|    **Palice Krvavý Měsíc**        |
-|:----------------------------------:|
-|   Zaplane rudé světlo,            |
-|   ocel se napije krve,            |
-|   do tmy se zasměji,              |
-|   nad nocí přebírám vládu.        |
+</p>
 
 ---
 
-### Kopí Popelový Tesák
+<p align="center">
 
-|   **Kopí Popelový Tesák**         |
-|:----------------------------------:|
-|   Popraskaná čepel,               |
-|   žár v ní dýchá,                 |
-|   v boji hořím jak oheň,          |
-|   v popel obrátím nepřátele.      |
+| **Meč Žhavý Úder** |
+|:--:|
+| Plamen líbá mráz,<br>žár spí v ledu,<br>úder tříští svět,<br>čas ztrácí moc. |
 
----
-
-### Luk Hněv Bouře
-
-|     **Luk Hněv Bouře**            |
-|:----------------------------------:|
-|   Blesky na tětivě,               |
-|   z ticha se snese zkáza,         |
-|   jak bouře zuřím,                |
-|   přesný a nemilosrdný.           |
+</p>
 
 ---
 
-### Palice Stínový Kovář
+<p align="center">
 
-|   **Palice Stínový Kovář**        |
-|:----------------------------------:|
-| Opál a starodávné runy,           |
-| žár v oceli,                      |
-| síla hor dřímá,                   |
-| v prach vše promění.              |
+| **Meč Úder ze Snů** |
+|:--:|
+| Zlaté runy září,<br>meč v srdci nese<br>moudrost hvězd,<br>věčný ochránce bdí. |
 
----
-
-### Kopí Měsíční Záře
-
-|  **Kopí Měsíční Záře**            |
-|:----------------------------------:|
-|   Led v oceli,                    |
-|   stíny tančí noci,               |
-|   záře protne tmu,                |
-|   a čas se zastaví.               |
+</p>
 
 ---
 
-### Luk Svazovač Duší
+<p align="center">
 
-|  **Luk Svazovač Duší**            |
-|:----------------------------------:|
-|   Ektoplazma se zhmotní,          |
-|   tětiva šeptá jména,             |
-|   duše trnou strachem,            |
-|   jejich konec se blíží.          |
+| **Palice Krvavý Měsíc** |
+|:--:|
+| Vzplane rudé světlo,<br>ocel se napije krve,<br>do tmy se směji,<br>nad nocí teď vládnu. |
 
----
-
-### Meč Hrot Bouře
-
-|     **Meč Hrot Bouře**            |
-|:----------------------------------:|
-|   Ledová záře,                    |
-|   se roztančí na čepeli,          |
-|   smrt spí v ostří,               |
-|   jeden úder přinese konec.       |
+</p>
 
 ---
 
-### Palice Rozbíječ Snů
+<p align="center">
 
-|   **Palice Rozbíječ Snů**         |
-|:----------------------------------:|
-|   Ve tmě se rozzáří,              |
-|   krev hučí v kameni,             |
-|   strach se zhmotní,              |
-|   přede mnou není úkrytu.         |
+| **Meč Krvavý Oheň** |
+|:--:|
+| Černá ostrá čepel,<br>žár v ní dýchá,<br>v boji hořím jak oheň,<br>nepřátele obrátím v popel. |
+
+</p>
 
 ---
 
+<p align="center">
+
+| **Luk Větrné Srdce** |
+|:--:|
+| Blesky v tětivě,<br>z ticha padá zkáza,<br>jako bouře zuřím,<br>přesný a nemilosrdný. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Palice Zkázonoš** |
+|:--:|
+| Ocel a pradávné runy,<br>žár i síla slov,<br>moudrost hor dřímá,<br>vše v prach obrátí. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Kopí Měsíční Záře** |
+|:--:|
+| Led v oceli,<br>stíny tančí nocí,<br>záře roztrhne tmu,<br>a čas se zastaví. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Luk Svazovač Duší** |
+|:--:|
+| Ektoplazma houstne,<br>tětiva šeptá jména,<br>duše trnou strachem,<br>jejich konec je zde. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Meč Hrot Bouře** |
+|:--:|
+| Ledová záře<br>tančí na čepeli,<br>smrt v ostří spí,<br>v jediném úderu konec. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Palice Rozbíječ Snů** |
+|:--:|
+| Ve tmě zazáří,<br>krev hučí v kameni,<br>strach se zhmotní,<br>přede mnou není úkrytu. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Meč Privolávač Duchů** |
+|:--:|
+| Černé ostří šeptá,<br>potají sbírá sílu,<br>lebky tiše spí,<br>a duše křičí. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Palice Půlnoční Stín** |
+|:--:|
+| Volám tě, stíne,<br>přines mi sílu.<br>Klid své duše<br>vykoupím krví. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Meč Mrazivý Šepot** |
+|:--:|
+| Ledový dech,<br>srdce ze zlata.<br>Když se odhalí,<br>krev mrzne strachem. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Luk Plamenné Křídlo** |
+|:--:|
+| Letím s větrem,<br>za mnou jen popel,<br>šíp je modlitba,<br>co pálí hříchy. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Luk Příchod Tmy** |
+|:--:|
+| Slyš ticho věků,<br>hlas bez ozvěny,<br>já volám prázdno,<br>a ono volá mě. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Bomba Hvězdný Oheň** |
+|:--:|
+| Jiskra padlé hvězdy,<br>žár dýchá v kleci,<br>tmu prořízne světlo,<br>a nikdo neunikl. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Bomba Střep Beznaděje** |
+|:--:|
+| Křehký je osud,<br>když shoří naděje,<br>ticho se vytratí<br>a srdce se vzdá. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Bomba Propast Nicoty** |
+|:--:|
+| Volání hlubin,<br>jsoucno se tříští,<br>život se láme,<br>a dál už jen mrtví. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Bomba Zvěst Bouře** |
+|:--:|
+| Smršť ohně a trnů,<br>nebe zadrží dech,<br>vítr rozsévá hněv,<br>pád je nevyhnutelný. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Bomba Stínový Plamen** |
+|:--:|
+| Skrytý plameni,<br>jenž rozprostře dech,<br>rozsviť mou cestu,<br>ať skončí noc. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Bomba Popelavý Příval** |
+|:--:|
+| Řetězy prasknou,<br>oheň se rozlije,<br>běsy se vyrojí,<br>popel vše pohltí. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Bomba Hromový Hněv** |
+|:--:|
+| Sféra vězní bouři,<br>hněv držený na řetězu,<br>blesk změní se v plamen,<br>a smrt v tanci krouží. |
+
+</p>
+
+---
