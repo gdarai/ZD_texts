@@ -14,7 +14,7 @@
 
 | **Meč Krvavý Trn** |
 |:--:|
-| Krev na kameni,<br>světlo se chvěje,<br>vítr nechť šeptá,<br>do noci se směji. |
+| Trn hledá srdce,<br>touží bodnout hlouběji,<br>rudý opar zastře zrak,<br>do noci se směji. |
 
 </p>
 
@@ -34,7 +34,7 @@
 
 | **Meč Probleskující Čepel** |
 |:--:|
-| Runy spletené z ticha,<br>zpečetěné na věčnost,<br>jen stíny a tvůj dech –<br>v krvi je vše psáno. |
+| Runy spletené z ticha,<br>zpečetěné na věčnost,<br>jen stíny a tvůj dech,<br>sám si píšu svůj osud. |
 
 </p>
 
@@ -64,7 +64,7 @@
 
 | **Palice Krvavý Měsíc** |
 |:--:|
-| Vzplane rudé světlo,<br>ocel se napije krve,<br>do tmy se směji,<br>nad nocí teď vládnu. |
+| Vzplane rudé světlo,<br>ocel se napije krve,<br>do tmy směle vkročim,<br>nad nocí teď vládnu. |
 
 </p>
 
@@ -94,7 +94,7 @@
 
 | **Palice Zkázonoš** |
 |:--:|
-| Ocel a pradávné runy,<br>žár i síla slov,<br>moudrost hor dřímá,<br>vše v prach obrátí. |
+| Ocel a pradávné runy,<br>nesmírná je síla slov,<br>moudrost a umění války<br>vše v prach obrátí. |
 
 </p>
 
@@ -114,7 +114,7 @@
 
 | **Luk Svazovač Duší** |
 |:--:|
-| Ektoplazma houstne,<br>tětiva šeptá jména,<br>duše trnou strachem,<br>jejich konec je zde. |
+| Ektoplazma houstne,<br>tětiva šeptá jména,<br>duše trnou strachem,<br>neb jejich konec je tu. |
 
 </p>
 
@@ -184,7 +184,7 @@
 
 | **Luk Příchod Tmy** |
 |:--:|
-| Slyš ticho věků,<br>hlas bez ozvěny,<br>já volám prázdno,<br>a ono volá mě. |
+| Slyš ticho věků,<br>hlas bez ozvěny,<br>já volám prázdno,<br>a ono mi odpoví. |
 
 </p>
 
