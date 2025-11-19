@@ -114,7 +114,7 @@
 
 | **Zapuditel smečky (cxA)** |
 |:--:|
-| Vlci prchají, tábor v klidu spí,<br>ochrana pevná v noci i dni,<br>noc ustupuje, když vstávám z mlhy. |
+| Vlci prchají, tábor v klidu spí,<br>ochrana pevná v nelehkém čase.<br>Sen se jim zdá v barevné kráse. |
 
 </p>
 <p align="center">
