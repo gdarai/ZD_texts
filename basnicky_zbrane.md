@@ -50,6 +50,26 @@
 
 <p align="center">
 
+| **Kopí hrůzy** |
+|:--:|
+| Všepohltcující hrůza,<br>zrychlí dech a sváže mysl.<br>Odvaha ve mě vzrůstá,<br>zastaví démonů běh. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Hromobijec** |
+|:--:|
+| Hrom otřese zemí,<br>hrot udává směr boje.<br>Zrůdy se zaženou<br>do hlubin, kam patří. |
+
+</p>
+
+---
+
+<p align="center">
+
 | **Měsíční záře** |
 |:--:|
 | Led ukrytý v trnu,<br>stíny tančí nocí,<br>záře roztrhne tmu,<br>a čas se zastaví. |
@@ -60,9 +80,49 @@
 
 <p align="center">
 
+| **Našeptávač trnů** |
+|:--:|
+| Zlo klesne na kolena,<br>přemožené nestrvůry<br>marně budou prosit,<br>hle, přichází jejich pád. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Řeřavý spár** |
+|:--:|
+| Hrot pálí jak vina,<br>žár doprovází boj,<br>má cesta září jasně,<br>vše zakryje smrti závoj. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Oštěp ozvěny** |
+|:--:|
+| Staré strachy promluví,<br>dozvuky minulosti<br>zavibrují a zamrznou,<br>teď se vše rozhodne.  |
+
+</p>
+
+---
+
+<p align="center">
+
 | **Pableskující čepel** |
 |:--:|
 | Runy spletené z ticha,<br>zpečetěné na věčnost,<br>jen stíny a tvůj dech,<br>sám si píšu svůj osud. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Hadí zub** |
+|:--:|
+| Jak had jsem úskočný,<br>před tichým šipem<br>nepřijde varování<br>- zakousne se znenadání. |
 
 </p>
 
@@ -90,9 +150,29 @@
 
 <p align="center">
 
+| **Nebeský palcát** |
+|:--:|
+| Slyš oslavnou hymnu,<br>chorál zní k výšinám.<br>Pozvedni svoji zbraň,<br>nemrtví mizí v bázni. |
+
+</p>
+
+---
+
+<p align="center">
+
 | **Půlnoční stín** |
 |:--:|
 | Volám tě, stíne,<br>přines mi sílu.<br>Klid své duše<br>vykoupím krví. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Hromový úder** |
+|:--:|
+| Blesk se ze tmy zjeví,<br>hrom zazní jak zpěv,<br>palice se uklání<br>a úder propustí hněv. |
 
 </p>
 
@@ -123,6 +203,16 @@
 | **Zkázonoš** |
 |:--:|
 | Ocel a pradávné runy,<br>nesmírná je síla slov,<br>moudrost a umění války<br>vše v prach obrátí. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Mrazivý závoj** |
+|:--:|
+| Závoj klesne níže,<br>jasný křišťál zašeptá,<br>kreslí chladný tah,<br>zima přijde blíže. |
 
 </p>
 
@@ -210,6 +300,16 @@
 
 <p align="center">
 
+| **Zhouba králů** |
+|:--:|
+| Trůny se otřesou,<br>koruny ztrácí lesk,<br>rovnováha je vrtkavá<br>a majestát pomíjivý. |
+
+</p>
+
+---
+
+<p align="center">
+
 | **Úder ze snů** |
 |:--:|
 | Zlaté runy září,<br>meč v srdci nese<br>moudrost hvězd,<br>věčný ochránce bdí. |
@@ -220,9 +320,29 @@
 
 <p align="center">
 
+| **Popel předků** |
+|:--:|
+| Předci kráčí po boku,<br>hrot nalpní slib,<br>tíha rodu trvá,<br>dědictví neuhasne. |
+
+</p>
+
+---
+
+<p align="center">
+
 | **Stínový plamen** |
 |:--:|
 | Skrytý plameni,<br>jenž sevře dech,<br>rozsviť mou cestu,<br>než přijde konec. |
+
+</p>
+
+---
+
+<p align="center">
+
+| **Ohnivá bouře** |
+|:--:|
+| Vichr snese mstu,<br>plameny víří v jádru,<br>žár si hledá cestu,<br>zkáza zraje v pouzdru. |
 
 </p>
 
@@ -277,32 +397,4 @@
 </p>
 
 ---
-
-<p align="center">
-
-| **Mrazivý závoj** |
-|:--:|
-| Závoj klesne níže,<br>jasný křišťál zašeptá,<br>kreslí chladný tah,<br>zima přijde blíže. |
-
-</p>
-
----
-
-<p align="center">
-
-| **Popel předků** |
-|:--:|
-| Předci kráčí po boku,<br>hrot nalpní slib,<br>tíha rodu trvá,<br>dědictví neuhasne. |
-
-</p>
-
----
-
-<p align="center">
-
-| **Ohnivá bouře** |
-|:--:|
-| Vichr snese mstu,<br>plameny víří v jádru,<br>žár si hledá cestu,<br>zkáza zraje v pouzdru. |
-
-</p>
 
