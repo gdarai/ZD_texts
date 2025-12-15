@@ -254,8 +254,6 @@ X: Z veřejné nabídky můžeš tedy odstranit až dvě karty úkolů.
 
 X: Na počet artefaktů ani karet úkolů v ruce není žádný limit, můžeš jich mít, kolik chceš.
 
-
-
 ## O úkolech
 
 V momentě, kdy jsi skoro skončil svůj tah, a už sis i nabral zbraně na příští kolo, je načase se podívat, jestli jsi náhodou nesplnil i nějaké úkoly a nezasloužíš si ještě víc slávy. Můžeš splnit najednou kolik úkolů chceš. Ale na výběr máš jen z těch ve veřejné nabídce, tvých soukromých úkolů na ruce a tvého vysněného povolání. Každý splněný úkol má stejnou hodnotu jako žeton slávy. Když vyložíš své splněné úkoly, doplň z lízací hromádky nabídku veřejných úkolů pro dalšího hrdinu, aby v ní měl zase tři.
@@ -268,9 +266,18 @@ H: Kladivo, to je panečku zbraň. Škoda že v okolí to je samý čaroděj a k
 
 **Úkoly s trofejemi.** Tyhle úkoly mají na sobě pouze symboly příšer v různých kombinacích. Pro splnění takového úkolu musíš mít u sebe ty vyobrazené trofeje. Buď dvě stejné, nebo tři různé. Trofeje pro splnění úkolu stačí mít, nemusíš je odevzdat.
 
+X: Pro splnění úkolu "dvě trofeje zvířat" můžeš mít i jakoukoliv třetí trofej, to není na škodu.
+
 **Úkoly poziční.** Tyhle úkoly mají na sobě kromě symbolu příšery i symbol hrdiny, popřípadě vesnice či horského hřebenu. Abys ho splnil, musíš stát na mapě a ve vodorovném či svislém směru tak, jak je na úkolu napsané.
 
 [tabulka: SPECIÁLNÍ SYMBOLY NA KARTÁCH ÚKOLŮ]
+
+X: Musíš stát na těsno, bez mezer, musíš hned sousedit.
+
+X: Musí to být na mapě celé vodorovně, nebo celé svisle, ne do zatáčky, ne po úhlopříčce.
+
+X: Nemůže mezi vámi překážet hřeben hor, nikdy.
+
 
 Pro úkol **"stůj mezi"** potřebuješ stát mezi vyobrazenými příšerami.
 
