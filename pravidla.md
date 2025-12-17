@@ -4,7 +4,7 @@
 
 Kompetitivní hra o boji s příšerami pro 2 - 4 hráče.
 
-Přišel jsi do kraje, protože tě lidé potřebují. Každý tvůj krok je epickým bojem se zlem. Místní si i po letech budou šeptat, jak jsi prošel jejich životy. Ale nejsi sám. Budeš ty ten, komu nakonec postaví i sochu? Kdo z vás je přece jenom nejvíc EPIC?
+Přišel jsi do kraje, protože tě lidé potřebují. Každý tvůj krok je epickým bojem s příšerami. Místní si i po letech budou šeptat, jak jsi prošel jejich životy. Ale nejsi tu sám. Budeš ty ten, komu nakonec postaví i sochu? Kdo z vás je přece jenom nejvíc EPIC?
 
 ## Myšlenka hry
 
@@ -20,7 +20,7 @@ Držíš na ruce karty - svůj majetek. Na ruce můžeš mít karty zbraní, kar
 
 ## Herní prvky – na stole
 
-Před sebou máš hromádku žetonů slávy, karet splněných úkolů a trofejí. Počet žetonů slávy a karet splněných úkolů dává dohromady tvé skóre. Trofeje jsou žetonky příšer, které jsi v nedávné době porazil, a jsou určené k plnění některých úkolů.
+Před sebou máš hromádku žetonů slávy, karet splněných úkolů a trofejí. Počet žetonů slávy a karet splněných úkolů dává dohromady tvé skóre. Trofeje jsou žetonky příšer, které jsi v nedávné době porazil. Jsou důležité k plnění některých úkolů.
 
 ## Herní prvky – mapa
 
@@ -36,17 +36,17 @@ Nepoužité žetony příšer jsou vedle desky v losovacím váčku a čekají, 
 
 ## Od zbraně k příšeře
 
-Ve hře EPIC jde každá příšera porazit konkrétní zbraní. Stejně jako na každé zvíře je kopí, tak na každého nemrtvého je palice. Nemusíš si to pamatovat, je to na očích pro každého na lízacích hromádkách karet zbraní. A i na každé líznuté zbrani vidíš, na kterou příšeru bude fungovat. Navíc už se vyskytuje jen pátý symbol, pro bomby, které působí na všechny příšery bez rozdílu.
+Ve hře EPIC jde každá příšera porazit konkrétní zbraní. Stejně jako na každé zvíře je kopí, tak na každého nemrtvého je palice. Nemusíš si to pamatovat, je to na očích pro každého na rubu karet zbraní. A i na líci každé líznuté zbrani vidíš, na kterou příšeru bude fungovat. Tam se navíc vyskytuje už jen pátý symbol, pro bomby. Ty totiž působí na všechny příšery bez rozdílu.
 
 [tabulka: ZBRAŇ - Z_SYMBOL - P_SYMBOL - PŘÍŠERA]
 
 I když lízneš zbraň z balíčku luků, nemusí to být luk. Občas to je bomba a občas zatoulaná jiná zbraň. Každá zbraň na sobě také může mít kouzlo, ale nemusí.
 
-[obrázek: JAK VYPADÁ KARTA]
+[obrázek: JAK VYPADÁ KARTA, NORMÁLNÍ VS S KOUZLEM VS BOMBA]
 
 ## Příprava hry
 
-Vyberte začínajícího hrdinu. Bude mít oproti ostatním malou výhodu. Hraje se po směru hodinových ručiček, takže hrdina napravo od začínajícího je poslední a bude velitelem mapy. Na začátku hry tento velitel doprostřed stolu postaví mapu. Vybere jeden z tvarů mapy z této nabídky.
+Vyberte začínajícího hrdinu. Bude mít oproti ostatním malou výhodu. Hraje se po směru hodinových ručiček, takže hrdina napravo od začínajícího bude každé kolo hrát poslední. Bude tedy velitelem mapy. Na začátku hry tento velitel doprostřed stolu postaví mapu. Tady je pár možných tvarů mapy, jeden si teď vyberte.
 
 [tabulka: TVARY MAPY + vysvětlivky]
 
