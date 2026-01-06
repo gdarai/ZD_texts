@@ -1,0 +1,7 @@
+# IDE project files
+**/.idea/
+**/.run/
+**/*.iml
+.vscode/
+*~
+
