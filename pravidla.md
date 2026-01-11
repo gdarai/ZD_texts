@@ -10,13 +10,13 @@ Přišel jsi do kraje, protože tě lidé potřebují. Každý tvůj krok je epi
 
 Hrdinové se střídají v tazích. Karty artefaktů a legendárních zbraní se ti na ruce míhají jedna za druhou. Posouváš svou figurku po mapě a čistíš krajinu od příšer. Tahy jsou rychlé, ale promyšlené. Bojem a plněním úkolů získáváš body slávy a až dosáhneš cíleného množství, vyhraješ.
 
-[náčrtek: CO JE VE HŘE]
+![CO JE VE HŘE](rulesImg/01_veHre.png)
 
 ## Herní prvky – na ruce
 
 Držíš na ruce karty - svůj majetek. Na ruce můžeš mít karty zbraní, karty artefaktů, karty úkolů. Všechny karty na ruce jsou určené k zahrání a přinesou ti užitek, až když je použiješ. Všechny jsou tajné a nikomu je neukazuj, pokud ti to pravidla vyloženě nenařídí.
 
-[tabulka: ZADNÍ STRANY KARET]
+![ZADNÍ STRANY KARET](rulesImg/02_zadniStrany.png)
 
 ## Herní prvky – na stole
 
@@ -38,29 +38,30 @@ Nepoužité žetony příšer jsou vedle desky v losovacím váčku a čekají, 
 
 Ve hře EPIC jde každá příšera porazit konkrétní zbraní. Stejně jako na každé zvíře je kopí, tak na každého nemrtvého je palice. Nemusíš si to pamatovat, je to na rubu karet zbraní. Pátou zbraní jsou bomby. Ty působí na všechny příšery bez rozdílu.
 
-[tabulka: ZBRAŇ - Z_SYMBOL - P_SYMBOL - PŘÍŠERA]
-
 X: Na líci každé líznuté zbraně také vidíš, na kterou příšeru bude fungovat.
 
 X: Zbraně jsou v každém balíčku namíchané. Když lízneš zbraň z balíčku luků, nemusí to být nutně luk ale často by měl být.
 
-[obrázek: JAK VYPADÁ KARTA, NORMÁLNÍ VS S KOUZLEM VS BOMBA]
+![ZBRAŇ - Z_SYMBOL - P_SYMBOL - PŘÍŠERA](rulesImg/03_odZbrane.png)
 
 ## Příprava hry
 
 Vyberte začínajícího hrdinu. Bude mít oproti ostatním malou výhodu. Hraje se po směru hodinových ručiček, takže hrdina napravo od začínajícího bude každé kolo hrát poslední. Je odteď velitelem mapy. Na začátku hry tento velitel doprostřed stolu postaví mapu. Tady je pár možných tvarů, jeden si teď vyberte.
 
-[tabulka: TVARY MAPY + vysvětlivky]
+![TVARY MAPY + vysvětlivky](rulesImg/04_tvarMapy.png)
 
-[tabulka: ZÁKLADNÍ A SPECIÁLNÍ DÍLKY MAPY]
+![ZÁKLADNÍ A SPECIÁLNÍ DÍLKY MAPY](rulesImg/05_dilkyMapy.png)
 
-Veliteli; Vezmi 5 speciálních dílků (hrad, skály a starty) a dej si je stranou a zbytek dílků zamíchej a postav z nich vybraný tvar. U speciálních dílků je jedno, jak jsou otočené, a u všech ostatních platí, že mají být otočené náhodně. Podívej se, jak jsou umístěné na mapě hory, jestli náhodou není nějaké políčko úplně odříznuté od světa. Pokud ano, tak otoč minimum dílků tak, aby se to napravilo. Ty vyber které a jak otočit. Tím tvá zodpovědnost končí.
+
+Veliteli; Vezmi 5 speciálních dílků (hrad, skály a starty) a dej si je stranou a zbytek dílků zamíchej. Speciální dílky dej jak jsou na obrázku mapy, ostatní dej náhodně, postav z nich vybraný tvar. Dílky měj otočené náhodně. Teď se podívej, jak jsou umístěné hřebeny hor, jestli náhodou není nějaké políčko úplně odříznuté od světa. Pokud ano, tak otoč minimum dílků tak, aby se to napravilo. Ty vyber které a jak otočit. Přidej miniatury skal a hor aby byla mapa víc přehledná. Tím tvá zodpovědnost končí.
 
 X: Hru připravujete všichni spolu, ale o mapě rozhoduje velitel mapy.
 
+[tabulka: NEDOVOLENÉ SITUACE MAPY]
+
 Dál tahejte z váčku náhodně příšery. Na každé políčko vylosujte jednu. Výjimkou je hrad, kde mají být příšery dvě. A políčka, co příšeru nemají, což je start, vesnice a teleport. Na každou příšeru dej žetonek slávy.
 
-[tabulka: SYMBOLY NA DÍLKÁCH MAPY]
+![SYMBOLY NA DÍLKÁCH MAPY](rulesImg/06_symbolyMapy.png)
 
 Zbylé příšery vrať do váčku a zbylé žetony slávy dej na hromádku vedle mapy. Pak připrav všech šest lízacích hromádek karet: kopí, palice, meče, luky, artefakty i úkoly.
 
@@ -74,7 +75,7 @@ H: Cesta za slávou je trnitá. Že luk na kostlivce nefunguje, už teď snad v�
 
 Každýmu hrdinovi, počínaje začínajícím, vylosuj soukromý úkol a jednu kartu artefaktu. A teď si lízne své dvě počáteční zbraně. Na políčku start si můžeš líznout z kterých hromádek chceš, je to jen na tobě.
 
-[obrázek: UKÁZKOVÁ POČÁTEČNÍ RUKA]
+![UKÁZKOVÁ POČÁTEČNÍ RUKA](rulesImg/07_ruka.png)
 
 Nakonec otoč a vylož tři karty úkolů, co budou od začátku ve veřejné nabídce, a hra může začít.
 
@@ -82,7 +83,8 @@ Nakonec otoč a vylož tři karty úkolů, co budou od začátku ve veřejné na
 
 Jednoduše řečeno, na začátku svého tahu se podívej na zbraně na své ruce a na příšery ve svém těsném okolí. Najdeš příšeru, na kterou máš na ruce zbraň. Ideálně si vyber nějakou, co má na sobě ještě žeton slávy. Třeba držíš kladivo a na sousedním políčku vidíš žlutou příšeru, nemrtvého. Kartu zbraně odhoď, posuň se na políčko s vybranou příšerou. Příšeru tím poraž, vezmi si její žeton slávy a přidej si ho před sebe na svou hromádku. Žeton poražené příšery si přidej mezi své trofeje. Pak se podívej na symboly zbraní, které jsou nakreslené na tvém novém políčku mapy, vyber si, která z nabízených zbraní se ti hodí víc, třeba luk, a tak si z hromádky luků lízni novou zbraň na příští kolo. Pak se podívej na své úkoly a co můžeš splnit splň. Doplň úkoly, co jsou na výběr pro dalšího hrdinu, a tím tvůj tah končí... Vyhrál jsi? Skoro ale ještě ne? Tak hraje další hrdina.
 
-[diagram: FÁZE TAHU JEDNOHO HRÁČE]
+![FÁZE TAHU JEDNOHO HRÁČE](rulesImg/08_fazeTahu.png)
+
 
 ## A1 - Fáze pohybu
 
@@ -96,13 +98,13 @@ X: Ostatní hrdinové tě v pohybu nijak neomezují. Klidně s nima buď na stej
 
 Posouváš figurku na jiné políčko mapy. V základu s ní jdeš o jedno políčko vodorovně nebo svisle. V cestě ti nesmí stát hřeben hor, to je vždy nepřekonatelná překážka, pokud tedy nepoužiješ kouzlo letu, viz "Používání kouzel". Pokud je na políčku příšera, můžeš na něj vstoupit pouze pokud máš vhodnou zbraň, abys ji porazil, viz "Od zbraně k příšeře". Může se ale stát, že tam žádná příšera není. Buď proto, že je to políčko přirozeně bez příšery, tedy vesnice nebo start, a nebo proto, že už tam nedávno nějaký hrdina prošel a z příšery je trofej. Pak na to políčko také můžeš jít ale pořád musíš zahodit zbraň. Ale je na tobě kterou.
 
-[tabulka: SKÁLA, HŘEBEN HOR, TELEPORT]
+![SKÁLA, HŘEBEN HOR, TELEPORT](rulesImg/09_mapaSpecial.png)
 
 **Políčko teleport** je výjimečné. Na něm nemůžeš stát a nikdy na něm není žádná příšera. Když na něj vstoupíš, okamžitě vystoupíš na libovolné políčko sousedící s kterýmkoliv teleportem na mapě. Ovšem musíš pořád mít a odevzdat zbraň, jako při normálním pohybu po mapě. I tady nesmíš jít přes hřebeny hor.
 
 X: Stále není dovoleno zůstat při pohybu na stejném políčku mapy. Nemůžeš tedy vstoupit do teleportu a vystoupit zase zpět na stejné pole.
 
-[obrázek: KROK TELEPORTEM]
+![obrázek: KROK TELEPORTEM](rulesImg/10_skrzTeleport.png)
 
 H: Skoro to vypadá jako by tvým největším nepřítelem byly hory. S tím batohem co táhneš? Vlastně se není čemu divit.
 
@@ -167,7 +169,7 @@ X: Na počet artefaktů ani karet úkolů v ruce není žádný limit, můžeš 
 
 Teď si dolízni nové zbraně. Vždy tak, abys měl na ruce pro příští kolo zbraně dvě. První zbraň ber z hromádky zbraní podle pravidla políčka mapy. Zbraně, co jsou na výběr, jsou na políčku přímo nakreslené. Pokud ti chybí i druhá zbraň, tak si ji lízni z libovolné hromádky zbraní bez omezení.
 
-[tabulka DRUHŮ POLÍČEK]
+![DRUHY POLÍČEK podle ZBRANÍ](rulesImg/11_doberZbrane.png)
 
 Pokud jsi na políčku start, hrad nebo vesnice, tak tam žádné omezení na zbraně není. Případné kouzlo krádeže ti umožňuje tu jednu zbraň, na kterou se vztahuje omezení pole, místo z lízací hromádky vzít z ruky libovolného hrdiny, viz "Používání kouzel".
 
@@ -195,7 +197,7 @@ X: Pro splnění úkolu "dvě trofeje zvířat" můžeš mít i jakoukoliv třet
 
 **Úkoly poziční.** Tyhle úkoly mají na sobě kromě symbolu příšery i symbol hrdiny, popřípadě vesnice či horského hřebenu. Abys ho splnil, musíš stát na mapě a ve vodorovném či svislém směru tak, jak je na úkolu napsané.
 
-[tabulka: SPECIÁLNÍ SYMBOLY NA KARTÁCH ÚKOLŮ]
+![SPECIÁLNÍ SYMBOLY NA KARTÁCH ÚKOLŮ](rulesImg/12_kartyUkolu.png)
 
 X: Musíš stát na těsno, bez mezer, musíš hned sousedit.
 
@@ -203,7 +205,8 @@ X: Musí to být na mapě celé vodorovně, nebo celé svisle, ne do zatáčky, 
 
 X: Nemůže mezi vámi překážet hřeben hor, nikdy.
 
-[tabulka: DOVOLENÉ A ZAKÁZANÉ PŘÍPADY]
+![DOVOLENÉ A ZAKÁZANÉ PŘÍPADY 1](rulesImg/13_oUkolu_1.png)
+![DOVOLENÉ A ZAKÁZANÉ PŘÍPADY 2](rulesImg/13_oUkolu_2.png)
 
 Pro úkol **"stůj mezi"** potřebuješ stát mezi vyobrazenými příšerami.
 
@@ -219,7 +222,7 @@ X: Ještě jednou a naposledy ať to je naprosto jasné. Úkoly plníš až na k
 
 Jakmile dosáhneš maximální slávy, ihned vyhráváš. Žádné dohrávání kola nebo podobné nesmysly. Kdo první, ten první. A kolik je maximální sláva? To záleží na tom kolik vás hraje.
 
-[tabulka POČET HRÁČŮ - BODY NA VÍTĚZSTVÍ 12-10-9]
+![BODY NA VÍTĚZSTVÍ](rulesImg/14_vitezstvi.png)
 
 H: Je to jednoduché, čím víc vás po okolí pobíhá, tím míň slávy jednomu z vás stačí, aby vás už místní měli doopravdy dost.
 
@@ -231,7 +234,7 @@ Další možnost je hrát na trestné body, každý hrdina dostane tolik trestn�
 
 Kouzla jsou buď přímo vázaná na zbraň, pak jsou nakreslená přímo na kartě zbraně a působí jen na tuto zbraň. A nebo kouzla volná, vázaná na kouzelný artefakt, pak jsou nakreslená na kartě artefaktu. Taková pak působí na tu zbraň, se kterou se ten artefakt použije. Kouzla se používají při pohybu po mapě, když použiješ zbraň, tak s ní můžeš, a nemusíš, použít i kouzlo. Žádné kouzlo není povinné a žádnou zbraň nejde použít s víc jak jedním kouzlem a žádné kouzlo na konkrétní zbrani nejde přenést na jinou zbraň. Kouzla mění pravidla pohybu po mapě. Pokud používáš se zbraní kouzlo z artefaktu, jednoduše zahodíš na odhazovací hromádku i zbraň i artefakt.
 
-[obrázek: UKÁZKA ZBRANĚ S KOUZLEM A ARTEFAKTU]
+![obrázek: UKÁZKA ZBRANĚ S KOUZLEM A ARTEFAKTU](rulesImg/15_kouzlo.png)
 
 X: Ano, zbraň, která na sobě má kouzlo, lze použít, jako by žádné neměla.
 
