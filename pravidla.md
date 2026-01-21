@@ -98,6 +98,16 @@ X: Ostatní hrdinové tě v pohybu nijak neomezují. Klidně s nima buď na stej
 
 Posouváš figurku na jiné políčko mapy. V základu s ní jdeš o jedno políčko vodorovně nebo svisle. V cestě ti nesmí stát hřeben hor, to je vždy nepřekonatelná překážka, pokud tedy nepoužiješ kouzlo letu, viz "Používání kouzel". Pokud je na políčku příšera, můžeš na něj vstoupit pouze pokud máš vhodnou zbraň, abys ji porazil, viz "Od zbraně k příšeře". Může se ale stát, že tam žádná příšera není. Buď proto, že je to políčko přirozeně bez příšery, tedy vesnice nebo start, a nebo proto, že už tam nedávno nějaký hrdina prošel a z příšery je trofej. Pak na to políčko také můžeš jít ale pořád musíš zahodit zbraň. Ale je na tobě kterou.
 
+**Políčko start** je místo kde máš s ostatními hrdiny svůj stan. Příšery se sem bojí, nikdy tu žádná nebude. Jinak na něm není nic zvláštního.
+
+X: To že tu nikdy příšery nebudou není technicky vzato pravda. Na každé políčko, tedy i sem, můžeš přivolat příšeru kouzlem vábení.
+
+**Políčko vesnice** je kde bydlí místní. Příšery sem nechodí, ale ty můžeš. Je tu řada krámů které můžeš prozkoumat - viz "Fáze nákupu".
+
+**Políčko věže** je stará a opuštěná. Příšera tu od začátku hry je. Ale když jí porazíš tak sem můžeš a můžeš to tu pak i prozkoumat - viz "Fáze nákupu".
+
+**Políčko start**
+
 ![SKÁLA, HŘEBEN HOR, TELEPORT](rulesImg/09_mapaSpecial.PNG)
 
 **Políčko teleport** je výjimečné. Na něm nemůžeš stát a nikdy na něm není žádná příšera. Když na něj vstoupíš, okamžitě vystoupíš na libovolné políčko sousedící s kterýmkoliv teleportem na mapě. Ovšem musíš pořád mít a odevzdat zbraň, jako při normálním pohybu po mapě. I tady nesmíš jít přes hřebeny hor.
@@ -142,9 +152,9 @@ X: Nikdy nedávej nové příšery na hrad, start, vesnici, skálu nebo teleport
 
 X: Nikdy nedávej novou příšeru na pole kde stojí nějaký hrdina.
 
-## B - Fáze nákupu (byl si ve vesnici?)
+## B - Fáze nákupu (byl si ve vesnici nebo kouzelné věži?)
 
-Ať už se pohybuješ nebo odpočíváš, pokud jsi přišel do vesnice, prošel přes vesnici nebo odpočíváš ve vesnici, tak tam teď můžeš nakoupit. Nakupují se tam karty artefaktů a úkolů.
+V kouzelné věži a ve vesnici můžeš získat nové kouzlo. Ve vesnici navíc i kartu úkolu. Ať už se pohybuješ nebo odpočíváš, pokud jsi přišel na takové pole, prošel přes něj nebo na něm odpočíváš, tak tam teď můžeš nakoupit.
 
 H: Jsou i tací, co při odchodu z vesnice zjistí, že se jim tam odtud vlastně zas tak moc nechce a daší den si tam v hostinci odpočinou.
 
@@ -156,8 +166,10 @@ X: Když máš dvě zbraně a kouzlo zuřivosti. Můžeš vesnicí i jen proběh
 
 X: Zato když tě sem v noci někdo teleportuje kouzlem záměny a ty jen ráno sebereš svůj ranec a utečeš, nakoupit už nestihneš.
 
-Můžeš udělat následující věci, klidně všechny tři.
-- Lízni si novou kartu artefaktu.
+Ve věži i ve vesnici.
+- Si lízni novou kartu artefaktu.
+
+Ve vesnici navíc můžeš dělat toto (klidně oboje).
 - Jednu kartu z vyložené nabídky úkolů zahoď na odhazovací balíček.
 - Jednu kartu z vyložené nabídky úkolů, nebo novou náhodnou si vezmi na ruku jako svůj další soukromý úkol.
 
@@ -189,7 +201,9 @@ H: Kladivo, to je panečku zbraň. Škoda že v okolí to je samý čaroděj a k
 
 X: Kartu povolání máš na ruce od začátku jen jednu a jinou mít do konce hry nebudeš. 
 
-**Úsvit legendy.** Tuto kartu vylož s první kartou úkolu, nebo povolání, kterou vyložíš z ruky.
+**Úsvit legendy.** Tuto kartu vylož s první kartou úkolu, kterou vyložíš z ruky.
+
+X: Úsvit legendy se nevykládá s kartou povolání. Pouze s kartou úkolu.
 
 **Úkoly s trofejemi.** Tyhle úkoly mají na sobě pouze symboly příšer v různých kombinacích. Pro splnění takového úkolu musíš mít u sebe ty vyobrazené trofeje. Buď dvě stejné, nebo tři různé. Trofeje pro splnění úkolu stačí mít, nikoliv odevzdat.
 
