@@ -8,31 +8,25 @@ Přišel jsi do kraje, protože tě lidé potřebují. Každý tvůj krok je epi
 
 ## Myšlenka hry
 
-Hrdinové se střídají v tazích. Karty artefaktů a legendárních zbraní se ti na ruce míhají jedna za druhou. Posouváš svou figurku po mapě a čistíš krajinu od příšer. Tahy jsou rychlé, ale promyšlené. Bojem a plněním úkolů získáváš body slávy, a až jich získáš dost, vyhraješ.
+Hrdinové se střídají v tazích. Karty kouzelných předmětů a legendárních zbraní se ti na ruce míhají jedna za druhou. Posouváš svou figurku po mapě a čistíš krajinu od příšer. Tahy jsou rychlé, ale promyšlené. Bojem a plněním úkolů získáváš body slávy, a až jich získáš dost, vyhraješ.
+
+## Herní prvky
+
+Pojď se podívat co ve hře je.
 
 ![CO JE VE HŘE](rulesImg/01_veHre.PNG)
 
-## Herní prvky – na ruce
+**Mapa** je rozložená uprostřed stolu. Na ní stojí vaše figurky a leží žetony příšer a slávy. Vše, co je na mapě, kde kdo stojí a jaké příšery jsou v jeho okolí, je veřejné. Žetony slávy na mapě zatím nikomu nepatří. Získá je ten z vás, který se k nim dostane jako první.
 
-Držíš karty zbraní, artefaktů a úkolů. Užitek ti přinesou až po jejich zahrání. Všechny jsou tajné a nikomu je neukazuj, pokud ti to pravidla vyloženě nenařídí.
+**Dobírací balíčky** karet leží vedle mapy. Jsou tu čtyři druhy zbraní (kopí, palice, meče a luky), a také balíčky úkolů a předmětů. Dál jsou tu lícem nahoru otočené tři karty současných veřejných úkolů a odkládací balíček zahraných karet.
+
+**Na ruce** držíš karty zbraní, předmětů a úkolů. Užitek ti přinesou až po jejich zahrání. Všechny jsou tajné a nikomu je neukazuj, pokud ti to pravidla vyloženě nenařídí.
 
 ![ZADNÍ STRANY KARET](rulesImg/02_zadniStrany.PNG)
 
-## Herní prvky – na stole
+**Na stole** před sebou máš hromádku získaných žetonů slávy a karet tvých splněných úkolů. A trofeje, to jsou žetony příšer, které jsi v nedávné době porazil. Jsou důležité k plnění některých úkolů.
 
-Před sebou máš hromádku získaných žetonů slávy a karet splněných úkolů. A trofeje, to jsou žetony příšer, které jsi v nedávné době porazil. Jsou důležité k plnění některých úkolů.
-
-## Herní prvky – mapa
-
-Uprostřed stolu je rozložená mapa. Na ní stojí vaše figurky a leží žetony příšer a slávy. Vše, co je na mapě, kde kdo stojí a jaké příšery jsou v jeho okolí, je veřejné. Žetony slávy na mapě zatím nikomu nepatří. Získá je ten z vás, který se k nim dostane jako první.
-
-## Herní prvky – nabídka
-
-Vedle mapy jsou dobírací balíčky karet. Jsou tu čtyři druhy zbraní (kopí, palice, meče a luky), a také balíčky úkolů a artefaktů. Dál jsou tu lícem nahoru otočené tři karty současných veřejných úkolů a odkládací balíček zahraných karet.
-
-## Herní prvky – zbylé žetony
-
-Nepoužité žetony příšer čekají v losovacím váčku.
+**Zbylé žetony** příšer čekají v losovacím váčku.
 
 ## Od zbraně k příšeře
 
@@ -62,9 +56,11 @@ Dál tahej z váčku náhodně příšery. Na každé políčko vylosuj jednu. V
 
 ![SYMBOLY NA DÍLKÁCH MAPY](rulesImg/06_symbolyMapy.PNG)
 
-Zbylé příšery vrať do váčku a zbylé žetony slávy do krabice, už je nebudeš potřebovat. Připrav a zamíchej všech šest dobíracích balíčků karet: kopí, palice, meče, luky, artefakty a úkoly.
+Zbylé příšery vrať do váčku a zbylé žetony slávy do krabice, už je nebudeš potřebovat. Připrav a zamíchej všech šest dobíracích balíčků karet: kopí, palice, meče, luky, předměty a úkoly.
 
-Každému hrdinovi vylosuj kartu povolání a dej mu kartu "Jsi EPIC". Od začínajícího hrdiny si každý vybere, na kterém ze startů chce začínat. Vybírej podle toho, kde je lepší terén, je méně skal, bohatší nabídka příšer či menší konkurence ostatních hrdinů.
+Každému hrdinovi vylosuj kartu povolání a dej mu kartu "Jsi EPIC". Od začínajícího hrdiny si každý vybere svou figurku, a na kterém ze startů chce začínat. Vybírej podle toho, kde je lepší terén, je méně skal, bohatší nabídka příšer či menší konkurence ostatních hrdinů.
+
+X: Volba figurky je jen estetická.
 
 X: Ano, můžete klidně začínat všichni na stejném startu.
 
@@ -72,7 +68,7 @@ X: Ano, když vybíráš kde budeš začínat, ještě nevíš jaké jsou úkoly
 
 Pozor, teď budeš vybírat počáteční zbraně. Špatný výběr ti může ztížit start hry. Nejdřív si přečti, jak se zbraně používají, viz "Tah hrdiny" a pak teprve dokonči přípravu.
 
-Každému hrdinovi vylosuj osobní úkol a jednu kartu artefaktu. A teď si postupně od začínajícího hrdiny každý doberte své dvě počáteční zbraně. Na políčku start si můžete dobrat z kterých hromádek chcete, klidně každou z jiné.
+Každému hrdinovi vylosuj osobní úkol a jednu kartu předmětu. A teď si postupně od začínajícího hrdiny každý doberte své dvě počáteční zbraně. Na políčku start si můžete dobrat z kterých hromádek chcete, klidně každou z jiné.
 
 H: Cesta za slávou je trnitá. Že luk na kostlivce nefunguje, už teď snad víš.
 
@@ -124,7 +120,7 @@ X: To, že tu nikdy příšery nebudou, není technicky vzato pravda. Na každé
 
 **Políčko vesnice**, tady bydlí místní. Příšery sem nechodí, ale ty můžeš. Je tu řada krámů které můžeš prozkoumat (viz "Fáze nákupu").
 
-**Políčko věž** má ukrytou truhlu s artefaktem. Příšera tu normálně je, ale když jí porazíš, můžeš truhlu prozkoumat (viz "Fáze nákupu").
+**Políčko věž** má ukrytou truhlu s kouzelným předmětem. Příšera tu normálně je, ale když jí porazíš, můžeš truhlu prozkoumat (viz "Fáze nákupu").
 
 ![SKÁLA, HŘEBEN HOR, TELEPORT](rulesImg/09_mapaSpecial.PNG)
 
@@ -183,7 +179,7 @@ X: Když máš dvě zbraně a kouzlo zuřivosti, můžeš vesnicí i jen proběh
 X: Zato když tě sem v noci někdo teleportuje kouzlem záměny a ty jen ráno sebereš svůj ranec a utečeš, nakoupit už nestihneš.
 
 **Ve věži i ve vesnici.**
-- Dober si novou kartu artefaktu.
+- Dober si novou kartu předmětu.
 
 **Ve vesnici** navíc můžeš dělat toto (klidně oboje).
 - Jednu kartu z vyložené nabídky úkolů zahoď na odhazovací balíček.
@@ -195,7 +191,7 @@ H: A hele, vývěska "Hledá se hrdina". Tenhle letáček ostatní vidět nemus�
 
 X: Z veřejné nabídky můžeš tedy odstranit až dvě karty úkolů.
 
-X: Na počet artefaktů ani karet úkolů v ruce není žádný limit, můžeš jich mít, kolik chceš.
+X: Na počet předmětů ani karet úkolů v ruce není žádný limit, můžeš jich mít, kolik chceš.
 
 ## C - Fáze dobrání karet zbraní
 
@@ -272,13 +268,13 @@ Další možnost je hrát na trestné body. Dostaneš tolik trestných bodů, ko
 
 ## Kouzla
 
-Kouzla jsou buď vázaná na zbraň, pak jsou nakreslená přímo na kartě zbraně a působí jen na tuto zbraň. Nebo jsou kouzla volná, vázaná na kouzelný artefakt, nakreslená na kartě artefaktu. Taková kouzla pak působí na zbraň, se kterou artefakt použiješ. Kouzla používáš při pohybu po mapě. Když použiješ zbraň, můžeš s ní, ale nemusíš, použít i kouzlo. Žádné kouzlo není povinné. Žádnou zbraň nejde použít s víc jak jedním kouzlem a žádné kouzlo na konkrétní zbrani nejde přenést na jinou zbraň. Kouzla mění pravidla. Pokud použiješ se zbraní kouzlo z artefaktu, jednoduše zahodíš na odkládací hromádku jak zbraň tak artefakt.
+Kouzla jsou buď vázaná na zbraň, pak jsou nakreslená přímo na kartě zbraně a působí jen na tuto zbraň. Nebo jsou kouzla volná, vázaná na kouzelný předmět, nakreslená na kartě předmětu. Taková kouzla pak působí na zbraň, se kterou předmět použiješ. Kouzla používáš při pohybu po mapě. Když použiješ zbraň, můžeš s ní, ale nemusíš, použít i kouzlo. Žádné kouzlo není povinné. Žádnou zbraň nejde použít s víc jak jedním kouzlem a žádné kouzlo na konkrétní zbrani nejde přenést na jinou zbraň. Kouzla mění pravidla. Pokud použiješ se zbraní kouzlo z předmětu, jednoduše zahodíš na odkládací hromádku jak zbraň tak předmět.
 
-![obrázek: UKÁZKA ZBRANĚ S KOUZLEM A ARTEFAKTU](rulesImg/15_kouzlo.PNG)
+![obrázek: UKÁZKA ZBRANĚ S KOUZLEM A PŘEDMĚTU](rulesImg/15_kouzlo.PNG)
 
 X: Ano, zbraň, která má na sobě kouzlo, můžeš použít, jako by žádné neměla.
 
-X: Ano, i na zbraň, která má na sobě kouzlo, můžeš místo něj použít kouzlo z artefaktu. Kouzlo ze zbraně pak nemá žádný efekt.
+X: Ano, i na zbraň, která má na sobě kouzlo, můžeš místo něj použít kouzlo z předmětu. Kouzlo ze zbraně pak nemá žádný efekt.
 
 X: Ne, nemá žádný efekt. Nikdy. Jedna zbraň, jedno kouzlo. Víc fakt ne.
 
@@ -286,7 +282,7 @@ X: Ano, můžeš mlátit do trávy (jít na pole bez příšery) a přitom použ
 
 X: Můžeš použít víc kouzel za kolo, pokud použiješ víc zbraní. Umíš z pravidel vyčíst, kdy se to může stát?
 
-**Kouzlo tvrdosti** říká: "Zbraň použij, ale nezahoď". Jednoduše si jí nech. Pokud bylo kouzlo napsáno na zbrani, polož zbraň před sebe na stůl, aby bylo jasné, že jsi z ní kouzlo už vyčerpal. Při příštím použití ji už budeš muset zahodit. Pokud kouzlo bylo na artefaktu, prostě zahoď artefakt a zbraň si nech.
+**Kouzlo tvrdosti** říká: "Zbraň použij, ale nezahoď". Jednoduše si jí nech. Pokud bylo kouzlo napsáno na zbrani, polož zbraň před sebe na stůl, aby bylo jasné, že jsi z ní kouzlo už vyčerpal. Při příštím použití ji už budeš muset zahodit. Pokud kouzlo bylo na předmětu, prostě zahoď předmět a zbraň si nech.
 
 X: Maximální počet zbraní na ruce je dvě. Nikdy víc. Ani s kouzlem tvrdosti. Prostě si kdyžtak novou zbraň dobírat nebudeš.
 
