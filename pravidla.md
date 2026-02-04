@@ -100,7 +100,7 @@ H: Když v ruce držíš palici. Na sousedním poli vidíš nemrtvého. Zahodí�
 
 ![FÁZE TAHU JEDNOHO HRÁČE](rulesImg/08_fazeTahu.PNG)
 
-## A1 - Fáze pohybu
+## Fáze tahu 1a - Pohyb
 
 První fáze tvého tahu je pohyb. Přesuň figurku podle pravidel po mapě. Pokud se pohybuješ, musíš vždy zahodit zbraň, i když ji třeba nepoužiješ. Na políčko s příšerou nemůžeš vstoupit, dokud ji neporazíš.
 
@@ -146,7 +146,7 @@ X: Je běžné použít jednu zbraň s kouzlem tvrdosti nebo dvě různé zbran�
 
 H: Místní už si o tobě začínají šeptat.
 
-## A2 - Fáze odpočinku (v pokoji)
+## Fáze tahu 1b - Odpočinek (v pokoji)
 
 Pokud se nemůžeš nebo nechceš posunout, odpočíváš (v pokoji). Povinně zahoď z ruky všechny své zbylé zbraně. Odpočívej tam, kde jsi, nebo se přesuň na libovolné políčko start. S tebou odpočívají i příšery, takže se teď na mapu doplní žetony příšer.
 
@@ -168,7 +168,7 @@ X: Nikdy nedávej nové příšery na hrad, start, vesnici, skálu nebo teleport
 
 X: Nikdy nedávej novou příšeru na pole kde stojí nějaký hrdina.
 
-## B - Fáze nákupu (byl jsi ve vesnici nebo ve věži?)
+## Fáze tahu 2 - nákup (byl jsi ve vesnici nebo ve věži?)
 
 Ve věži a ve vesnici můžeš získat nové kouzlo, ve vesnici navíc i kartu úkolu. Ať už se pohybuješ, nebo odpočíváš, pokud jsi přišel na takové pole, prošel přes něj nebo na něm odpočíváš, tak tam teď nakup.
 
@@ -193,7 +193,7 @@ X: Z veřejné nabídky můžeš tedy odstranit až dvě karty úkolů.
 
 X: Na počet předmětů ani karet úkolů v ruce není žádný limit, můžeš jich mít, kolik chceš.
 
-## C - Fáze dobrání karet zbraní
+## Fáze tahu 3 - Dobrání karet zbraní
 
 Teď si dober nové zbraně. Vždy tak, abys měl na ruce dvě. První zbraň ber z hromádky zbraní podle pravidel políčka mapy. Co máš na výběr je nakreslené přímo na políčku mapy. Pokud ti chybí i druhá zbraň, tak si ji dober z libovolné hromádky zbraní bez omezení.
 
@@ -209,7 +209,7 @@ Na konci tahu také musíš zahodit nadbytečné trofeje. Můžeš si nechat max
 
 H: Nikdo s sebou netahá všechno a nikoho nezajímá, co jsi zapíchnul před půl rokem.
 
-## D - Fáze plnění úkolů
+## Fáze tahu 4 - Plnění úkolů
 
 Teď, když máš akci za sebou, podívej se na nabízené úkoly a vyhodnoť, zda jsi něco splnil. Najednou můžeš splnit kolik úkolů chceš. Ale vybírat můžeš jen z veřejné nabídky, ze svých osobních úkolů na ruce, svého vysněného povolání a karty Jsem EPIC. Každý splněný úkol vylož před sebe. Má stejnou hodnotu jako žeton slávy. Když vyložíš splněné úkoly, doplň z dobírací hromádky nabídku úkolů pro dalšího hrdinu, aby tam byly opět tři. Tím tvůj tah skončil.
 
@@ -254,7 +254,7 @@ Pro úkol **"zažeň ke skále"** je potřeba, abys stál vedle příšery a tě
 
 X: Ještě jednou, ať to je naprosto jasné: Úkoly plníš až na konci kola, počítá se tvoje pozice na mapě na konci kola. To, že jsi někudy proběhl nebo tam začínal, se prostě nepočítá.
 
-## E - Vítězství?
+## Fáze tahu 5 - Vítězství?
 
 Jakmile dosáhneš potřebného množství slávy, vyhráváš. Žádné dohrávání kola ani podobné nesmysly. Kdo první, ten první. A kolik je potřebné množství slávy? To záleží na tom, kolik vás hraje.
 
