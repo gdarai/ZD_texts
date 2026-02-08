@@ -121,7 +121,7 @@
 
 | **Kazatel v zářící zbroji (cxU)** |
 |:--:|
-| Zbroj v temnu září,<br>kladivo trestá a drtí,<br>až ráno přinese tvůj klid. |
+| Zbroj v temnu září,<br>kladivo trestá a drtí,<br>věčný klid se k tobě vrátí. |
 
 </p>
 <p align="center">

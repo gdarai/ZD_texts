@@ -32,7 +32,7 @@
 
 | **Hvězdný oheň** |
 |:--:|
-| Jiskra zhaslých světů,<br>žár uvězněný v hrudi,<br>tmu prořízne světlo,<br>všechno se hroutí. |
+| Jiskra padlé hvězdy,<br>žár dýchá v kleci,<br>tmu prořízne světlo,<br>nikdo nezvládne utéci. |
 
 </p>
 
@@ -72,7 +72,7 @@
 
 | **Měsíční záře** |
 |:--:|
-| Led vrostlý do trnu,<br>stíny se vrství v koutech,<br>záře tříští prostor,<br>tep času zamrzá. |
+| Led ukrytý v trnu,<br>stíny tančí nocí,<br>záře roztrhne tmu,<br>tep času zamrzá. |
 
 </p>
 
@@ -172,7 +172,7 @@
 
 | **Hromový úder** |
 |:--:|
-| Blesk se ze náhle zjeví,<br>hrom zazní jako zpěv,<br>palice se uklání<br>a úder propustí hněv. |
+| Blesk se ze tmy zjeví,<br>hrom zazní jako zpěv,<br>palice se uklání<br>a úder propustí hněv. |
 
 </p>
 
