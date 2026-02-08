@@ -62,7 +62,7 @@
 
 | **Hromobijec** |
 |:--:|
-| Hrom láme zem,<br>hrot diktuje směr,<br>stvůry se hroutí<br>do chřtánu hlubin. |
+| Hrom otřese zemí,<br>hrot udává směr,<br>stvůry se hroutí<br>do chřtánu hlubin. |
 
 </p>
 
@@ -122,7 +122,7 @@
 
 | **Hadí zub** |
 |:--:|
-| Jako had jsem úskočný,<br>před jedovatým šípem,<br>nepřijde varování<br>a zakousne se znenadání. |
+| Jako had jsem úskočný,<br>před tichým šípem,<br>nepřijde varování<br>a zakousne se znenadání. |
 
 </p>
 
