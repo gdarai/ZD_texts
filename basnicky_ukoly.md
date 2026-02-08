@@ -93,7 +93,7 @@
 
 | **Pokořitel licha (xUU)** |
 |:--:|
-| Ohnivým šípem srdce zasáhnu,<br>lich padá k zemi,<br>ticho se snáší na krajinu. |
+| Ohnivým šípem srdce zasáhnu,<br>lich padá k zemi,<br>ticho klesá na krajinu. |
 
 </p>
 <p align="center">
