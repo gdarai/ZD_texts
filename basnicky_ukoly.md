@@ -100,7 +100,7 @@
 
 | **Kat čaroděje (xHH)** |
 |:--:|
-| Ocel tmou bleskla,<br>mág klečí v krvi,<br>dozněl jeho smích.  |
+| Ocel se leskla v mžik,<br>mág klečí v krvi,<br>dozněl jeho smích.  |
 
 </p>
 <p align="center">
