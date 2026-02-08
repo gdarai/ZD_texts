@@ -182,7 +182,7 @@
 
 | **Krvavý měsíc** |
 |:--:|
-| Vzplane rudé světlo,<br>luna se napije krve,<br>do tmy směle vkročím,<br>nad černí teď vládnu. |
+| Vzplane rudé světlo,<br>luna se napije krve,<br>do tmy směle vkročím,<br>nad nocí teď vládnu. |
 
 </p>
 
@@ -202,7 +202,7 @@
 
 | **Zkázonoš** |
 |:--:|
-| Ocel propletená runou,<br>nesmírná je síla slov,<br>moudrost a umění války<br>vše ve zmar obrátí. |
+| Ocel a pradávné runy,<br>nesmírná je síla slov,<br>moudrost a umění války<br>vše ve zmar obrátí. |
 
 </p>
 
