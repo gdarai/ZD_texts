@@ -172,7 +172,7 @@
 
 | **Hromový úder** |
 |:--:|
-| Blesk se ze náhle zjeví,<br>hrom zazní jako zpěv,<br>palice se uklání<br>a úder propustí hněv. |
+| Blesk se ze tmy zjeví,<br>hrom zazní jako zpěv,<br>palice se uklání<br>a úder propustí hněv. |
 
 </p>
 
