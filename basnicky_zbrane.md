@@ -162,7 +162,7 @@
 
 | **Půlnoční stín** |
 |:--:|
-| Volám tě, stíne,<br>přines mi sílu,<br>klid mé duše<br>vykoupím krví. |
+| Volám tě, stíne,<br>přines mi sílu,<br>klid své duše<br>vykoupím krví. |
 
 </p>
 
