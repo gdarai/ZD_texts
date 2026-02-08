@@ -32,7 +32,7 @@
 
 | **Hvězdný oheň** |
 |:--:|
-| Jiskra zhaslých světů,<br>žár uvězněný v hrudi,<br>tmu prořízne světlo,<br>všechno se tříští. |
+| Jiskra zhaslých světů,<br>žár uvězněný v hrudi,<br>tmu prořízne světlo,<br>všechno se hroutí. |
 
 </p>
 
@@ -112,7 +112,7 @@
 
 | **Pableskující čepel** |
 |:--:|
-| Runy spletené z mrazu,<br>zpečetěné na věčnost,<br>jen stíny a můj dech,<br>sám si krájím cestu vpřed. |
+| Paprsek spletený do run,<br>zpečetěný na věčnost,<br>jen stíny a můj dech,<br>sám si píšu svůj osud. |
 
 </p>
 
