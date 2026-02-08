@@ -30,7 +30,7 @@
 
 | **Strážce brány (AUH)** |
 |:--:|
-| Démon nemá u mě šanci,<br>zpět do ohně rodného,<br>posílám ho k tanci. |
+| Démon přec má u mě šanci,<br>zpět do ohně rodného,<br>posílám ho k tanci. |
 
 </p>
 <p align="center">
