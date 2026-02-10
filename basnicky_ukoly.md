@@ -30,21 +30,21 @@
 
 | **Strážce brány (AUH)** |
 |:--:|
-| Démon přec má u mě šanci,<br>zpět do temnot rodného ohně,<br>směrem já ho pošlu k tanci. |
+| Démon přec má u mě šanci,<br>zpět do ohně rodného,<br>posílám ho k tanci. |
 
 </p>
 <p align="center">
 
 | **Ochránce zvířat (UHD)** |
 |:--:|
-| Střežím fauny klid,<br>příroda není zlo,<br>žij a nech je žít. |
+| Střežím fauny klid,<br>příroda není zlo,<br>žij a nech žít. |
 
 </p>
 <p align="center">
 
 | **Průvodce minulostí (AHD)** |
 |:--:|
-| Knihy mi šeptají dávné příběhy,<br>rok za rokem tiše vypráví,<br>ztraceny ve stínech temnoty. |
+| Šepty starých knih,<br>příběhy dávné vypráví,<br>prachem času zaváté. |
 
 </p>
 <p align="center">
@@ -58,28 +58,28 @@
 
 | **Alfa celé smečky (AxA)** |
 |:--:|
-| Kroky s šelmou v horách znějí,<br>smečku vedu sněhem a tmou,<br>svahy pod námi se chvějí. |
+| Kroky šelem horami znějí,<br>smečku vedu sněhem a mlhou,<br>svahy pod námi se chvějí. |
 
 </p>
 <p align="center">
 
 | **Plenitel nemrtvých (UxU)** |
 |:--:|
-| Stíny padnou, duchové prchnou,<br>přináším konečnou zkázu všude,<br>kde nohy mé vpřed se pohnou. |
+| Stíny padnou, duchové prchnou,<br>přináším konečnou zkázu všude,<br>kam nohy mé se pohnou. |
 
 </p>
 <p align="center">
 
 | **Krotitel magie (HxH)** |
 |:--:|
-| Meč skřípe v tichu kouzel noci,<br>jsem ochránce, věčný strážce,<br>svatyně s tajemnou mocí. |
+| Čepel píše vzkaz,<br>jsem ochránce svatyně,<br>v níž zamrzl čas. |
 
 </p>
 <p align="center">
 
 | **Vůdce tlupy (DxD)** |
 |:--:|
-| Následuj mě plamenem noci,<br>jsem držitel pradávné moci. |
+| Projdi výhní zlou,<br>jsem první stín, co v boji dlí,<br>tlupu vedu tmou.  |
 
 </p>
 <p align="center">
@@ -93,14 +93,14 @@
 
 | **Pokořitel licha (xUU)** |
 |:--:|
-| Ohnivým lukem k srdci,<br>zasáhnu - A lich padá<br>pak ticho se snáší na krajinu. |
+| Ohnivým šípem srdce zasáhnu,<br>lich padá k zemi,<br>ticho klesá na krajinu. |
 
 </p>
 <p align="center">
 
 | **Kat čaroděje (xHH)** |
 |:--:|
-| Mečem protnu temnou noc,<br>čaroděj už ztratil moc. |
+| Ocel se leskla v mžik,<br>mág klečí v krvi,<br>dozněl jeho smích.  |
 
 </p>
 <p align="center">
@@ -121,7 +121,7 @@
 
 | **Kazatel v zářící zbroji (cxU)** |
 |:--:|
-| Kladivo v rukou boří smrti val,<br>do rána bude po všem.<br>Mezi náhrobky šířím jeho žár. |
+| Zbroj v temnu září,<br>kladivo trestá a drtí,<br>věčný klid se k tobě vrátí. |
 
 </p>
 <p align="center">
@@ -156,14 +156,14 @@
 
 | **Lovec odměn (xHr)** |
 |:--:|
-| Psance čeká brzký pád,<br>ve dne v noci<br>za žold lovím tuze rád. |
+| Psance čeká brzký pád,<br>ve dne, v noci,<br>za žold lovím tuze rád. |
 
 </p>
 <p align="center">
 
 | **Vymítač démonů (xDr)** |
 |:--:|
-| Na démony dlouhý bič,<br>s právem po boku.<br>Zlo odejde navždy pryč. |
+| Na démony dlouhý bič,<br>s právem po boku,<br>zlo odejde navždy pryč. |
 
 </p>
 

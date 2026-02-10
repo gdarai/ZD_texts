@@ -12,7 +12,7 @@
 
 | **Krvavý trn** |
 |:--:|
-| Trn hledá srdce,<br>touží bodnout hlouběji,<br>rudý opar zastře zrak,<br>do noci se směji. |
+| Trn hledá srdce,<br>touží bodnout hlouběji,<br>rudý opar zastře zrak,<br>do prázdna se směji. |
 
 </p>
 
@@ -22,7 +22,7 @@
 
 | **Okraj bouře** |
 |:--:|
-| Ledový vítr,<br>šíp mizí v mlze,<br>mraky z oceli<br>rozetnou blesky. |
+| Ledový vítr,<br>šíp mizí v mlze,<br>ocelová mračna<br>blesk rozsekl v půli. |
 
 </p>
 
@@ -42,7 +42,7 @@
 
 | **Střep beznaděje** |
 |:--:|
-| Křehký je osud,<br>když shoří naděje,<br>ticho se vytratí<br>a srdce se vzdá. |
+| Křehký je osud,<br>když shoří naděje,<br>vše se vytratí,<br>pak srdce se vzdá. |
 
 </p>
 
@@ -52,7 +52,7 @@
 
 | **Kopí hrůzy** |
 |:--:|
-| Všepohltcující hrůza,<br>zrychlí dech a sváže mysl.<br>Odvaha ve mě vzrůstá,<br>zastaví démonů běh. |
+| Všepohltcující je hrůza,<br>zrychlí dech a sváže mysl,<br>odvaha ve mě vzrůstá,<br>zastaví démonů běh. |
 
 </p>
 
@@ -62,7 +62,7 @@
 
 | **Hromobijec** |
 |:--:|
-| Hrom otřese zemí,<br>hrot udává směr boje.<br>Zrůdy se zaženou<br>do hlubin, kam patří. |
+| Hrom otřese zemí,<br>hrot udává směr,<br>stvůry se hroutí<br>do chřtánu hlubin. |
 
 </p>
 
@@ -72,7 +72,7 @@
 
 | **Měsíční záře** |
 |:--:|
-| Led ukrytý v trnu,<br>stíny tančí nocí,<br>záře roztrhne tmu,<br>a čas se zastaví. |
+| Led ukrytý v trnu,<br>stíny tančí nocí,<br>záře roztrhne tmu,<br>tep času zamrzá. |
 
 </p>
 
@@ -112,7 +112,7 @@
 
 | **Pableskující čepel** |
 |:--:|
-| Runy spletené z ticha,<br>zpečetěné na věčnost,<br>jen stíny a tvůj dech,<br>sám si píšu svůj osud. |
+| Paprsek spletený do run,<br>zpečetěný na věčnost,<br>jen stíny a můj dech,<br>sám si píšu svůj osud. |
 
 </p>
 
@@ -122,7 +122,7 @@
 
 | **Hadí zub** |
 |:--:|
-| Jak had jsem úskočný,<br>před tichým šipem<br>nepřijde varování<br>- zakousne se znenadání. |
+| Jako had jsem úskočný,<br>před tichým šípem,<br>nepřijde varování<br>a zakousne se znenadání. |
 
 </p>
 
@@ -132,7 +132,7 @@
 
 | **Propast nicoty** |
 |:--:|
-| Volání hlubin,<br>jsoucno se tříští,<br>život se láme,<br>mrtvo na bojišti. |
+| Volání hlubin,<br>jsoucno se tříští,<br>život se láme,<br>mrtvo je na bojišti. |
 
 </p>
 
@@ -152,7 +152,7 @@
 
 | **Nebeský palcát** |
 |:--:|
-| Slyš oslavnou hymnu,<br>chorál zní k výšinám.<br>Pozvedni svoji zbraň,<br>nemrtví mizí v bázni. |
+| Slyš oslavnou hymnu,<br>chorál zní k výšinám,<br>pozvedni svoji zbraň,<br>nemrtví mizí v bázni. |
 
 </p>
 
@@ -162,7 +162,7 @@
 
 | **Půlnoční stín** |
 |:--:|
-| Volám tě, stíne,<br>přines mi sílu.<br>Klid své duše<br>vykoupím krví. |
+| Volám tě, stíne,<br>přines mi sílu,<br>klid své duše<br>vykoupím krví. |
 
 </p>
 
@@ -172,7 +172,7 @@
 
 | **Hromový úder** |
 |:--:|
-| Blesk se ze tmy zjeví,<br>hrom zazní jak zpěv,<br>palice se uklání<br>a úder propustí hněv. |
+| Blesk se ze tmy zjeví,<br>hrom zazní jako zpěv,<br>palice se uklání<br>a úder propustí hněv. |
 
 </p>
 
@@ -182,7 +182,7 @@
 
 | **Krvavý měsíc** |
 |:--:|
-| Vzplane rudé světlo.<br>Luna se napije krve,<br>do tmy směle vkročim,<br>nad nocí teď vládnu. |
+| Vzplane rudé světlo,<br>luna se napije krve,<br>do tmy směle vkročím,<br>nad nocí teď vládnu. |
 
 </p>
 
@@ -192,7 +192,7 @@
 
 | **Rozbíječ snů** |
 |:--:|
-| Ve tmě zazáří,<br>krev hučí v kameni,<br>strach se zhmotní,<br>přede mnou není úkrytu. |
+| Ve slepé hodině zazářím,<br>v kameni pulzuje krev,<br>strach se zhmotní,<br>přede mnou není úkrytu. |
 
 </p>
 
@@ -202,7 +202,7 @@
 
 | **Zkázonoš** |
 |:--:|
-| Ocel a pradávné runy,<br>nesmírná je síla slov,<br>moudrost a umění války<br>vše v prach obrátí. |
+| Ocel a pradávné runy,<br>nesmírná je síla slov,<br>moudrost a umění války<br>vše ve zmar obrátí. |
 
 </p>
 
