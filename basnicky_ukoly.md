@@ -107,7 +107,7 @@
 
 | **Vyzyvatel Balroga (xDD)** |
 |:--:|
-| Láva i oheň ustoupí mému kroku,<br>s palcátem čelím každému soku. |
+| Láva i oheň ustoupí mému kroku,<br>s odvahou čelím každému soku. |
 
 </p>
 <p align="center">
@@ -142,7 +142,7 @@
 
 | **Štváč kořisti (xAr)** |
 |:--:|
-| Na svém oři statečně se ženu,<br>úderem silným pak protnu kořist,<br>konečně přichází čas se najíst. |
+| Na svém oři statečně se ženu,<br>šípem přesným skolím kořist,<br>konečně přichází čas se najíst. |
 
 </p>
 <p align="center">
