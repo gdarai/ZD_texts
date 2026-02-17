@@ -122,7 +122,7 @@
 
 | **Hadí zub** |
 |:--:|
-| Jako had jsem úskočný,<br>před tichým šípem,<br>nepřijde varování<br>a zakousne se znenadání. |
+| Jako had jsem úskočný,<br>před tichým šípem,<br>nepřijde varování<br>a uštkne znenadání. |
 
 </p>
 
