@@ -288,6 +288,7 @@ X: Ještě jednou, ať to je naprosto jasné: Úkoly plníš až na konci kola, 
 
 ## Fáze tahu 5 - Vítězství? (delka 3)
 == Mozna by to slo zkratit tak, ze nebudes popisovat ty moznosti, jaky zvolit format hry. To by totiz mohla byt samostatna kapitola, ktera neni potreba k pochopeni, jak se to hraje.
+==  "Ano, to znamená, že vedle jiného hráče musí být příšera" Je zavádějící, může tam být i prázdné pole.
 
 Jakmile dosáhneš potřebného množství slávy, vyhráváš. Žádné dohrávání kola ani podobné nesmysly. Kdo první, ten první. A kolik je potřebné množství slávy? To záleží na tom, kolik vás hraje.
 

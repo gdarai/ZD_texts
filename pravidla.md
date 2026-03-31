@@ -1,6 +1,6 @@
 # Jen buď EPIC
 
-2025/12
+2026/03
 
 Kompetitivní hra o boji s příšerami pro 2 - 4 hráče.
 
