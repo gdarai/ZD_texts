@@ -256,6 +256,9 @@ X: Mezi vámi nikdy nesmí být hřeben hor.
 
 ![DOVOLENÉ A ZAKÁZANÉ PŘÍPADY 1](rulesImg/13_oUkolu_1.PNG)
 ![DOVOLENÉ A ZAKÁZANÉ PŘÍPADY 2](rulesImg/13_oUkolu_2.PNG)
+![DOVOLENÉ A ZAKÁZANÉ PŘÍPADY 3](rulesImg/13_oUkolu_3.PNG)
+![DOVOLENÉ A ZAKÁZANÉ PŘÍPADY 4](rulesImg/13_oUkolu_4.PNG)
+![DOVOLENÉ A ZAKÁZANÉ PŘÍPADY 5](rulesImg/13_oUkolu_5.PNG)
 
 Pro úkol **"stůj mezi"** potřebujete stát mezi vyobrazenými příšerami.
 
