@@ -365,6 +365,6 @@ H: Copak v tom balíčku luků není jedinej luk?!
 
 H: Když budu kouzlem vábení pořád lákat příšery do vesnice, určitě budu brzy velmi slavná.
 
-H: Nechali ste mi jen jedinou zbraň lumpové, ale já ten hrad stejně dobiju, ona je to totiž tvrdá bomba!
+H: Nechali jste mi jen jedinou zbraň lumpové, ale já ten hrad stejně dobiju, ona je to totiž tvrdá bomba!
 
 H: Neuvěříte, co jsem dneska viděl. Proběhla tudy barbarská válečnice. Šel jí kouř z uší, rozbila si meč o výlohu v obchodě s kouzelnými předměty, a tak se chopila obrovského kladiva a s křikem běžela dál, kamsi za humna.
