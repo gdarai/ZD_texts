@@ -28,7 +28,7 @@ Střídáte se v tazích. Karty kouzelných předmětů a legendárních zbraní
 
 ## Od zbraně k příšeře
 
-Ve hře EPIC je každá zbraň určená k poražení konkrétní příšery. Co na koho platí, si nemusíte pamatovat, je to na rubu dobíracích balíčků zbraní. Pátou zbraní ve hře jsou bomby. Ty působí na všechny příšery bez rozdílu.
+Ve hře EPIC je každá zbraň určená k poražení konkrétního druhu příšery. Co na koho platí, si nemusíte pamatovat, je to na rubu dobíracích balíčků zbraní. Pátou zbraní ve hře jsou bomby. Ty působí na všechny příšery bez rozdílu.
 
 X: I na líci každé dobrané zbraně vidíš, na které příšery platí.
 
@@ -52,7 +52,7 @@ Vyberte začínajícího hráče. Bude mít oproti ostatním malou výhodu, prot
 
 ![ZÁKLADNÍ A SPECIÁLNÍ DÍLKY MAPY](rulesImg/05_dilkyMapy.PNG)
 
-Velitel mapy vezme 5 speciálních dílků (hrad, dvě skály a dva starty) a odloží je stranou. Zbytek dílků zamíchá. Speciální dílky rozloží podle obrázku mapy. Z ostatních dílků postaví vybraný tvar. Dílky pokládá lícem nahoru a při pokládání je každý náhodně otočí. Podívejte se, jak jsou umístěné hřebeny hor, a zkontrolujte, zda není nějaké pole zcela nedostupné. Chodí se vodorovně a svisle, a přes hory chodit nejde. Pokud se na nějaký dílek nedá dojít od startu nebo teleportu, je třeba to napravit. Velitel mapy vybere, který dílek se v takovém případě pootočí. Pak přidejte miniatury skal a hor.
+Velitel mapy vezme 5 speciálních dílků (hrad, dvě skály a dva starty) a odloží je stranou. Zbytek dílků zamíchá. Speciální dílky rozloží podle obrázku mapy. Z ostatních dílků postaví vybraný tvar. Dílky pokládá lícem nahoru a při pokládání je každý náhodně otočí o 0, 90, 180 nebo 270 stupňů. Podívejte se, jak jsou umístěné hřebeny hor, a zkontrolujte, zda není nějaké pole zcela nedostupné. Chodí se vodorovně a svisle, a přes hory chodit nejde. Pokud se na nějaký dílek nedá dojít od startu nebo teleportu, je třeba to napravit. Velitel mapy vybere, který dílek se v takovém případě pootočí. Pak přidejte miniatury skal a hor.
 
 X: Hru připravujete všichni společně, ale při stavbě mapy rozhoduje velitel mapy.
 
@@ -78,7 +78,7 @@ Každý si doberte jednu kartu úkolu a jednu kartu předmětu. Poté si postupn
 
 H: Cesta za slávou je trnitá. Doufám, že už teď víš, že luk na kostlivce nefunguje.
 
-X: Druhou zbraň se často vyplatí si brát, až když víš co sis doopravdy vytáhl jako tu první.
+X: Brát si druhou zbraň se často vyplatí teprve, až když víš, jakou zbraň sis vytáhl jako tu první.
 
 ![UKÁZKOVÁ POČÁTEČNÍ RUKA](rulesImg/07_ruka.PNG)
 
@@ -94,9 +94,9 @@ H: Jde o vítězné body. Ideálně si vyber příšeru, která má u sebe také
 
 **Zaútočte a získejte odměnu**. Zbraň odhoďte. Posuňte svou figurku na dobyté pole. Vezměte si poraženou příšeru jako trofej a její vítězný bod si položte před sebe.
 
-H: Když v ruce držíš palici a na sousedním poli vidíš nemrtvého (žlutý žeton, na ně jsou palice určené). Zahodíš palici, přesuneš se na jeho pole a vezmeš si vítězný bod i žeton nemrtvého jako trofej.
+H: Když v ruce držíš palici a na sousedním poli vidíš nemrtvého (žlutý žeton, na ně jsou palice určené), zahodíš palici, přesuneš se na jeho pole a vezmeš si vítězný bod a žeton nemrtvého jako trofej.
 
-**Nakupte karty**. Přišli jste do vesnice nebo do věže? Pak teď můžete nakoupit karty úkolů a předmětů. Těchto karet můžete mít na ruce, narozdíl od zbraní, kolik chcete.
+**Nakupte karty**. Přišli jste do vesnice nebo do věže? V takovém případě si můžete nabrat karty úkolů a předmětů (vždy po jedné kartě). Těchto karet totiž můžete mít na ruce, narozdíl od zbraní, kolik chcete.
 
 **Doberte zbraň**. Vyberte si zbraň podle toho, co je nakreslené na poli mapy, na které jste vstoupili. Doberte si kartu z příslušného balíčku. Dobíráte vždy do dvou zbraní na ruce.
 
