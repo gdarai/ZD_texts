@@ -28,7 +28,7 @@ Střídáte se v tazích. Karty kouzelných předmětů a legendárních zbraní
 
 ## Od zbraně k příšeře
 
-Ve hře EPIC je každá zbraň určená k poražení konkrétní příšery. Co na koho platí, si nemusíte pamatovat, je to na rubu dobíracích balíčků zbraní. Pátou zbraní ve hře jsou bomby. Ty působí na všechny příšery bez rozdílu.
+Ve hře EPIC je každá zbraň určená k poražení konkrétního druhu příšery. Co na koho platí, si nemusíte pamatovat, je to na rubu dobíracích balíčků zbraní. Pátou zbraní ve hře jsou bomby. Ty působí na všechny příšery bez rozdílu.
 
 X: I na líci každé dobrané zbraně vidíš, na které příšery platí.
 
@@ -52,7 +52,7 @@ Vyberte začínajícího hráče. Bude mít oproti ostatním malou výhodu, prot
 
 ![ZÁKLADNÍ A SPECIÁLNÍ DÍLKY MAPY](rulesImg/05_dilkyMapy.PNG)
 
-Velitel mapy vezme 5 speciálních dílků (hrad, dvě skály a dva starty) a odloží je stranou. Zbytek dílků zamíchá. Speciální dílky rozloží podle obrázku mapy. Z ostatních dílků postaví vybraný tvar. Dílky pokládá lícem nahoru a při pokládání je každý náhodně otočí. Podívejte se, jak jsou umístěné hřebeny hor, a zkontrolujte, zda není nějaké pole zcela nedostupné. Chodí se vodorovně a svisle, a přes hory chodit nejde. Pokud se na nějaký dílek nedá dojít od startu nebo teleportu, je třeba to napravit. Velitel mapy vybere, který dílek se v takovém případě pootočí. Pak přidejte miniatury skal a hor.
+Velitel mapy vezme 5 speciálních dílků (hrad, dvě skály a dva starty) a odloží je stranou. Zbytek dílků zamíchá. Speciální dílky rozloží podle obrázku mapy. Z ostatních dílků postaví vybraný tvar. Dílky pokládá lícem nahoru a při pokládání je každý náhodně otočí o 0, 90, 180 nebo 270 stupňů. Podívejte se, jak jsou umístěné hřebeny hor, a zkontrolujte, zda není nějaké pole zcela nedostupné. Chodí se vodorovně a svisle, a přes hory chodit nejde. Pokud se na nějaký dílek nedá dojít od startu nebo teleportu, je třeba to napravit. Velitel mapy vybere, který dílek se v takovém případě pootočí. Pak přidejte miniatury skal a hor.
 
 X: Hru připravujete všichni společně, ale při stavbě mapy rozhoduje velitel mapy.
 
@@ -78,7 +78,7 @@ Každý si doberte jednu kartu úkolu a jednu kartu předmětu. Poté si postupn
 
 H: Cesta za slávou je trnitá. Doufám, že už teď víš, že luk na kostlivce nefunguje.
 
-X: Druhou zbraň se často vyplatí si brát, až když víš co sis doopravdy vytáhl jako tu první.
+X: Brát si druhou zbraň se často vyplatí teprve, až když víš, jakou zbraň sis vytáhl jako tu první.
 
 ![UKÁZKOVÁ POČÁTEČNÍ RUKA](rulesImg/07_ruka.PNG)
 
@@ -94,15 +94,15 @@ H: Jde o vítězné body. Ideálně si vyber příšeru, která má u sebe také
 
 **Zaútočte a získejte odměnu**. Zbraň odhoďte. Posuňte svou figurku na dobyté pole. Vezměte si poraženou příšeru jako trofej a její vítězný bod si položte před sebe.
 
-H: Když v ruce držíš palici a na sousedním poli vidíš nemrtvého (žlutý žeton, na ně jsou palice určené). Zahodíš palici, přesuneš se na jeho pole a vezmeš si vítězný bod i žeton nemrtvého jako trofej.
+H: Když v ruce držíš palici a na sousedním poli vidíš nemrtvého (žlutý žeton, na ně jsou palice určené), zahodíš palici, přesuneš se na jeho pole a vezmeš si vítězný bod a žeton nemrtvého jako trofej.
 
-**Nakupte karty**. Přišli jste do vesnice nebo do věže? Pak teď můžete nakoupit karty úkolů a předmětů. Těchto karet můžete mít na ruce, narozdíl od zbraní, kolik chcete.
+**Nakupte karty**. Přišli jste do vesnice nebo do věže? V takovém případě si můžete nabrat karty úkolů a předmětů (vždy po jedné kartě). Těchto karet totiž můžete mít na ruce, narozdíl od zbraní, kolik chcete.
 
 **Doberte zbraň**. Vyberte si zbraň podle toho, co je nakreslené na poli mapy, na které jste vstoupili. Doberte si kartu z příslušného balíčku. Dobíráte vždy do dvou zbraní na ruce.
 
 **Zkontrolujte úkoly**. Pokud splňujete podmínky některého z úkolů (například máte potřebné trofeje), můžete si ho vyložit před sebe.
 
-**Konec tahu**. Pokud se uvolnilo místo ve veřejné nabídce úkolů, doplňte ji na tři karty. Tím tah jednoho hráče končí. Zkontrolujte kolik máte vítězných bodů a splněných úkolů. Jejich součet je vaše skóre, viz "Fáze tahu 5 - Vítězství?". Pokud tím hráč ještě nevyhrál, pokračuje hra tahem dalšího hráče.
+**Konec tahu**. Pokud se uvolnilo místo ve veřejné nabídce úkolů, doplňte ji na tři karty. Tím tah jednoho hráče končí. Zkontrolujte, kolik máte vítězných bodů a splněných úkolů. Jejich součet je vaše skóre, viz "Fáze tahu 5 - Vítězství?". Pokud v tento moment hráč ještě nevyhrál, pokračuje hra tahem dalšího hráče.
 
 ![FÁZE TAHU JEDNOHO HRÁČE](rulesImg/08_fazeTahu.PNG)
 
@@ -118,17 +118,17 @@ X: Zbraň zahazuješ, i když jdeš na pole, kde žádná příšera není nebo 
 
 X: Ostatní hrdinové tě v pohybu nijak neomezují. Klidně s nimi můžeš být na stejném poli.
 
-**Pole start** je místo, kde máte svůj stan. Příšery se na to místo bojí, když se umisťují příšery tak na start je nedávejte.
+**Pole start** je místo, kde máte svůj stan. Příšery se na toto místo bojí, když se umisťují příšery tak na start je nedávejte.
 
 X: Na každé pole, kde můžete stát, tedy i sem, můžete přivolat příšeru kouzlem vábení.
 
-**Pole vesnice**, zde bydlí místní. Příšery se do vesnice neumisťují, ale hráči tu jsou vítaní. Je tu řada krámů, které můžete navštívit, viz "Fáze tahu 2 - Nákup".
+**Pole vesnice** je místo, kde bydlí místní. Příšery se do vesnice neumisťují, ale hráči tu jsou vítaní. Je tu řada krámů, které můžete navštívit, viz "Fáze tahu 2 - Nákup".
 
 **Pole věž** má ukrytou truhlu s kouzelným předmětem. Příšera tu sice je, ale když se jí zbavíte, můžete truhlu prozkoumat, viz "Fáze tahu 2 - Nákup".
 
 ![SKÁLA, HŘEBEN HOR, TELEPORT](rulesImg/09_mapaSpecial.PNG)
 
-**Pole teleport** je výjimečné. Na něm nemůžete nikdy stát a nikdy na něm není příšera. Když stojíte vedle teleportu, je to, jako byste stáli vedle všech polí, sousedících se kterýmkoliv teleportem na mapě. Jako by ta pole byla hned vedle sebe. I tady nesmíte jít přes hřeben hor.
+**Pole teleport** je výjimečné. Na něm nemůžete nikdy stát a nikdy na něm není příšera. Když stojíte vedle teleportu, je to, jako byste stáli vedle všech polí, sousedících se kterýmkoliv teleportem na mapě. Jako by ta pole byla hned vedle sebe. Na teleport (a ani z něj) nesmíte jít přes hřeben hor.
 
 X: Projít teleportem je jako normální krok na sousední pole mapy. Odevzdáváš jednu zbraň podle příšery na poli, kam jdeš.
 
@@ -150,11 +150,13 @@ X: To znamená, že na hrad můžeš pouze, pokud máš zbraně na poražení ob
 
 X: Je běžné použít jednu zbraň s kouzlem tvrdosti nebo dvě různé zbraně.
 
+X: Kouzlo vábení lze použít i na příšery z hradu. Během hry tedy nemusí platit, že na hradě jsou před jeho dobytím vždy dvě příšery.
+
 ## Fáze tahu 1B - Odpočinek
 
 Pokud se nemůžete nebo nechcete pohnout po mapě, **odpočíváte** (v pokoji). Nejprve zahoďte z ruky všechny své zbývající zbraně.
 
-Když odpočíváte vy, odpočívají i příšery. Doplňte na všechna volná pole mapy novou, náhodně vylosovanou příšeru z váčku. Nedoplňujte je na hrad, start, vesnici, teleport nebo skálu, a také ne na místa, kde stojí figurky hrdinů. Losování provádí jako odměnu odpočívající hrdina, ale může ho delegovat, pokud je někdo ochotný pomoci. Na nové příšery už nedávejte vítězné body.
+Když odpočíváte vy, odpočívají i příšery. Doplňte na všechna volná pole mapy novou, náhodně vylosovanou příšeru z váčku. Nedoplňujte je na hrad, start, vesnici, teleport nebo skálu, a také vynechte místa, kde stojí figurky hrdinů. Losování provádí odpočívající hrdina, ale může ho delegovat, pokud je někdo ochotný pomoci. Na nové příšery už nedávejte vítězné body.
 
 Když jsou příšery doplněny, vyberte si, kde chcete odpočívat a ihned se tam přesuňte. Buď zůstaňte tam, kde jste byli, nebo se přesuňte na libovolné pole start.
 
@@ -164,7 +166,7 @@ X: Odpočívat můžeš i dobrovolně.
 
 H: Nové příšery jsou nové, žádná sláva za ně nebude. Proto nemají vítězný bod.
 
-H: Na hradě už jsi to vymlátil. Teď se tam příšery bojí.
+H: Na hradě už jsi to vymlátil, teď se tam příšery bojí.
 
 X: Nikdy nedávej nové příšery na hrad, start, vesnici, skálu nebo teleport. (Kromě hradu je na nich nakreslená ikonka.)
 
@@ -190,7 +192,7 @@ H: Jsou i tací, co si vesnici tak zalíbí, že si tam i další den v hostinci
 - Jednu kartu z vyložené nabídky úkolů zahoďte na odhazovací balíček.
 - Jednu kartu z vyložené nabídky úkolů, nebo nově dobranou, si vezměte na ruku jako svůj další osobní úkol.
 
-H: Za poflakování po hospodách sláva není, jsi hrdina, a ne bard. Ale dají se tu doplnit zásoby.
+H: Za poflakování po hospodách sláva není, jsi hrdina, ne bard. Ale dají se tu doplnit zásoby.
 
 H: A hele, vývěska "Hledá se hrdina". Tenhle letáček ostatní vidět nemusí, vezmu si ho, děkuji.
 
@@ -204,13 +206,13 @@ Teď si doberte nové zbraně, abyste měli na ruce vždy dvě. První berte z b
 
 X: Pokud ti nechybí žádná zbraň, nedobírej si žádnou.
 
-X: Pokud vám některý dobírací balíček došel, tak už hrajete opravdu nečekaně dlouho. Nezbívá vám, než chybějící karty vytáhnout z odhazovacího balíčku.
+X: Pokud některý dobírací balíček došel, tak už hrajete opravdu nečekaně dlouho. Nezbívá vám, než chybějící karty vytáhnout z odhazovacího balíčku.
 
 ![DRUHY POLÍ podle ZBRANÍ](rulesImg/11_doberZbrane.PNG)
 
-Pokud jste na poli start, hrad nebo vesnice, tak tam žádné omezení na zbraně není.
+Pokud jste na poli start, hrad nebo vesnice, tak tam žádné omezení na dobrání zbraní neexistuje.
 
-X: S kouzlem krádeže, viz "Kouzla", zbraň kradeš z ruky libovolného hráče. Tím je myšlena ta první zbraň, která by normálně podléhala omezení podle pole mapy.
+X: S kouzlem krádeže (viz "Kouzla") zbraň kradeš z ruky libovolného hráče. Krádež nahrazuje dobrání první zbraně, jejíž výběr by podléhal omezení podle pole mapy.
 
 Na konci tahu musíte také zahodit nadbytečné trofeje - žetony poražených příšer. Můžete si nechat maximálně tři. Zvažte, které se vám ještě budou hodit k plnění úkolů a které už ne, viz "Fáze tahu 4 - Plnění úkolů".
 
@@ -218,9 +220,9 @@ H: Nikdo s sebou netahá všechno a nikoho nezajímá, co jsi zapíchl před pů
 
 ## Fáze tahu 4 - Plnění úkolů
 
-Teď, když máte akci za sebou, podívejte se na nabízené úkoly a vyhodnoťte, zda jste něco splnili. Najednou můžete splnit libovolný počet úkolů. Můžete však vybírat pouze z veřejné nabídky, svých osobních úkolů na ruce, své karty povolání a karty "Jsem EPIC". Každý splněný úkol vyložte před sebe, má stejnou hodnotu jako vítězný bod. Po vyložení splněných úkolů doplňte z dobíracího balíčku nabídku úkolů pro dalšího hráče tak, aby tam opět byly tři.
+Teď, když máte akci za sebou, podívejte se na nabízené úkoly a vyhodnoťte, zda jste nějaké nesplnili. Najednou můžete splnit libovolný počet úkolů. Můžete však vybírat pouze z veřejné nabídky, svých osobních úkolů na ruce, své karty povolání a karty "Jsem EPIC". Každý splněný úkol vyložte před sebe, má stejnou hodnotu jako vítězný bod. Po vyložení splněných úkolů doplňte z dobíracího balíčku nabídku úkolů pro dalšího hráče tak, aby tam opět byly tři.
 
-X: Opravdu můžeš splnit pouze ty úkoly, které jsi měl v nabídce ty. Že je ten nový, co jsi otočil, pro dalšího hráče super? Smůla. Tvůj už není.
+X: Opravdu můžeš splnit pouze ty úkoly, které jsi měl v nabídce ty. Že je ten nový úkol, který jsi otočil pro dalšího hráče, super? Smůla, tvůj už není.
 
 X: Doplňují se jen úkoly ve veřejné nabídce. Osobní úkoly se získávají ve vesnici.
 
@@ -280,7 +282,7 @@ H: Je to jednoduché. Čím více vás po okolí pobíhá, tím méně slávy st
 
 ## Kouzla
 
-Kouzla jsou buď vázaná na zbraň. V tom případě jsou nakreslená přímo na kartě zbraně a působí jen na tuto zbraň. Nebo jsou volná, vázaná na kouzelný předmět a nakreslená na kartě předmětu. Taková kouzla pak působí na zbraň, se kterou předmět použijete. Kouzla používáte při pohybu po mapě. Když použijete zbraň, můžete s ní, ale nemusíte, použít i kouzlo. Žádné kouzlo není povinné. Žádnou zbraň nejde použít s více než jedním kouzlem a žádné kouzlo na zbrani nelze přenést na jinou zbraň. Kouzla mění pravidla. Pokud použijete ke zbraní kouzlo z předmětu, jednoduše odhodíte jak zbraň, tak předmět na odkládací balíček.
+Kouzla jsou buď vázaná na zbraň. V takovém případě jsou nakreslená přímo na kartě zbraně a působí jen na tuto zbraň. Nebo jsou volná, vázaná na kouzelný předmět a nakreslená na kartě předmětu. Taková kouzla pak působí na zbraň, se kterou předmět použijete. Kouzla používáte při pohybu po mapě. Když použijete zbraň, můžete s ní použít i kouzlo. Žádné kouzlo ale není povinné, jeho použití je libovolné. Žádnou zbraň nejde použít s více než jedním kouzlem a žádné kouzlo na zbrani nelze přenést na jinou zbraň. Kouzla mění pravidla. Pokud použijete ke zbraní kouzlo z předmětu, jednoduše odhodíte jak zbraň, tak předmět na odkládací balíček.
 
 ![obrázek: UKÁZKA ZBRANĚ S KOUZLEM A PŘEDMĚTU](rulesImg/15_kouzlo.PNG)
 
@@ -292,7 +294,7 @@ X: Ne, nikdy! Jedna zbraň, jedno kouzlo. Víc prostě ne.
 
 X: Můžeš mlátit do trávy (jít na pole bez příšery) a přitom použít zbraň s kouzlem.
 
-X: Můžeš použít víc kouzel za kolo, pokud použiješ víc zbraní. Kdy se to může stát?
+X: Můžeš použít více kouzel za kolo, pokud použiješ více zbraní. Kdy se to může stát?
 
 **Kouzlo tvrdosti** říká: "Zbraň použij, ale nezahoď". Jednoduše si ji nechte. Pokud bylo kouzlo napsáno na zbrani, pamatujte si, že z ní už kouzlo bylo vyčerpáno. Při příštím použití ji už budete muset zahodit. Pokud bylo kouzlo na předmětu, prostě zahoďte předmět a zbraň si nechte.
 
@@ -340,7 +342,7 @@ X: Se zuřivostí můžeš po boji vtrhnout na hrad nebo z hradu po boji utéct 
 
 X: Protože nikdy nemůžeš mít více než dvě zbraně, nemá smysl v jednom kole použít zuřivost podruhé.
 
-**Kouzlo krádeže** říká: "Novou zbraň si pak vem z ruky hráče". Tohle kouzlo mění způsob, jak budete po pohybu doplňovat chybějící zbraň. Tu jednu, na kterou se vztahuje omezení pole, můžete místo z dobíracího balíčku vzít z ruky jiného hráče. Jakýkoliv druh zbraně od jakéhokoliv hráče.
+**Kouzlo krádeže** říká: "Novou zbraň si pak vem z ruky hráče". Toto kouzlo mění způsob, jak budete po pohybu doplňovat chybějící zbraň. Tu jednu, na kterou se vztahuje omezení pole, můžete místo z dobíracího balíčku vzít z ruky jiného hráče. Jakýkoliv druh zbraně od jakéhokoliv hráče.
 
 H: Tím myslím na jakoukoli vzdálenost a opravdu jakoukoli zbraň, omezení pole ignoruj.
 
