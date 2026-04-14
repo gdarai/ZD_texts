@@ -222,7 +222,7 @@ H: Nikdo s sebou netahá všechno a nikoho nezajímá, co jsi zapíchl před pů
 
 Teď, když máte akci za sebou, podívejte se na nabízené úkoly a vyhodnoťte, zda jste nějaké nesplnili. Najednou můžete splnit libovolný počet úkolů. Můžete však vybírat pouze z veřejné nabídky, svých osobních úkolů na ruce, své karty povolání a karty "Jsem EPIC". Každý splněný úkol vyložte před sebe, má stejnou hodnotu jako vítězný bod. Po vyložení splněných úkolů doplňte z dobíracího balíčku nabídku úkolů pro dalšího hráče tak, aby tam opět byly tři.
 
-X: Opravdu můžeš splnit pouze ty úkoly, které jsi měl v nabídce ty. Že je ten nový, který jsi otočil pro dalšího hráče, super? Smůla, tvůj už není.
+X: Opravdu můžeš splnit pouze ty úkoly, které jsi měl v nabídce ty. Že je ten nový úkol, který jsi otočil pro dalšího hráče, super? Smůla, tvůj už není.
 
 X: Doplňují se jen úkoly ve veřejné nabídce. Osobní úkoly se získávají ve vesnici.
 
@@ -279,7 +279,7 @@ H: Je to jednoduché. Čím více vás po okolí pobíhá, tím méně slávy st
 
 ## Kouzla
 
-Kouzla jsou buď vázaná na zbraň. V tom případě jsou nakreslená přímo na kartě zbraně a působí jen na tuto zbraň. Nebo jsou volná, vázaná na kouzelný předmět a nakreslená na kartě předmětu. Taková kouzla pak působí na zbraň, se kterou předmět použijete. Kouzla používáte při pohybu po mapě. Když použijete zbraň, můžete s ní, ale nemusíte, použít i kouzlo. Žádné kouzlo není povinné. Žádnou zbraň nejde použít s více než jedním kouzlem a žádné kouzlo na zbrani nelze přenést na jinou zbraň. Kouzla mění pravidla. Pokud použijete ke zbraní kouzlo z předmětu, jednoduše odhodíte jak zbraň, tak předmět na odkládací balíček.
+Kouzla jsou buď vázaná na zbraň. V takovém případě jsou nakreslená přímo na kartě zbraně a působí jen na tuto zbraň. Nebo jsou volná, vázaná na kouzelný předmět a nakreslená na kartě předmětu. Taková kouzla pak působí na zbraň, se kterou předmět použijete. Kouzla používáte při pohybu po mapě. Když použijete zbraň, můžete s ní použít i kouzlo. Žádné kouzlo ale není povinné, jeho použití je libovolné. Žádnou zbraň nejde použít s více než jedním kouzlem a žádné kouzlo na zbrani nelze přenést na jinou zbraň. Kouzla mění pravidla. Pokud použijete ke zbraní kouzlo z předmětu, jednoduše odhodíte jak zbraň, tak předmět na odkládací balíček.
 
 ![obrázek: UKÁZKA ZBRANĚ S KOUZLEM A PŘEDMĚTU](rulesImg/15_kouzlo.PNG)
 
@@ -291,7 +291,7 @@ X: Ne, nikdy! Jedna zbraň, jedno kouzlo. Víc prostě ne.
 
 X: Můžeš mlátit do trávy (jít na pole bez příšery) a přitom použít zbraň s kouzlem.
 
-X: Můžeš použít víc kouzel za kolo, pokud použiješ víc zbraní. Kdy se to může stát?
+X: Můžeš použít více kouzel za kolo, pokud použiješ více zbraní. Kdy se to může stát?
 
 **Kouzlo tvrdosti** říká: "Zbraň použij, ale nezahoď". Jednoduše si ji nechte. Pokud bylo kouzlo napsáno na zbrani, pamatujte si, že z ní už kouzlo bylo vyčerpáno. Při příštím použití ji už budete muset zahodit. Pokud bylo kouzlo na předmětu, prostě zahoďte předmět a zbraň si nechte.
 
@@ -339,7 +339,7 @@ X: Se zuřivostí můžeš po boji vtrhnout na hrad nebo z hradu po boji utéct 
 
 X: Protože nikdy nemůžeš mít více než dvě zbraně, nemá smysl v jednom kole použít zuřivost podruhé.
 
-**Kouzlo krádeže** říká: "Novou zbraň si pak vem z ruky hráče". Tohle kouzlo mění způsob, jak budete po pohybu doplňovat chybějící zbraň. Tu jednu, na kterou se vztahuje omezení pole, můžete místo z dobíracího balíčku vzít z ruky jiného hráče. Jakýkoliv druh zbraně od jakéhokoliv hráče.
+**Kouzlo krádeže** říká: "Novou zbraň si pak vem z ruky hráče". Toto kouzlo mění způsob, jak budete po pohybu doplňovat chybějící zbraň. Tu jednu, na kterou se vztahuje omezení pole, můžete místo z dobíracího balíčku vzít z ruky jiného hráče. Jakýkoliv druh zbraně od jakéhokoliv hráče.
 
 H: Tím myslím na jakoukoli vzdálenost a opravdu jakoukoli zbraň, omezení pole ignoruj.
 
