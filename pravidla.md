@@ -52,8 +52,9 @@ Vyberte začínajícího hráče. Bude mít oproti ostatním malou výhodu, prot
 
 ![ZÁKLADNÍ A SPECIÁLNÍ DÍLKY MAPY](rulesImg/05_dilkyMapy.PNG)
 
-Velitel mapy vezme 5 speciálních dílků (hrad, dvě skály a dva starty) a odloží je stranou. Zbytek dílků zamíchá. Speciální dílky rozloží podle obrázku mapy. Z ostatních dílků postaví vybraný tvar. Dílky pokládá lícem nahoru a při pokládání je každý náhodně otočí o 0, 90, 180 nebo 270 stupňů. Podívejte se, jak jsou umístěné hřebeny hor, a zkontrolujte, zda není nějaké pole zcela nedostupné. Chodí se vodorovně a svisle, a přes hory chodit nejde. Pokud se na nějaký dílek nedá dojít od startu nebo teleportu, je třeba to napravit. Velitel mapy vybere, který dílek se v takovém případě pootočí. Pak přidejte miniatury skal a hor.
+Velitel mapy vezme 5 speciálních dílků (hrad, dvě skály a dva starty) a odloží je stranou. Zbytek dílků zamíchá. Speciální dílky rozloží podle obrázku mapy. Z ostatních dílků postaví vybraný tvar. Dílky pokládá lícem nahoru a při pokládání je každý náhodně otočí. Pak se podívejte, jak jsou umístěné hřebeny hor, a zkontrolujte, zda není nějaké pole zcela nedostupné. Chodí se vodorovně a svisle, a přes hory chodit nejde. Pokud se na nějaký dílek nedá dojít od startu nebo teleportu, je třeba to napravit. Velitel mapy vybere, který dílek se v takovém případě pootočí. Pak přidejte miniatury skal a hor.
 
+X: Mapa má působit náhodně. Pokud byste orientaci dílků mapy srovnávali, hře to ublíží.
 X: Hru připravujete všichni společně, ale při stavbě mapy rozhoduje velitel mapy.
 
 [tabulka: NEDOVOLENÉ SITUACE MAPY]
@@ -94,9 +95,9 @@ H: Jde o vítězné body. Ideálně si vyber příšeru, která má u sebe také
 
 **Zaútočte a získejte odměnu**. Zbraň odhoďte. Posuňte svou figurku na dobyté pole. Vezměte si poraženou příšeru jako trofej a její vítězný bod si položte před sebe.
 
-H: Když v ruce držíš palici a na sousedním poli vidíš nemrtvého (žlutý žeton, na ně jsou palice určené), zahodíš palici, přesuneš se na jeho pole a vezmeš si vítězný bod a žeton nemrtvého jako trofej.
+H: Držíš palici a vedle sebe vidíš nemrtvého (žlutý žeton, na ně jsou palice určené). Tak zahodíš palici, přesuneš se na jeho pole a vezmeš si vítězný bod a žeton příšery jako trofej.
 
-**Nakupte karty**. Přišli jste do vesnice nebo do věže? V takovém případě si můžete nabrat karty úkolů a předmětů (vždy po jedné kartě). Těchto karet totiž můžete mít na ruce, narozdíl od zbraní, kolik chcete.
+**Vybavení**. Přišli jste do vesnice nebo do věže? V takovém případě si nabíráte karty úkolů a předmětů (vždy po jedné kartě a úkoly jen ve vesnici). Těchto karet můžete mít na ruce, narozdíl od zbraní, kolik chcete.
 
 **Doberte zbraň**. Vyberte si zbraň podle toho, co je nakreslené na poli mapy, na které jste vstoupili. Doberte si kartu z příslušného balíčku. Dobíráte vždy do dvou zbraní na ruce.
 
@@ -122,9 +123,9 @@ X: Ostatní hrdinové tě v pohybu nijak neomezují. Klidně s nimi můžeš bý
 
 X: Na každé pole, kde můžete stát, tedy i sem, můžete přivolat příšeru kouzlem vábení.
 
-**Pole vesnice** je místo, kde bydlí místní. Příšery se do vesnice neumisťují, ale hráči tu jsou vítaní. Je tu řada krámů, které můžete navštívit, viz "Fáze tahu 2 - Nákup".
+**Pole vesnice** je pár usedlostí a hostinec. Příšery se do vesnice neumisťují, ale hráči tu jsou vítaní. Je tu řada krámů, které můžete navštívit, viz "Fáze tahu 2 - Vybavení".
 
-**Pole věž** má ukrytou truhlu s kouzelným předmětem. Příšera tu sice je, ale když se jí zbavíte, můžete truhlu prozkoumat, viz "Fáze tahu 2 - Nákup".
+**Pole věž** má ukrytou truhlu s kouzelným předmětem. Příšera tu sice je, ale když se jí zbavíte, můžete truhlu prozkoumat, viz "Fáze tahu 2 - Vybavení".
 
 ![SKÁLA, HŘEBEN HOR, TELEPORT](rulesImg/09_mapaSpecial.PNG)
 
@@ -154,9 +155,9 @@ X: Kouzlo vábení lze použít i na příšery z hradu. Během hry tedy nemusí
 
 ## Fáze tahu 1B - Odpočinek
 
-Pokud se nemůžete nebo nechcete pohnout po mapě, **odpočíváte** (v pokoji). Nejprve zahoďte z ruky všechny své zbývající zbraně.
+Pokud se nemůžete nebo nechcete pohnout po mapě, **odpočíváte**. Nejprve zahoďte z ruky všechny své zbývající zbraně.
 
-Když odpočíváte vy, odpočívají i příšery. Doplňte na všechna volná pole mapy novou, náhodně vylosovanou příšeru z váčku. Nedoplňujte je na hrad, start, vesnici, teleport nebo skálu, a také vynechte místa, kde stojí figurky hrdinů. Losování provádí odpočívající hrdina, ale může ho delegovat, pokud je někdo ochotný pomoci. Na nové příšery už nedávejte vítězné body.
+Když odpočíváte vy, odpočívají i příšery. Doplňte na všechna volná pole mapy novou, náhodně vylosovanou příšeru z váčku. Nedoplňujte je na hrad, start, vesnici, teleport nebo skálu, a také vynechte místa, kde stojí figurky hrdinů. Losování provádí odpočívající hrdina, ale může tu práci delegovat, pokud je někdo ochotný mu pomoci. Na nové příšery už nedávejte vítězné body.
 
 Když jsou příšery doplněny, vyberte si, kde chcete odpočívat a ihned se tam přesuňte. Buď zůstaňte tam, kde jste byli, nebo se přesuňte na libovolné pole start.
 
@@ -172,9 +173,9 @@ X: Nikdy nedávej nové příšery na hrad, start, vesnici, skálu nebo teleport
 
 X: Nikdy nedávej novou příšeru na pole, kde stojí nějaká figurka. Včetně pole, kde stála figurka, co si šla odpočinout.
 
-X: I když odpočíváš, děláš ostatní fáze tahu - nákup, dobrání zbraní a úkoly.
+X: I když odpočíváš, děláš ostatní fáze tahu - úprava vybavení, dobrání zbraní a úkoly.
 
-## Fáze tahu 2 - Nákup (vesnice či věž)
+## Fáze tahu 2 - Vybavení (vesnice či věž)
 
 Ve věži a ve vesnici můžete získat novou kartu předmětu, ve vesnici navíc i kartu úkolu. Stačí abyste toto kolo přišli, prošli nebo odpočívali na tomto poli.
 
@@ -206,13 +207,13 @@ Teď si doberte nové zbraně, abyste měli na ruce vždy dvě. První berte z b
 
 X: Pokud ti nechybí žádná zbraň, nedobírej si žádnou.
 
-X: Pokud některý dobírací balíček došel, tak už hrajete opravdu nečekaně dlouho. Nezbívá vám, než chybějící karty vytáhnout z odhazovacího balíčku.
+X: Pokud některý dobírací balíček došel, tak už hrajete opravdu nečekaně dlouho. Nezbívá vám, než roztřídit odhazovací balíček a lízací balíčky obnovit.
 
 ![DRUHY POLÍ podle ZBRANÍ](rulesImg/11_doberZbrane.PNG)
 
-Pokud jste na poli start, hrad nebo vesnice, tak tam žádné omezení na dobrání zbraní neexistuje.
+Pokud jste na poli start, hrad nebo vesnice, tak tam žádné omezení na dobrání zbraní není.
 
-X: S kouzlem krádeže (viz "Kouzla") zbraň kradeš z ruky libovolného hráče. Krádež nahrazuje dobrání první zbraně, jejíž výběr by podléhal omezení podle pole mapy.
+X: S kouzlem krádeže, viz kapitola "Kouzla", zbraň kradeš z ruky libovolného hráče. Krádež nahrazuje dobrání první zbraně, jejíž výběr by podléhal omezení podle pole mapy.
 
 Na konci tahu musíte také zahodit nadbytečné trofeje - žetony poražených příšer. Můžete si nechat maximálně tři. Zvažte, které se vám ještě budou hodit k plnění úkolů a které už ne, viz "Fáze tahu 4 - Plnění úkolů".
 
@@ -279,7 +280,7 @@ H: Je to jednoduché. Čím více vás po okolí pobíhá, tím méně slávy st
 
 ## Kouzla
 
-Kouzla jsou buď vázaná na zbraň. V takovém případě jsou nakreslená přímo na kartě zbraně a působí jen na tuto zbraň. Nebo jsou volná, vázaná na kouzelný předmět a nakreslená na kartě předmětu. Taková kouzla pak působí na zbraň, se kterou předmět použijete. Kouzla používáte při pohybu po mapě. Když použijete zbraň, můžete s ní použít i kouzlo. Žádné kouzlo ale není povinné, jeho použití je libovolné. Žádnou zbraň nejde použít s více než jedním kouzlem a žádné kouzlo na zbrani nelze přenést na jinou zbraň. Kouzla mění pravidla. Pokud použijete ke zbraní kouzlo z předmětu, jednoduše odhodíte jak zbraň, tak předmět na odkládací balíček.
+Kouzla jsou buď vázaná na zbraň. V takovém případě jsou nakreslená přímo na kartě zbraně a působí jen na tuto zbraň. Nebo jsou volná, vázaná na kouzelný předmět a nakreslená na kartě předmětu. Taková kouzla pak působí na zbraň, se kterou předmět použijete. Kouzla používáte při pohybu po mapě. Když použijete zbraň, můžete s ní použít i kouzlo. Žádné kouzlo ale není povinné, každou zbraň jde použít, jako by kouzlo neměla. Naopak, žádnou zbraň nejde použít s více než jedním kouzlem a žádné kouzlo na zbrani nelze přenést na jinou zbraň. Kouzla mění pravidla. Pokud použijete ke zbraní kouzlo z předmětu, jednoduše odhodíte jak zbraň, tak předmět na odkládací balíček.
 
 ![obrázek: UKÁZKA ZBRANĚ S KOUZLEM A PŘEDMĚTU](rulesImg/15_kouzlo.PNG)
 
