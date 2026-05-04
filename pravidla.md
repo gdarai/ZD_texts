@@ -223,6 +223,8 @@ H: Nikdo s sebou netahá všechno a nikoho nezajímá, co jsi zapíchl před pů
 
 Teď, když máte akci za sebou, podívejte se na nabízené úkoly a vyhodnoťte, zda jste nějaké nesplnili. Najednou můžete splnit libovolný počet úkolů. Můžete však vybírat pouze z veřejné nabídky, svých osobních úkolů na ruce, své karty povolání a karty "Jsem EPIC". Každý splněný úkol vyložte před sebe, má stejnou hodnotu jako vítězný bod. Po vyložení splněných úkolů doplňte z dobíracího balíčku nabídku úkolů pro dalšího hráče tak, aby tam opět byly tři.
 
+Úkoly lze dělit na tři typy: **Trofeje**, **Formace** a **Bariéry**. Pokud jsou po doplnění všechny tři karty ve veřejné nabídce stejného typu, všechny tři karty zahoďte a doplňte nové tři.
+
 X: Opravdu můžeš splnit pouze ty úkoly, které jsi měl v nabídce ty. Že je ten nový úkol, který jsi otočil pro dalšího hráče, super? Smůla, tvůj už není.
 
 X: Doplňují se jen úkoly ve veřejné nabídce. Osobní úkoly se získávají ve vesnici.
@@ -241,11 +243,11 @@ X: Technicky tedy dostaneš druhý vítězný bod za první splněný osobní ú
 
 X: Jsem EPIC se nevykládá s kartou povolání, pouze s kartou úkolu.
 
-**Úkoly s trofejemi** mají na sobě pouze symboly příšer v různých kombinacích. Úkol splníte, když u sebe máte zobrazené trofeje - buď dvě stejné, nebo tři různé, podle druhu úkolu. Pro splnění úkolu stačí trofeje mít, neodevzdávají se.
+Úkoly typu **Trofeje** mají na sobě pouze symboly příšer v různých kombinacích. Úkol splníte, když u sebe máte zobrazené trofeje - buď dvě stejné, nebo tři různé, podle druhu úkolu. Pro splnění úkolu stačí trofeje mít, neodevzdávají se.
 
 X: Pro splnění úkolu "dvě trofeje zvířat" můžeš mít i jakoukoli třetí trofej, to ničemu nevadí.
 
-**Úkoly poziční** mají na sobě kromě symbolu příšery i symbol hrdiny, případně vesnice nebo horského hřebenu. Abyste ho splnili, musíte stát na mapě ve vodorovném či svislém směru, jak je na úkolu znázorněno.
+Úkoly typu **Formace** a **Bariéry** mají na sobě kromě symbolu příšery i symbol hrdiny, případně vesnice nebo horského hřebenu. Abyste je splnili, musíte stát na mapě ve vodorovném či svislém směru, jak je na úkolu znázorněno.
 
 ![SPECIÁLNÍ SYMBOLY NA KARTÁCH ÚKOLŮ](rulesImg/12_kartyUkolu.PNG)
 
@@ -263,13 +265,13 @@ X: Mezi vámi nikdy nesmí být hřeben hor.
 ![DOVOLENÉ A ZAKÁZANÉ PŘÍPADY 4](rulesImg/13_oUkolu_4.PNG)
 ![DOVOLENÉ A ZAKÁZANÉ PŘÍPADY 5](rulesImg/13_oUkolu_5.PNG)
 
-Pro úkol **"stůj mezi"** potřebujete stát mezi vyobrazenými příšerami.
+Pro úkol **"stůj mezi"** (typ úkolu **Formace**) potřebujete stát mezi vyobrazenými příšerami.
 
-Pro úkol **"stůj v řadě"** potřebujete, aby v řadě od vás stály vyobrazené příšery.
+Pro úkol **"stůj v řadě"** (typ úkolu **Formace**) potřebujete, aby v řadě od vás stály vyobrazené příšery.
 
-Pro úkol **"chraň vesnici"** potřebujete mít po jedné straně vesnici a po druhé vyobrazenou příšeru. Nebo stát ve vesnici, která má vedle sebe vyobrazenou příšeru. Věž nestačí, opravdu to musí být vesnice.
+Pro úkol **"chraň vesnici"** (typ úkolu **Bariéry**) potřebujete mít po jedné straně vesnici a po druhé vyobrazenou příšeru. Nebo stát ve vesnici, která má vedle sebe vyobrazenou příšeru. Věž nestačí, opravdu to musí být vesnice.
 
-Pro úkol **"zažeň ke skále"** je potřeba, abyste stáli vedle příšery a těsně za ní byla skála nebo hřeben hor.
+Pro úkol **"zažeň ke skále"** (typ úkolu **Bariéry**) je potřeba, abyste stáli vedle příšery a těsně za ní byla skála nebo hřeben hor.
 
 X: Pozor! Úkoly plníš až na konci kola, počítá se tvoje pozice na mapě na konci kola. Že jsi někudy proběhl, nebo tam začínal, pro splnění úkolu nestačí.
 
