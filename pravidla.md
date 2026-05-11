@@ -161,6 +161,8 @@ Když odpočíváte vy, odpočívají i příšery. Doplňte na všechna volná 
 
 Když jsou příšery doplněny, vyberte si, kde chcete odpočívat a ihned se tam přesuňte. Buď zůstaňte tam, kde jste byli, nebo se přesuňte na libovolné pole start.
 
+Jako poslední si teď můžete vyměnit jeden osobní úkol za nový. Musíte k tomu nějaký na ruce mít a nejprve ho zahodit. Pak si teprve doberte nový, náhodný, z dobíracího balíčku.
+
 H: Dobrý důvod k odpočinku je například to, když ti jiní ukradnou i poslední zbraň.
 
 X: Odpočívat můžeš i dobrovolně.
@@ -173,7 +175,7 @@ X: Nikdy nedávej nové příšery na hrad, start, vesnici, skálu nebo teleport
 
 X: Nikdy nedávej novou příšeru na pole, kde stojí nějaká figurka. Včetně pole, kde stála figurka, co si šla odpočinout.
 
-X: I když odpočíváš, děláš ostatní fáze tahu - úprava vybavení, dobrání zbraní a úkoly.
+X: I když odpočíváš, hraješ ostatní fáze tahu - úpravu vybavení, dobrání zbraní a plnění úkolů.
 
 ## Fáze tahu 2 - Vybavení (vesnice či věž)
 
@@ -183,7 +185,7 @@ X: Pokud odpočíváš, nakoupit můžeš. Pokud jsi jen prošel s kouzlem vztek
 
 X: Pokud jsi tam byl jen na začátku tahu a jen jsi toto kolo odešel pryč, tak nakoupit nestihneš.
 
-H: Když tě sem v noci někdo teleportuje kouzlem záměny a ty jen ráno sebereš svůj ranec a utečeš, přes krámy už to nestihneš.
+H: V noci mě někdo teleportoval do vesnice. Tak sem se ráno nezdržoval, seberal svůj ranec a utekl. Dřív než krámy otevřely.
 
 H: Jsou i tací, co si vesnici tak zalíbí, že si tam i další den v hostinci rádi odpočinou. Moc slávy z toho ale většinou nekouká.
 
@@ -229,6 +231,8 @@ X: Opravdu můžeš splnit pouze ty úkoly, které jsi měl v nabídce ty. Že j
 
 X: Doplňují se jen úkoly ve veřejné nabídce. Osobní úkoly se získávají ve vesnici.
 
+X: Úkoly doplňujte lícem dolů a otočte je až na začátku tahu nového hráče, předejdete tím zmatku.
+
 **Povolání** splníte, pokud po dobrání zbraní držíte v ruce právě ty dvě zbraně, které jsou nakreslené na kartě povolání.
 
 H: Palice, to je panečku zbraň. Škoda, že v okolí jsou samí čarodějové a palice mi tu je k ničemu.
@@ -273,7 +277,7 @@ Pro úkol **"chraň vesnici"** (typ úkolu **Bariéry**) potřebujete mít po je
 
 Pro úkol **"zažeň ke skále"** (typ úkolu **Bariéry**) je potřeba, abyste stáli vedle příšery a těsně za ní byla skála nebo hřeben hor.
 
-X: Pozor! Úkoly plníš až na konci kola, počítá se tvoje pozice na mapě na konci kola. Že jsi někudy proběhl, nebo tam začínal, pro splnění úkolu nestačí.
+X: Pozor! Úkoly plníš až na konci kola, počítá se tvoje pozice na mapě na konci kola. Že jsi někde proběhl, nebo tam začínal, pro splnění úkolu nestačí.
 
 ## Fáze tahu 5 - Vítězství
 
@@ -299,13 +303,15 @@ X: Můžeš mlátit do trávy (jít na pole bez příšery) a přitom použít z
 
 X: Můžeš použít více kouzel za kolo, pokud použiješ více zbraní. Kdy se to může stát?
 
-**Kouzlo tvrdosti** říká: "Zbraň použij, ale nezahoď". Jednoduše si ji nechte. Pokud bylo kouzlo napsáno na zbrani, pamatujte si, že z ní už kouzlo bylo vyčerpáno. Při příštím použití ji už budete muset zahodit. Pokud bylo kouzlo na předmětu, prostě zahoďte předmět a zbraň si nechte.
+**Kouzlo tvrdosti** říká: "Po prvním použití zbraň nezahazuj". Jednoduše si ji nechte. Pokud bylo kouzlo napsáno na zbrani, pamatujte si, že z ní už kouzlo bylo vyčerpáno. Při příštím použití ji už budete muset zahodit. Pokud bylo kouzlo na předmětu, prostě zahoďte předmět a zbraň si nechte.
 
-X: Maximálně můžete držet v ruce dvě zbraně. Nikdy víc. Ani s kouzlem tvrdosti. Novou zbraň si pak prostě nedobíráš.
+X: Zbraň s vyčerpaným kouzlem tvrdosti si můžeš v ruce otočit. Má k tomu v pravém dolním rohu symbol **"vyčerpané kouzlo"**.
+
+X: Maximálně můžeš držet v ruce dvě zbraně. Nikdy víc. Ani s kouzlem tvrdosti. Novou zbraň si pak prostě nedobíráš.
 
 X: Pokud ti někdo zbraň s vyčerpaným kouzlem sebere, kouzlo s novým majitelem zase nabere sílu a bude možné jej použít znovu.
 
-**Kouzlo záměny** říká: "Prohoď se s jiným hrdinou." Než zbraní zaútočíte, prohoďte si místo na mapě s jiným hráčem a zaútočte, jako byste stáli na jeho původním poli.
+**Kouzlo záměny** říká: "Před útokem se prohoď s jiným hrdinou." Než zbraní zaútočíte, prohoďte si místo na mapě s jiným hráčem a zaútočte, jako byste stáli na jeho původním poli.
 
 X: Myslíš, že tímto jde někoho dostat do pěkných potíží? To si piš. Prostě se prohodíte, a v té díře, kde jsi byl doteď ty, je odteď on.
 
@@ -319,7 +325,7 @@ X: Přivábená příšera musí odpovídat zbrani na které toto kouzlo je. Nem
 
 X: S příšerami se přesouvají i jejich body slávy.
 
-X: Lze přivábit i příšeru na původně prázdné pole.
+X: Lze přivábit i příšeru na původně prázdné pole, jako je start nebo vesnice.
 
 X: Příšeru jde jen přivábit. Nemůžeš odlákat příšeru pryč a „zapíchnout“ místo ní prázdné pole.
 
@@ -329,7 +335,7 @@ X: Také nejde kopím s vábením na hradě zapíchnout zvíře a pak místo dru
 
 **Kouzlo vzteku** říká: "Zaútoč hned i druhou zbraní". Vezmete tedy tuto zbraň, posunete se po mapě a zlikvidujete s ní příšeru. Pak vezmete svou druhou zbraň, uděláte s ní další krok po mapě a zlikvidujete druhou příšeru. Druhou zbraň musíte samozřejmě mít.
 
-H: Je k ničemu být zuřivý, když nemáš čím se teď ohánět.
+H: Je k ničemu být zuřivý, když nemáš další zbraň k boji.
 
 H: Viděl jsem jednu lučišnici, jak zlikvidovala démona a pak vtrhla na hrad a vymlátila to ten samý den i tam, takže tři nula pro hrdiny.
 
@@ -345,13 +351,15 @@ X: Se zuřivostí můžeš po boji vtrhnout na hrad nebo z hradu po boji utéct 
 
 X: Protože nikdy nemůžeš mít více než dvě zbraně, nemá smysl v jednom kole použít zuřivost podruhé.
 
+X: Když díky zuřivosti proběhneš vesnicí nebo věží, dobereš si novou kartu předmětu. Dobíráš si jí ale až potom, co tvůj pohyb zkončil. Toto kolo ho tedy ještě nesmíš použít. 
+
 **Kouzlo krádeže** říká: "Novou zbraň si pak vem z ruky hráče". Toto kouzlo mění způsob, jak budete po pohybu doplňovat chybějící zbraň. Tu jednu, na kterou se vztahuje omezení pole, můžete místo z dobíracího balíčku vzít z ruky jiného hráče. Jakýkoliv druh zbraně od jakéhokoliv hráče.
 
 H: Tím myslím na jakoukoli vzdálenost a opravdu jakoukoli zbraň, omezení pole ignoruj.
 
 X: Vybíráš si kartu, nikoliv zbraň. Cílený hráč ti ukáže pouze zadní strany karet. Nemusí ti říkat, že to, co vypadá jako palice, je ve skutečnosti luk, ani jestli má kouzlo či ne.
 
-**Kouzlo létání** říká: "Přejdi přes hřeben hor". Tohle kouzlo mění způsob, jak můžete chodit po mapě. Při tomto jednom útoku zbraní můžete ignorovat případný jeden hřeben hor v cestě.
+**Kouzlo létání** říká: "Zaútoč přechodem přes hřeben hor". Tohle kouzlo mění způsob, jak můžete chodit po mapě. Při tomto jednom útoku zbraní můžete ignorovat případný jeden hřeben hor v cestě.
 
 X: Ale jen pro tento útok. Pro plnění úkolů tam už ten hřeben hor opět je.
 
@@ -359,11 +367,21 @@ X: Pole skála pořád přejít nejde.
 
 X: Samozřejmě, příšeru za těmi horami musíš vybranou zbraní porazit.
 
+X: Epické je jednou zbraní, jedním krokem, k poražení jedné příšery, jedním kouzlem letu, přeletět dva hřebeny hor.
+
 ## Jak hrát víc her
 
-EPIC není strategická hra na celý večer. Aby byla hra férová, měla by se hrát opakovaně, například na dvě vítězné hry. První hru začíná ten, koho určíte. Každou další hru pak zahajuje ten, kdo hraje hned po hráči, který předchozí hru vyhrál. Prostě tak, aby ten, kdo minulou hru vyhrál, hrál novou hru jako poslední. První, kdo vyhraje dvě hry, vítězí v celém turnaji.
+EPIC není strategická hra na celý večer. Je víc způsobů jak toto napravit.
 
-Další možnost je hrát na trestné body. Dostanete tolik trestných bodů, kolik vám po hře chybí k vítězství. A celý turnaj vyhraje ten z vás, kdo má nakonec v součtu trestných bodů nejméně.
+**Můžete hrát opakovaně**, například na dvě vítězné hry. První hru začíná ten, koho určíte. Každou další hru pak zahajuje ten, kdo hraje hned po hráči, který předchozí hru vyhrál. Prostě tak, aby ten, kdo minulou hru vyhrál, hrál novou hru jako poslední. První, kdo vyhraje dvě hry, vítězí v celém turnaji.
+
+**Můžete hrát na trestné body**. Dostanete tolik trestných bodů, kolik vám po hře chybí k vítězství. A celý turnaj vyhraje ten z vás, kdo má nakonec v součtu trestných bodů nejméně.
+
+**Můžete dohrávat** poslední kolo. Pokud má nakonec víc hráčů nejvíc vítězných bodů, vyhraje ten kdo má víc splněných úkolů.
+
+X: Všimla sis, že jména úkolů dělají titul kterým ti místní budou odteď říkat?
+
+X: Dohrávání není v duchu této hry, ale jde to, není to na škodu. A někteří to opravdu mají radši. Tak prosím, tady to máš jako volitelné pravidlo.
 
 ## Slovo závěrem
 
