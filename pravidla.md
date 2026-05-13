@@ -170,7 +170,7 @@ Když odpočíváte vy, odpočívají i příšery. Doplňte na všechna volná 
 
 Když jsou příšery doplněny, vyberte si, kde chcete odpočívat a ihned se tam přesuňte. Buď zůstaňte tam, kde jste byli, nebo se přesuňte na libovolné pole start.
 
-Jako poslední si teď můžete vyměnit jeden osobní úkol za nový. Musíte k tomu nějaký na ruce mít a nejprve ho zahodit. Pak si teprve doberte nový, náhodný, z dobíracího balíčku.
+Jako poslední si teď můžete vyměnit jeden osobní úkol za nový. Musíte k tomu nějaký na ruce mít a nejprve ho zahodit. Pak si teprve doberte nový, z dobíracího balíčku úkolů.
 
 H: Dobrý důvod k odpočinku je například to, když ti jiní ukradnou i poslední zbraň.
 
@@ -324,6 +324,8 @@ X: Maximálně můžeš držet v ruce dvě zbraně. Nikdy víc. Ani s kouzlem tv
 
 X: Pokud ti někdo zbraň s vyčerpaným kouzlem sebere, kouzlo s novým majitelem zase nabere sílu a bude možné jej použít znovu.
 
+X: Pokud máš problém si pamatovat zda má karta kouzlo tvrdosti vyčerpané, otoč si jí na ruce "vzhůru nohama".
+
 **Kouzlo záměny** říká: "Před útokem se prohoď s jiným hrdinou." Než zbraní zaútočíte, prohoďte si místo na mapě s jiným hráčem a zaútočte, jako byste stáli na jeho původním poli.
 
 X: Myslíš, že tímto jde někoho dostat do pěkných potíží? To si piš. Prostě se prohodíte, a v té díře, kde jsi byl doteď ty, je odteď on.
@@ -380,7 +382,7 @@ X: Vybíráš si kartu, nikoliv zbraň. Cílený hráč ti ukáže pouze zadní 
 
 X: Ale jen pro tento útok. Pro plnění úkolů tam už ten hřeben hor opět je.
 
-X: Pole skála pořád přejít nejde.
+X: Pole skála pořád přejít nejde. Je na něm pro jistotu nakreslený i symbol.
 
 X: Samozřejmě, příšeru za těmi horami musíš vybranou zbraní porazit.
 
