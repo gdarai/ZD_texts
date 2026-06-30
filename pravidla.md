@@ -1,9 +1,9 @@
 # Jen buď EPIC
 
-2026/05
+2026/07
 
 
-Vítej v tomto kraji, dobrodruhu. Obyvatelé jsou trápeni příšerami a proto ste přišli vy. Boj s příšerami je vaše řemeslo. A jste v něm EPICky dobří. Síň slávy však čeká jen na nejrychlejšího z vás.
+Vítej v tomto kraji, dobrodruhu. Obyvatelé jsou trápeni příšerami a proto jste přišli vy. Boj s příšerami je vaše řemeslo. A jste v něm EPICky dobří. Síň slávy však čeká jen na nejrychlejšího z vás.
 
 ## Princip hry
 
@@ -42,6 +42,8 @@ X: Bomba má svůj vlastní symbol, aby se na její kartu nemusely vypisovat vš
 
 X: Pozor, zbraně jsou v každém balíčku namíchané. Čtvrtina zbraní v každém balíčku neodpovídá rubu. Při dobrání zbraně z balíčku luků (co má na rubu luk) máš šanci 1:3 že táhneš palici, kopí, nebo meč.
 
+X: Případné kouzlo na zbrani neurčuje, zda bude zbraň lepší, či horší, v boji. Všechny luky porazí každého démona (a právě jen démona) stejně dobře. Ale očarovaná zbraň ti třeba pomůže, aby si toho kýženého démona našel, i když v tvém nejbližším okolí žádný není. Víc v kapitole "Kouzla".
+
 ![ZBRAŇ - Z_SYMBOL - P_SYMBOL - PŘÍŠERA](rulesImg/03_odZbrane.PNG)
 
 ## Příprava hry
@@ -71,7 +73,9 @@ Tahejte z váčku náhodně příšery. Na každé pole vylosujte jednu. Výjimk
 
 Zbylé příšery vraťte do váčku, budou při hře potřeba. Zbylé vítězné body vraťte do krabice, už potřeba nebudou. Připravte a zamíchejte všech šest dobíracích balíčků karet: kopí, palice, meče, luky, předměty a úkoly.
 
-Každý si doberte své dvě karty příběhu. Kartu "Jsem EPIC" máte každý stejnou. Kartu povolání si vylosujte. Od začínajícího hráče si každý vybere svou figurku a zvolte, na kterém ze startů chcete začínat.
+Každý si doberte své dvě karty příběhu. Kartu "Jsem EPIC" máte každý stejnou. Kartu povolání si vylosujte. Obě tyto karty jsou speciálními druhy úkolů. Narozdíl od běžných her na hrdiny, v naší hře karta povolání neurčuje co váš hrdina umí, ani ho nijak neomezuje.
+
+Teď si v pořadí od začínajícího hráče vybere svou figurku a zvolte, na kterém ze startů chcete začínat.
 
 X: Volba figurky je jen estetická, hru neovlivní.
 
