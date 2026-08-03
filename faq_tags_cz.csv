@@ -1,0 +1,76 @@
+tag|name|desc
+game-principle|Princip hry|Základní princip a účel hry
+game-components|Herní prvky|Přehled komponent ve hře
+map|Mapa|Herní mapa, její sestavení a vlastnosti
+draw-decks|Dobírací balíčky|Balíčky karet vedle mapy
+hand-cards|Karty na ruce|Co hráč drží v ruce
+story-cards|Karty příběhu|Speciální karty Povolání a Jsem EPIC
+profession|Povolání|Karta povolání a její splnění
+i-am-epic|Jsem EPIC|Karta Jsem EPIC a její vyložení
+on-table|Na stole|Co hráč má před sebou na stole
+victory-points|Vítězné body|Získávání a počítání vítězných bodů
+trophies|Trofeje|Žetony poražených příšer, max 3
+monsters|Příšery|Obecně o příšerách a jejich typech
+weapons|Zbraně|Obecně o zbraních a jejich použití
+beast|Zvíře|Zelené žetony, kopí
+spear|Kopí|Zbraň na zvířata
+undead|Nemrtvý|Žluté žetony, palice
+mace|Palice|Zbraň na nemrtvé
+human|Člověk|Modré žetony, meč
+sword|Meč|Zbraň na lidi
+demon|Démon|Červené žetony, luk
+bow|Luk|Zbraň na démony
+bomb|Bomba|Zbraň na všechny příšery
+card-symbols|Symboly karet|Symboly na kartách zbraní a příšer
+deck-mixing|Míchání balíčků|Zbraně jsou v balíčcích zamíchané
+game-setup|Příprava hry|Jak připravit hru před začátkem
+help-cards|Karty nápověd|Karty s přehledem pravidel
+starting-player|Začínající hráč|Výběr prvního hráče a pořadí
+map-building|Stavba mapy|Jak se staví mapa, velitel mapy
+special-tiles|Speciální pole|Hrad, skály, starty, vesnice, teleport, věž
+mountains|Hory|Nepřekonatelná překážka na mapě
+tile-accessibility|Dostupnost polí|Kontrola že se na každé pole dá dojít
+monster-placement|Umístění příšer|Jak se umísťují příšery na mapu
+figurines|Figurky|Herní figurky hrdinů
+starting-position|Volba startu|Kde hráči začínají na mapě
+initial-weapons|Počáteční zbraně|Výběr zbraní na začátku hry
+initial-cards|Počáteční karty|Co si hráč dobere na začátku
+public-offer|Veřejná nabídka úkolů|Tři veřejně vyložené karty úkolů
+player-turn|Tah hráče|Obecný přehled tahu
+turn-phases|Fáze tahu|Jednotlivé kroky v rámci tahu
+movement|Pohyb|Fáze 1A – posouvání figurky po mapě
+combat|Boj|Souboj s příšerou, zahození zbraně
+rest|Odpočinek|Fáze 1B – když se hráč nehýbe
+equipment|Vybavení|Fáze 2 – nákup ve vesnici/věži
+drawing-weapons|Dobrání zbraní|Fáze 3 – doplnění zbraní na ruce
+quest-completion|Plnění úkolů|Fáze 4 – vyhodnocení úkolů
+victory|Vítězství|Fáze 5 – podmínky výhry
+start-tile|Pole start|Startovní pole, stan hrdiny
+village-tile|Pole vesnice|Vesnice – nákup, úkoly
+tower-tile|Pole věž|Věž – truhla s předmětem
+teleport-tile|Pole teleport|Teleportace mezi poli
+rock-tile|Pole skála|Nepřekonatelné pole
+castle-tile|Pole hrad|Hrad se dvěma příšerami
+monster-replenishment|Doplňování příšer|Doplňování příšer při odpočinku
+quest-exchange|Výměna úkolu|Výměna úkolu z ruky při odpočinku
+items|Předměty|Karty předmětů (kouzelné předměty)
+quests|Úkoly|Karty úkolů obecně
+trophy-quest|Úkol typu Trofej|Úkoly splnitelné trofejemi
+formation-quest|Úkol typu Formace|Úkoly na pozici – stůj mezi, stůj v řadě
+barrier-quest|Úkol typu Bariéra|Úkoly – chraň vesnici, zažeň ke skále
+stand-between|Stůj mezi|Formace: stůj mezi příšerami
+stand-in-line|Stůj v řadě|Formace: příšery v řadě od tebe
+protect-village|Chraň vesnici|Bariéra: stůj mezi vesnicí a příšerou
+chase-to-rock|Zažeň ke skále|Bariéra: příšera zatlačená ke skále/horám
+score|Skóre|Počítání celkového skóre
+spells|Kouzla|Obecně o kouzlech, vázaná vs. volná
+hardness-spell|Kouzlo tvrdosti|Zbraň po použití nezahazuješ
+swap-spell|Kouzlo záměny|Prohoď se s jiným hrdinou
+lure-spell|Kouzlo vábení|Přilákej příšeru z jiného pole
+rage-spell|Kouzlo vzteku|Zaútoč hned i druhou zbraní
+theft-spell|Kouzlo krádeže|Vezmi zbraň z ruky jiného hráče
+flying-spell|Kouzlo létání|Ignoruj hory při pohybu
+repeated-games|Opakované hry|Jak hrát více her za sebou
+tournament|Turnaj|Turnajový mód
+penalty-points|Trestné body|Varianta s trestnými body
+finishing-round|Dohrávání|Dohrání posledního kola

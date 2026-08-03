@@ -1,76 +1,76 @@
-tag|tag_en|tag_cz|desc_cz|desc_en
-game-principle|Game Principle|Princip hry|Základní princip a účel hry|Basic game principle and purpose
-game-components|Game Components|Herní prvky|Přehled komponent ve hře|Overview of game components
-map|Map|Mapa|Herní mapa, její sestavení a vlastnosti|Game map, its assembly and properties
-draw-decks|Draw Decks|Dobírací balíčky|Balíčky karet vedle mapy|Card decks next to the map
-hand-cards|Hand Cards|Karty na ruce|Co hráč drží v ruce|Cards the player holds in hand
-story-cards|Story Cards|Karty příběhu|Speciální karty Povolání a Jsem EPIC|Special cards Profession and I am EPIC
-profession|Profession|Povolání|Karta povolání a její splnění|Profession card and its completion
-i-am-epic|I Am EPIC|Jsem EPIC|Karta Jsem EPIC a její vyložení|I am EPIC card and its play
-on-table|On Table|Na stole|Co hráč má před sebou na stole|What the player has on the table
-victory-points|Victory Points|Vítězné body|Získávání a počítání vítězných bodů|Gaining and counting victory points
-trophies|Trophies|Trofeje|Žetony poražených příšer, max 3|Defeated monster tokens, max 3
-monsters|Monsters|Příšery|Obecně o příšerách a jejich typech|About monsters and their types
-weapons|Weapons|Zbraně|Obecně o zbraních a jejich použití|About weapons and their usage
-beast|Beast|Zvíře|Zelené žetony, kopí|Green tokens, spear
-spear|Spear|Kopí|Zbraň na zvířata|Weapon against beasts
-undead|Undead|Nemrtvý|Žluté žetony, palice|Yellow tokens, mace
-mace|Mace|Palice|Zbraň na nemrtvé|Weapon against undead
-human|Human|Člověk|Modré žetony, meč|Blue tokens, sword
-sword|Sword|Meč|Zbraň na lidi|Weapon against humans
-demon|Demon|Démon|Červené žetony, luk|Red tokens, bow
-bow|Bow|Luk|Zbraň na démony|Weapon against demons
-bomb|Bomb|Bomba|Zbraň na všechny příšery|Weapon against all monsters
-card-symbols|Card Symbols|Symboly karet|Symboly na kartách zbraní a příšer|Symbols on weapon and monster cards
-deck-mixing|Deck Mixing|Míchání balíčků|Zbraně jsou v balíčcích zamíchané|Weapons are mixed within decks
-game-setup|Game Setup|Příprava hry|Jak připravit hru před začátkem|How to set up the game
-help-cards|Help Cards|Karty nápověd|Karty s přehledem pravidel|Cards with rules summary
-starting-player|Starting Player|Začínající hráč|Výběr prvního hráče a pořadí|Choosing the first player and order
-map-building|Map Building|Stavba mapy|Jak se staví mapa, velitel mapy|How to build the map, map commander
-special-tiles|Special Tiles|Speciální pole|Hrad, skály, starty, vesnice, teleport, věž|Castle, rocks, starts, village, teleport, tower
-mountains|Mountains|Hory|Nepřekonatelná překážka na mapě|Impassable obstacle on the map
-tile-accessibility|Tile Accessibility|Dostupnost polí|Kontrola že se na každé pole dá dojít|Checking every tile is reachable
-monster-placement|Monster Placement|Umístění příšer|Jak se umísťují příšery na mapu|How monsters are placed on the map
-figurines|Figurines|Figurky|Herní figurky hrdinů|Hero figurines
-starting-position|Starting Position|Volba startu|Kde hráči začínají na mapě|Where players start on the map
-initial-weapons|Initial Weapons|Počáteční zbraně|Výběr zbraní na začátku hry|Choosing weapons at game start
-initial-cards|Initial Cards|Počáteční karty|Co si hráč dobere na začátku|What the player draws at start
-public-offer|Public Offer|Veřejná nabídka úkolů|Tři veřejně vyložené karty úkolů|Three publicly displayed quest cards
-player-turn|Player Turn|Tah hráče|Obecný přehled tahu|General turn overview
-turn-phases|Turn Phases|Fáze tahu|Jednotlivé kroky v rámci tahu|Individual steps within a turn
-movement|Movement|Pohyb|Fáze 1A – posouvání figurky po mapě|Phase 1A – moving figurine on map
-combat|Combat|Boj|Souboj s příšerou, zahození zbraně|Fight with a monster, discarding weapon
-rest|Rest|Odpočinek|Fáze 1B – když se hráč nehýbe|Phase 1B – when the player doesn't move
-equipment|Equipment|Vybavení|Fáze 2 – nákup ve vesnici/věži|Phase 2 – shopping in village/tower
-drawing-weapons|Drawing Weapons|Dobrání zbraní|Fáze 3 – doplnění zbraní na ruce|Phase 3 – refilling weapons in hand
-quest-completion|Quest Completion|Plnění úkolů|Fáze 4 – vyhodnocení úkolů|Phase 4 – evaluating quests
-victory|Victory|Vítězství|Fáze 5 – podmínky výhry|Phase 5 – winning conditions
-start-tile|Start Tile|Pole start|Startovní pole, stan hrdiny|Start tile, hero's camp
-village-tile|Village Tile|Pole vesnice|Vesnice – nákup, úkoly|Village – shopping, quests
-tower-tile|Tower Tile|Pole věž|Věž – truhla s předmětem|Tower – chest with item
-teleport-tile|Teleport Tile|Pole teleport|Teleportace mezi poli|Teleportation between tiles
-rock-tile|Rock Tile|Pole skála|Nepřekonatelné pole|Impassable tile
-castle-tile|Castle Tile|Pole hrad|Hrad se dvěma příšerami|Castle with two monsters
-monster-replenishment|Monster Replenishment|Doplňování příšer|Doplňování příšer při odpočinku|Replenishing monsters during rest
-quest-exchange|Quest Exchange|Výměna úkolu|Výměna úkolu z ruky při odpočinku|Exchanging a quest from hand during rest
-items|Items|Předměty|Karty předmětů (kouzelné předměty)|Item cards (magical items)
-quests|Quests|Úkoly|Karty úkolů obecně|Quest cards in general
-trophy-quest|Trophy Quest|Úkol typu Trofej|Úkoly splnitelné trofejemi|Quests completed by trophies
-formation-quest|Formation Quest|Úkol typu Formace|Úkoly na pozici – stůj mezi, stůj v řadě|Position quests – stand between, stand in line
-barrier-quest|Barrier Quest|Úkol typu Bariéra|Úkoly – chraň vesnici, zažeň ke skále|Quests – protect village, chase to rock
-stand-between|Stand Between|Stůj mezi|Formace: stůj mezi příšerami|Formation: stand between monsters
-stand-in-line|Stand In Line|Stůj v řadě|Formace: příšery v řadě od tebe|Formation: monsters in line from you
-protect-village|Protect Village|Chraň vesnici|Bariéra: stůj mezi vesnicí a příšerou|Barrier: stand between village and monster
-chase-to-rock|Chase To Rock|Zažeň ke skále|Bariéra: příšera zatlačená ke skále/horám|Barrier: monster pushed to rock/mountains
-score|Score|Skóre|Počítání celkového skóre|Calculating total score
-spells|Spells|Kouzla|Obecně o kouzlech, vázaná vs. volná|About spells, bound vs. free
-hardness-spell|Hardness Spell|Kouzlo tvrdosti|Zbraň po použití nezahazuješ|Weapon not discarded after use
-swap-spell|Swap Spell|Kouzlo záměny|Prohoď se s jiným hrdinou|Swap places with another hero
-lure-spell|Lure Spell|Kouzlo vábení|Přilákej příšeru z jiného pole|Lure a monster from another tile
-rage-spell|Rage Spell|Kouzlo vzteku|Zaútoč hned i druhou zbraní|Attack immediately with second weapon
-theft-spell|Theft Spell|Kouzlo krádeže|Vezmi zbraň z ruky jiného hráče|Take a weapon from another player's hand
-flying-spell|Flying Spell|Kouzlo létání|Ignoruj hory při pohybu|Ignore mountains during movement
-repeated-games|Repeated Games|Opakované hry|Jak hrát více her za sebou|How to play multiple games in a row
-tournament|Tournament|Turnaj|Turnajový mód|Tournament mode
-penalty-points|Penalty Points|Trestné body|Varianta s trestnými body|Variant with penalty points
-finishing-round|Finishing Round|Dohrávání|Dohrání posledního kola|Finishing the last round
+tag|name|desc
+game-principle|Game Principle|Basic game principle and purpose
+game-components|Game Components|Overview of game components
+map|Map|Game map, its assembly and properties
+draw-decks|Draw Decks|Card decks next to the map
+hand-cards|Hand Cards|Cards the player holds in hand
+story-cards|Story Cards|Special cards Profession and I am EPIC
+profession|Profession|Profession card and its completion
+i-am-epic|I Am EPIC|I am EPIC card and its play
+on-table|On Table|What the player has on the table
+victory-points|Victory Points|Gaining and counting victory points
+trophies|Trophies|Defeated monster tokens, max 3
+monsters|Monsters|About monsters and their types
+weapons|Weapons|About weapons and their usage
+beast|Beast|Green tokens, spear
+spear|Spear|Weapon against beasts
+undead|Undead|Yellow tokens, mace
+mace|Mace|Weapon against undead
+human|Human|Blue tokens, sword
+sword|Sword|Weapon against humans
+demon|Demon|Red tokens, bow
+bow|Bow|Weapon against demons
+bomb|Bomb|Weapon against all monsters
+card-symbols|Card Symbols|Symbols on weapon and monster cards
+deck-mixing|Deck Mixing|Weapons are mixed within decks
+game-setup|Game Setup|How to set up the game
+help-cards|Help Cards|Cards with rules summary
+starting-player|Starting Player|Choosing the first player and order
+map-building|Map Building|How to build the map, map commander
+special-tiles|Special Tiles|Castle, rocks, starts, village, teleport, tower
+mountains|Mountains|Impassable obstacle on the map
+tile-accessibility|Tile Accessibility|Checking every tile is reachable
+monster-placement|Monster Placement|How monsters are placed on the map
+figurines|Figurines|Hero figurines
+starting-position|Starting Position|Where players start on the map
+initial-weapons|Initial Weapons|Choosing weapons at game start
+initial-cards|Initial Cards|What the player draws at start
+public-offer|Public Offer|Three publicly displayed quest cards
+player-turn|Player Turn|General turn overview
+turn-phases|Turn Phases|Individual steps within a turn
+movement|Movement|Phase 1A – moving figurine on map
+combat|Combat|Fight with a monster, discarding weapon
+rest|Rest|Phase 1B – when the player doesn't move
+equipment|Equipment|Phase 2 – shopping in village/tower
+drawing-weapons|Drawing Weapons|Phase 3 – refilling weapons in hand
+quest-completion|Quest Completion|Phase 4 – evaluating quests
+victory|Victory|Phase 5 – winning conditions
+start-tile|Start Tile|Start tile, hero's camp
+village-tile|Village Tile|Village – shopping, quests
+tower-tile|Tower Tile|Tower – chest with item
+teleport-tile|Teleport Tile|Teleportation between tiles
+rock-tile|Rock Tile|Impassable tile
+castle-tile|Castle Tile|Castle with two monsters
+monster-replenishment|Monster Replenishment|Replenishing monsters during rest
+quest-exchange|Quest Exchange|Exchanging a quest from hand during rest
+items|Items|Item cards (magical items)
+quests|Quests|Quest cards in general
+trophy-quest|Trophy Quest|Quests completed by trophies
+formation-quest|Formation Quest|Position quests – stand between, stand in line
+barrier-quest|Barrier Quest|Quests – protect village, chase to rock
+stand-between|Stand Between|Formation: stand between monsters
+stand-in-line|Stand In Line|Formation: monsters in line from you
+protect-village|Protect Village|Barrier: stand between village and monster
+chase-to-rock|Chase To Rock|Barrier: monster pushed to rock/mountains
+score|Score|Calculating total score
+spells|Spells|About spells, bound vs. free
+hardness-spell|Hardness Spell|Weapon not discarded after use
+swap-spell|Swap Spell|Swap places with another hero
+lure-spell|Lure Spell|Lure a monster from another tile
+rage-spell|Rage Spell|Attack immediately with second weapon
+theft-spell|Theft Spell|Take a weapon from another player's hand
+flying-spell|Flying Spell|Ignore mountains during movement
+repeated-games|Repeated Games|How to play multiple games in a row
+tournament|Tournament|Tournament mode
+penalty-points|Penalty Points|Variant with penalty points
+finishing-round|Finishing Round|Finishing the last round
