@@ -1,0 +1,132 @@
+order|tags|question|answer
+1|princip-hry|O čem je hra Jen buď EPIC?|Je to kompetitivní hra pro 2–4 hráče. Střídáte se v tazích, posouváte figurky po mapě, bojujete s příšerami pomocí zbraní a plníte úkoly. Kdo nejrychleji nasbírá dostatek slávy (vítězných bodů a splněných úkolů), vyhrává.
+2|princip-hry|Kolik hráčů může hrát?|Hra je pro 2 až 4 hráče.
+3|princip-hry|Jak se ve hře vyhrává?|Bojem s příšerami a plněním úkolů si dobýváte slávu (vítězné body). Kdo první dosáhne potřebného skóre, vyhrává.
+4|herní-prvky,mapa|Co je na mapě?|Na mapě stojí figurky hrdinů a leží žetony příšer a vítězných bodů. Vše na mapě je veřejné – kde kdo stojí a jaké příšery kde jsou.
+5|herní-prvky,dobírací-balíčky|Jaké dobírací balíčky existují?|Je šest dobíracích balíčků lícem dolů: čtyři zbraně (kopí, palice, meče, luky), úkoly a předměty. Dále je tu veřejná nabídka úkolů (lícem nahoru) a odkládací balíček zahraných karet.
+6|herní-prvky,karty-na-ruce|Co hráč drží na ruce?|Karty zbraní, předmětů a úkolů – všechny tajné. Navíc dvě karty příběhu: Povolání a Jsem EPIC.
+7|herní-prvky,karty-na-ruce|Kolik zbraní mohu mít najednou na ruce?|Nanejvýš dvě zbraně. Karet úkolů a předmětů můžete mít kolik chcete.
+8|herní-prvky,karty-příběhu,povolání,jsem-epic|Co jsou karty příběhu?|Jsou dvě: Povolání (unikátní pro každého hráče, vylosovaná na začátku) a Jsem EPIC (stejná pro všechny). Obě fungují jako potenciální vítězné body.
+9|herní-prvky,na-stole,vítězné-body,trofeje|Co mám před sebou na stole?|Hromádku získaných vítězných bodů, karty splněných úkolů a žetony poražených příšer (trofeje).
+10|příšery,zbraně|Jak funguje boj s příšerami?|Každý druh příšery se poráží konkrétní zbraní. Stačí mít na ruce správnou zbraň, zahodit ji a příšera je poražená. Vezměte si žeton příšery jako trofej a vítězný bod si položíte před sebe.
+11|příšery,zbraně|Jak poznám, která zbraň je na kterou příšeru?|Je to napsané na rubu dobíracích balíčků zbraní. Také je na líci každé zbraně v levém horním rohu symbol příšery, na kterou platí.
+12|příšery,zvíře,kopí|Co je zvíře?|Zelené žetony s rohy. Představují dravce (obří medvěd, smečka vlků). Platí na ně kopí.
+13|příšery,nemrtvý,palice|Co je nemrtvý?|Žluté žetony s křížky místo očí. Představují zombie, duchy, kostlivce. Platí na ně palice.
+14|příšery,člověk,meč|Co je člověk (jako příšera)?|Modré napůl plné žetony. Představují bandity, čaroděje. Platí na ně meč.
+15|příšery,démon,luk|Co je démon?|Červené žetony rozetlé bleskem. Bytosti z jiného světa. Platí na ně luk.
+16|zbraně,bomba|Co je bomba?|Pátá zbraň, která působí na všechny příšery bez rozdílu. Má svůj vlastní symbol.
+17|zbraně,míchání-balíčků|Jsou v balíčku vždy jen zbraně odpovídající jeho rubu?|Ne! Čtvrtina zbraní v každém balíčku neodpovídá rubu. Při dobrání z balíčku luků máte šanci 1:3, že vytáhnete palici, kopí nebo meč.
+18|příprava-hry,nápovědy|K čemu jsou karty nápověd?|Obsahují shrnutí nejdůležitějších pravidel hry. Dejte je na dosažitelné místo, aby si hráči mohli pravidla snáze osvojit.
+19|příprava-hry,začínající-hráč|Jak se vybírá začínající hráč?|Vyberte někoho méně zkušeného – začínající hráč má malou výhodu. Hraje se po směru hodinových ručiček.
+20|příprava-hry,stavba-mapy,mapa|Kdo staví mapu?|Hráč napravo od začínajícího (hraje poslední) je velitel mapy. Jako kompenzaci velet stavbě mapy.
+21|příprava-hry,stavba-mapy,mapa|Jak se staví mapa?|Velitel mapy vezme 5 speciálních polí (hrad, dvě skály, dva starty) a odloží je. Zbytek zamíchá. Rozloží speciální pole podle vybraného tvaru mapy. Ostatní pole pokládá lícem nahoru a každé náhodně otočí. Jedno pole přebyde – vrátí se do krabice.
+22|příprava-hry,stavba-mapy,mapa|Má mapa vypadat symetricky?|Ne, mapa má působit náhodně. Srovnávání orientace polí hře uškodí.
+23|příprava-hry,stavba-mapy,hory,dostupnost-polí|Co když je nějaké pole nedostupné?|Po sestavení mapy zkontrolujte, zda se na každé pole dá dojít od startu nebo teleportu (vodorovně/svisle, ne přes hory). Pokud ne, velitel mapy pootočí problémové pole.
+24|příprava-hry,umístění-příšer,vítězné-body|Jak se umísťují příšery na začátku?|Na každé pole vylosujte jednu příšeru z váčku. Na hrad dvě. Na start, skálu, vesnici a teleport příšery nedávejte. Na každou příšeru položte vítězný bod.
+25|příprava-hry,dobírací-balíčky|Jak se připraví dobírací balíčky?|Zamíchejte všech šest balíčků: kopí, palice, meče, luky, předměty a úkoly.
+26|příprava-hry,karty-příběhu,povolání|Jak se rozdělují karty příběhu?|Každý si dobere dvě karty příběhu. Jsem EPIC mají všichni stejnou. Povolání se losuje.
+27|příprava-hry,figurky,volba-startu|Jak si vybírám figurku a start?|Od začínajícího hráče si každý vybere figurku (volba je jen estetická). Zvolte, na kterém startu chcete začínat. Můžete i všichni na stejném.
+28|příprava-hry,volba-startu|Vím při volbě startu, jaké budou úkoly?|Ne, při výběru startu ještě neznáte úkoly. Znáte pouze svou kartu povolání.
+29|příprava-hry,počáteční-zbraně,zbraně|Jak probíhá výběr počátečních zbraní?|Každý si dobere 1 úkol, 1 předmět a 2 zbraně. Zbraně berete postupně od začínajícího hráče, z jakých balíčků chcete. Doporučuje se nejdřív vzít jednu zbraň, podívat se na ni, a pak vybrat druhou.
+30|příprava-hry,počáteční-zbraně|Proč je důležitý výběr počátečních zbraní?|Špatný výběr může ztížit začátek hry. Přečtěte si nejprve pravidla o tahu hráče, abyste věděli, jak se zbraně používají.
+31|příprava-hry,veřejná-nabídka|Jak se připraví veřejná nabídka úkolů?|Z dobíracího balíčku úkolů otočte tři vrchní karty a vyložte je. Tím je hra připravená.
+32|tah-hráče,fáze-tahu|Jaké jsou fáze tahu?|1A) Pohyb nebo 1B) Odpočinek, 2) Vybavení, 3) Dobrání zbraní, 4) Plnění úkolů, 5) Vítězství.
+33|tah-hráče,fáze-tahu|Můžou mi ostatní hráči zasahovat do tahu?|Vždy hraje jeden hráč a ostatní mu do tahu nezasahují. Ale mohou mu do toho mluvit.
+34|pohyb,boj|Jak funguje pohyb?|Posunete figurku o jedno pole vodorovně nebo svisle. Nikdy ne přes hory. Při každém pohybu musíte zahodit zbraň – i když vstupujete na pole bez příšery.
+35|pohyb,boj,vítězné-body,trofeje|Co se stane, když vstoupím na pole s příšerou?|Zahodíte odpovídající zbraň, posunete figurku na pole, vezmete si příšeru jako trofej a vítězný bod si položíte před sebe.
+36|pohyb,boj|Musím zahodit zbraň i na poli bez příšery?|Ano, při každém pohybu zahodíte zbraň, i když jdete na prázdné pole nebo do vesnice.
+37|pohyb,hory|Můžu přejít přes hory?|Ne, hory jsou nepřekonatelná překážka. Výjimkou je kouzlo létání.
+38|pohyb,figurky|Můžu stát na stejném poli jako jiný hráč?|Ano, ostatní hrdinové vás v pohybu nijak neomezují. Můžete s nimi být na stejném poli.
+39|pohyb,odpočinek|Co když se nemůžu nebo nechci pohnout?|Pak odpočíváte (fáze 1B). I při odpočinku hrajete ostatní fáze tahu (2–5).
+40|pole-start|Co je pole start?|Místo, kde máte stan. Příšery se sem neumísťují. Kouzlem vábení sem ale příšeru přivolat můžete.
+41|pole-vesnice,vybavení|Co je pole vesnice?|Vesnice s usedlostmi a hostincem. Příšery se sem neumísťují. Hráči tu mohou nakupovat předměty a brát úkoly.
+42|pole-věž,vybavení|Co je pole věž?|Věž s ukrytou truhlou. Příšera tu je, ale po jejím poražení můžete prozkoumat truhlu a dostat kartu předmětu.
+43|pole-teleport,pohyb|Jak funguje teleport?|Na teleportu nemůžete stát a nikdy na něm není příšera. Když stojíte vedle teleportu, můžete jedním krokem projít na pole sousedící s jakýmkoliv teleportem na mapě. Stále odevzdáváte zbraň.
+44|pole-teleport|Můžu projít teleportem přes hory?|Na teleport a z něj nesmíte jít přes hory. Ale kouzlo létání hory na poli teleportu umožní přeletět.
+45|pole-teleport|Můžu teleportem vstoupit a vystoupit na stejné pole?|Ne, musíte z teleportu vystoupit na jiné pole, než ze kterého jste vyšli.
+46|pole-teleport,plnění-úkolů|Počítá se teleport pro plnění úkolů?|Ne, teleporty jsou pro plnění úkolů vždy překážkou. Příšera na druhé straně teleportu nestačí.
+47|pole-skála|Co je pole skála?|Přes skálu se nedá nijak projít. Ani příšery se sem neodváží. Ani kouzlo létání nepomůže.
+48|pole-hrad,boj|Jak funguje hrad?|Na hradě jsou dvě příšery. Musíte porazit obě najednou – k boji použijete obě své zbraně. Nemůžete porazit jen jednu.
+49|pole-hrad,boj,kouzla|Můžu na hradě použít kouzla?|Ano, na každou zbraň smíte použít kouzlo, ale není to povinné. Je běžné dvakrát použít jednu zbraň s kouzlem tvrdosti nebo dvě různé zbraně.
+50|pole-hrad,kouzlo-vábení|Může mít hrad méně než dvě příšery?|Ano, kouzlem vábení vám někdo mohl příšeru z hradu ukrást. Nemusí tam být vždy dvě.
+51|odpočinek|Kdy odpočívám?|Pokud se nemůžete nebo nechcete pohnout. Můžete odpočívat i dobrovolně.
+52|odpočinek,zbraně|Co se stane se zbraněmi při odpočinku?|Nejprve zahodíte z ruky všechny zbývající zbraně.
+53|odpočinek,doplňování-příšer|Jak se doplňují příšery při odpočinku?|Na všechna volná pole mapy vylosujte nové příšery z váčku. Nedoplňujte na hrad, start, vesnici, teleport, skálu ani na pole s figurkami. Na nové příšery nedávejte vítězné body.
+54|odpočinek,doplňování-příšer|Proč nové příšery nemají vítězný bod?|Nové příšery jsou nové, žádná sláva za ně nebude.
+55|odpočinek,doplňování-příšer,pole-hrad|Doplňují se příšery na hrad?|Ne, na hrad se nové příšery nikdy nedávají.
+56|odpočinek,doplňování-příšer|Doplní se příšera na pole, kde jsem stál před odpočinkem?|Ne, na pole kde stála figurka (i ta, co šla odpočívat) se příšera nedává.
+57|odpočinek,výměna-úkolu|Můžu si při odpočinku vyměnit úkol?|Ano, můžete vyměnit jeden úkol z ruky za nový. Nejprve zahodíte starý, pak si doberete nový z balíčku.
+58|odpočinek,volba-startu|Kam se přesunu při odpočinku?|Buď zůstanete tam, kde jste byli, nebo se přesuňte na libovolné pole start.
+59|odpočinek,vybavení|Můžu nakupovat ve vesnici, když tam odpočívám?|Ano, i při odpočinku hrajete ostatní fáze tahu, včetně vybavení.
+60|odpočinek,plnění-úkolů|Můžu při odpočinku plnit úkoly?|Ano, i nově získané úkoly.
+61|vybavení,pole-vesnice,pole-věž|Kdy si můžu dobrat předmět nebo úkol?|Když ve svém tahu přijdete, projdete nebo odpočíváte na poli vesnice nebo věže.
+62|vybavení,pole-vesnice,pole-věž,předměty|Co získám ve věži a ve vesnici?|Ve věži i ve vesnici si doberete kartu předmětu. Ve vesnici navíc kartu úkolu.
+63|vybavení|Můžu použít nově dobraný předmět hned v tomto tahu?|Ne, vybavení řešíte před dobíráním zbraní ale po pohybu. Nový předmět tento tah nestíháte použít.
+64|vybavení,úkoly|Můžu splnit nově dobraný úkol hned v tomto tahu?|Ano, nový úkol z vesnice můžete hned splnit ve fázi plnění úkolů.
+65|vybavení|Nestihnu nakoupit, pokud jsem z pole jen odešel?|Správně, pokud jste na poli byli jen na začátku tahu a tento tah odešli pryč, nakoupit nestihnete.
+66|vybavení,pole-vesnice,úkoly|Jak funguje vývěska úkolů ve vesnici?|Jednu kartu z veřejné nabídky nebo z dobíracího balíčku si vezmete na ruku. Navíc jednu kartu z nabídky můžete (ale nemusíte) zahodit.
+67|vybavení,pole-vesnice,veřejná-nabídka|Kolik úkolů můžu z nabídky ve vesnici odstranit?|Až dvě karty úkolů – jednu si vezmete a jednu můžete zahodit. Nabídka se doplní před tahem příštího hráče.
+68|vybavení,předměty,úkoly|Je limit na počet předmětů nebo úkolů na ruce?|Ne, karet předmětů ani úkolů na ruce můžete mít kolik chcete.
+69|dobrání-zbraní,zbraně|Jak si dobírám zbraně po pohybu?|Dobíráte do dvou zbraní. První zbraň berete z balíčku podle pole, kde stojíte (symboly na poli). Druhou zbraň z libovolného balíčku.
+70|dobrání-zbraní|Co když mi nechybí žádná zbraň?|Pokud máte stále dvě, nedobírejte si žádnou.
+71|dobrání-zbraní,pole-start,pole-hrad,pole-vesnice|Kde nemám omezení na dobrání první zbraně?|Na polích start, hrad a vesnice není žádné omezení.
+72|dobrání-zbraní,dobírací-balíčky|Co když dobírací balíček dojde?|Roztřiďte odhazovací balíček a dobírací balíčky obnovte.
+73|dobrání-zbraní,trofeje|Kolik trofejí si mohu nechat?|Maximálně tři. Po dobrání zbraní musíte nadbytečné trofeje zahodit. Zvažte, které se hodí k úkolům.
+74|plnění-úkolů|Kdy se plní úkoly?|Po dobrání zbraní, ve fázi 4. Najednou můžete splnit libovolný počet úkolů.
+75|plnění-úkolů|Odkud mohu plnit úkoly?|Z veřejné nabídky, ze svých úkolů na ruce a ze svých karet příběhu.
+76|plnění-úkolů,vítězné-body|Kolik bodů je za splněný úkol?|Každý splněný úkol (i karta příběhu) má hodnotu jednoho vítězného bodu.
+77|plnění-úkolů,veřejná-nabídka|Co se stane po splnění úkolů z veřejné nabídky?|Doplňte nabídku z balíčku na tři karty. Pokud jsou po doplnění všechny tři stejného typu, zahoďte je a doplňte nové.
+78|plnění-úkolů,veřejná-nabídka|Můžu splnit nově doplněné karty do nabídky?|Ne, doplňování nabídky je na konci vašeho tahu. Nově otočené úkoly už nemůžete splnit.
+79|plnění-úkolů,povolání,karty-příběhu|Jak se splní karta Povolání?|Pokud po dobrání zbraní držíte v ruce právě ty zbraně, které jsou na kartě povolání napsané.
+80|plnění-úkolů,povolání|Můžu dostat jinou kartu povolání během hry?|Ne, celou hru máte tu, kterou jste dostali na začátku.
+81|plnění-úkolů,jsem-epic,karty-příběhu|Jak se vykládá karta Jsem EPIC?|Vyložte ji současně s první kartou úkolu, kterou vykládáte z ruky. Získáte tak za první splněný úkol z ruky dva body.
+82|plnění-úkolů,jsem-epic|Vykládá se Jsem EPIC s kartou povolání?|Ne, Jsem EPIC se vykládá pouze s kartou úkolu, nikoliv s kartou povolání.
+83|plnění-úkolů,jsem-epic|Může to být úkol, který jsem právě získal ve vesnici?|Ano, může to být i úkol získaný v tomto tahu ve vesnici.
+84|plnění-úkolů,úkol-trofej,trofeje|Jak fungují úkoly typu Trofej?|Mají symboly příšer. Splníte je, když máte odpovídající trofeje – buď dvě stejné, nebo tři různé. Trofeje se neodevzdávají.
+85|plnění-úkolů,úkol-trofej|Můžu splnit víc úkolů typu Trofej najednou?|Ne, nikdy nemůžete splnit v jednom tahu víc než jeden úkol typu Trofej.
+86|plnění-úkolů,úkol-trofej|Mohu mít nadbytečnou trofej a stále splnit úkol?|Ano, pro splnění úkolu "dvě trofeje zvířat" můžete mít i jakoukoli třetí trofej.
+87|plnění-úkolů,úkol-formace,úkol-bariéra|Jak fungují úkoly Formace a Bariéra?|Musíte stát na mapě ve vodorovném či svislém směru tak, jak je na úkolu znázorněno. Natěsno, bez mezer, hned vedle sebe.
+88|plnění-úkolů,úkol-formace,úkol-bariéra|Musí formace být v přímce?|Ano, celé vodorovně nebo celé svisle. Nesmí to být do zatáčky nebo po úhlopříčce. Mezi vámi nesmí být hory.
+89|plnění-úkolů,stůj-mezi,úkol-formace|Co je úkol „stůj mezi"?|Musíte stát mezi vyobrazenými příšerami (ve vodorovné nebo svislé řadě, natěsno).
+90|plnění-úkolů,stůj-v-řadě,úkol-formace|Co je úkol „stůj v řadě"?|V řadě od vás musí stát vyobrazené příšery.
+91|plnění-úkolů,chraň-vesnici,úkol-bariéra|Co je úkol „chraň vesnici"?|Musíte mít po jedné straně vesnici a po druhé vyobrazenou příšeru. Nebo stát ve vesnici, která má vedle sebe příšeru. Věž nestačí, musí to být vesnice.
+92|plnění-úkolů,zažeň-ke-skále,úkol-bariéra|Co je úkol „zažeň ke skále"?|Musíte stát vedle příšery a těsně za ní musí být skála nebo hory.
+93|plnění-úkolů|Počítá se pozice na začátku tahu pro úkoly?|Ne, úkoly plníte na konci tahu. Počítá se vaše pozice na mapě na konci tahu. Že jste někudy proběhli, nestačí.
+94|vítězství,skóre|Kolik bodů potřebuji k vítězství?|Pro 2 hráče 12 bodů, pro 3 hráče 10 bodů, pro 4 hráče 9 bodů.
+95|vítězství,skóre|Jak se počítá skóre?|Součet nasbíraných vítězných bodů + splněných úkolů + vyložených karet příběhu.
+96|vítězství|Kdy přesně vyhrávám?|Ihned, jakmile dosáhnete potřebného skóre. Hra nekončí kolem.
+97|kouzla|Co jsou kouzla?|Kouzla mění pravidla a jsou buď vázaná na zbraň (nakreslená na kartě zbraně) nebo volná (na kartě předmětu). Používají se při pohybu po mapě.
+98|kouzla|Je kouzlo povinné?|Ne, žádné kouzlo není povinné. Každou zbraň lze použít, jako by kouzlo neměla.
+99|kouzla|Můžu použít víc kouzel na jednu zbraň?|Ne, žádnou zbraň nelze použít s více než jedním kouzlem.
+100|kouzla,předměty|Jak fungují kouzla z předmětů?|Použijete předmět se zbraní – odhodíte jak zbraň, tak předmět. Kouzlo z předmětu nahrazuje případné kouzlo na zbrani.
+101|kouzla|Můžu použít kouzlo na prázdném poli?|Ano, můžete jít na pole bez příšery a přitom použít zbraň s kouzlem.
+102|kouzla,pole-hrad|Můžu použít víc kouzel za tah?|Ano, pokud používáte víc zbraní (např. na hradě). Každé kouzlo ale patří ke konkrétní zbrani.
+103|kouzlo-tvrdosti|Jak funguje kouzlo tvrdosti?|Po použití zbraně ji nezahazujete. Kouzlo je ale vyčerpáno – při příštím použití zbraň zahodíte. Pokud bylo kouzlo na předmětu, zahodíte předmět a zbraň si necháte.
+104|kouzlo-tvrdosti|Jak poznám vyčerpané kouzlo?|Zbraň s vyčerpaným kouzlem si můžete v ruce otočit – má v pravém dolním rohu symbol vyčerpaného kouzla.
+105|kouzlo-tvrdosti,zbraně|Můžu mít tři zbraně díky kouzlu tvrdosti?|Ne, maximálně dvě zbraně. Novou si pak nedobíráte.
+106|kouzlo-tvrdosti,kouzlo-krádeže|Co když mi někdo sebere zbraň s vyčerpaným kouzlem?|Kouzlo s novým majitelem nabere sílu a bude možné ho použít znovu.
+107|kouzlo-záměny|Jak funguje kouzlo záměny?|Před útokem se prohodíte s jiným hrdinou na mapě. Pak zaútočíte z jeho původní pozice. Nejdřív prohození, pak útok.
+108|kouzlo-záměny|Je u kouzla záměny podmínka na sousední pole?|Ano, vedle jiného hráče musí být pole, na které s touto zbraní můžete jít.
+109|kouzlo-vábení|Jak funguje kouzlo vábení?|Vyberete příšeru na mapě, kterou jde vaší zbraní porazit, a dáte ji na pole, kam útočíte. Pokud tam příšera je, vyměníte je. S příšerami se přesouvají i vítězné body.
+110|kouzlo-vábení|Můžu přilákat příšeru, co neodpovídá zbrani?|Ne, přivábená příšera musí odpovídat zbrani s kouzlem vábení. Kopím přivábit lze pouze zvíře.
+111|kouzlo-vábení|Můžu vábením jen odlákat příšeru bez boje?|Ne, musíte příšeru přivábit a porazit. Nemůžete ji jen odvábit pryč.
+112|kouzlo-vábení|Můžu přivábit příšeru na start nebo do vesnice?|Ano, jde přivábit příšeru i na pole, kde by normálně nebyla (start, vesnice). Stejně ji hned zlikvidujete.
+113|kouzlo-vábení,pole-hrad|Můžu vábením manipulovat s příšerami z hradu?|Ano, vábením můžete prohodit nebo odlákat příšeru z hradu.
+114|kouzlo-vábení,pole-hrad|Můžu na hradě vábením přilákat příšeru pro druhou zbraň?|Ne, vždy vábíte příšeru pro tu zbraň, na které je kouzlo vábení. Kopím přivábit můžete pouze zvíře.
+115|kouzlo-vzteku|Jak funguje kouzlo vzteku?|Použijete zbraň, pohnete se, zlikvidujete příšeru. Pak vezmete druhou zbraň a uděláte další krok a další útok. Druhou zbraň musíte mít.
+116|kouzlo-vzteku|Můžu zuřivě zaútočit na prázdné pole?|Ano, i na prázdné pole můžete zaútočit zuřivě a hned běžet dál.
+117|kouzlo-vzteku|Kdy si dobírám karty při zuřivosti?|Zbraně a předměty dobíráte až po dokončení celého pohybu. Během tahu si musíte vystačit s tím, co máte.
+118|kouzlo-vzteku|Může mít druhá zbraň vlastní kouzlo?|Ano, druhá zbraň může mít své vlastní kouzlo. Ale nejprve musíte použít tu první s kouzlem vzteku.
+119|kouzlo-vzteku,pole-hrad|Můžu se zuřivostí dostat na hrad nebo z hradu?|Ano, můžete po boji vtrhnout na hrad nebo z hradu utéct na další pole. Ale obojí v jednom tahu ne.
+120|kouzlo-vzteku|Můžu použít zuřivost dvakrát za tah?|Ne, protože nemůžete mít více než dvě zbraně, nemá to smysl.
+121|kouzlo-vzteku,vybavení,pole-vesnice,pole-věž|Doberu si předmět, když zuřivostí proběhnu vesnicí/věží?|Ano, ale dobíráte si ho až po konci pohybu. Tento tah ho nesmíte použít.
+122|kouzlo-krádeže|Jak funguje kouzlo krádeže?|Místo dobrání první zbraně z balíčku ji vezmete z ruky jiného hráče. Můžete vzít jakýkoliv druh zbraně od jakéhokoliv hráče na jakoukoli vzdálenost.
+123|kouzlo-krádeže|Vidím karty, ze kterých vybírám při krádeži?|Cílený hráč ukáže pouze zadní strany karet. Nemusí říkat, jaká zbraň to ve skutečnosti je ani jestli má kouzlo.
+124|kouzlo-krádeže,dobrání-zbraní|Jak se chová druhá dobíraná zbraň po krádeži?|Kdybyste si měli dobrat i druhou zbraň, berete ji z libovolného balíčku (jako normálně).
+125|kouzlo-létání|Jak funguje kouzlo létání?|Při jednom útoku zbraní můžete ignorovat hory v cestě. Ale jen pro tento útok – pro plnění úkolů tam hory opět jsou.
+126|kouzlo-létání,pole-skála|Můžu přeletět skálu?|Ne, pole skála přejít nejde ani s kouzlem létání. Je na něm i symbol „Bez létání".
+127|kouzlo-létání|Musím za horami porazit příšeru?|Ne, příšeru za horami musíte porazit zbraní, ale můžete také letět na pole bez příšery.
+128|opakované-hry|Jak hrát více her za sebou?|Můžete hrát např. na dvě vítězné hry. Každou další hru zahajuje hráč po tom, kdo předchozí hru vyhrál (vítěz hraje poslední).
+129|opakované-hry,turnaj,trestné-body|Jak funguje turnaj na trestné body?|Každý dostane tolik trestných bodů, kolik mu chybí k vítězství. Turnaj vyhraje ten s nejmenším součtem trestných bodů.
+130|opakované-hry,dohrávání|Jak funguje dohrávání posledního kola?|Když první hráč dosáhne vítězných bodů, dohrajete kolo až k začínajícímu hráči. Pokud má více hráčů stejně bodů, vyhraje ten s více splněnými úkoly.
+131|plnění-úkolů|Tvoří splněné úkoly titul hrdiny?|Ano, jména splněných úkolů dělají titul, kterým vám místní budou říkat.
