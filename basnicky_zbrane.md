@@ -252,7 +252,7 @@
 
 | **Žhavý úder** |
 |:--:|
-| Plamen líbá mráz,<br>žár v ledu spí,<br>úder tříští svět,<br>čas ztrácí vládu. |
+| Plamen líbá mráz,<br>žár spí v ledu,<br>úder tříští svět<br>a čas ztrácí vládu. |
 
 </p>
 
@@ -262,7 +262,7 @@
 
 | **Přivolávač duchů** |
 |:--:|
-| Tmavé ostří šeptá,<br>potají sbírá sílu,<br>lebky v něm spí,<br>a duše křičí. |
+| Tmavé ostří šeptá,<br>potají sbírá sílu,<br>lebky v něm spí<br>a duše křičí. |
 
 </p>
 
@@ -282,7 +282,7 @@
 
 | **Mrazivý šepot** |
 |:--:|
-| Ledový dech<br>a srdce ze zlata.<br>Když se obnaží,<br>krev mrzne strachem. |
+| Ledový dech<br>a srdce ze zlata,<br>jediný výdech<br>a krev mrzne strachem. |
 
 </p>
 
@@ -392,7 +392,7 @@
 
 | **Trn věčnosti** |
 |:--:|
-| Vrásky stáří na dřevě,<br>šíp protne vzduch,<br>Zubaté, té neutečem,<br>a uzavře se kruh. |
+| Vrásky stáří na dřevě,<br>šíp protne vzduch,<br>Zubaté, té neutečem,<br>uzavře se kruh. |
 
 </p>
 
