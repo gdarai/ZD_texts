@@ -1,0 +1,11 @@
+Formulujeme text pravidel deskové hry.
+Pracujeme po kapitolách.
+
+Text je extrakt z hotového word dokumentu, začni odstraněním zbytečných mezer a formátovacích znaků.
+Text je napsaný jako příběh, potřebuji abys ho rozdělil a vrátil jako 3 samostatné kapitoly.
+
+A) Jádro:  jádro textu - samotná pravidla
+B) What-fi: doplňková pravidla pokrývající krajní případy
+C) Flavour: Zábavný text - Vše co se netýká přímo pravidel, a je spíš pro pobavení čtenáře.
+
+Převeď A a B do jednoduché 3. osoby jednotného čísla on-hráč.
