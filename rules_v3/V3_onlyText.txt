@@ -1,0 +1,262 @@
+Vítej v tomto kraji, dobrodruhu! Obyvatelé jsou trápeni příšerami, a proto jste přišli Vy. Boj s příšerami je vaše řemeslo. A jste v něm EPICky dobří. Síň slávy však čeká jen na nejrychlejšího z vás.
+
+# Princip hry
+
+Jen buď EPIC je kompetitivní hra pro 2–4 hráče. Hráč se střídá v tazích s ostatními hráči. Posouvá svou figurku po mapě, bojuje s příšerami a plní úkoly. Hraje karty zbraní a kouzelných předmětů. Bojem s příšerami a plněním úkolů získává vítězné body. Jedna hra trvá přibližně 40 minut.
+
++++
+Každá kapitola pravidel má tři části pro snadnější orientaci. Samotný text pravidel. Potom upřesnění pravidel, které odpoví na otázky, které čtenář může mít. A nakonec průvodní text.
+
+Flavour:
+Vítej, na cestě dobrodruhů. Brzy se naučíš, že stejně jako statečnost, je důležitě být ve svých skutcích co nejvíc EPIC. My, jsme na této cestě již dlouho a tak se ti budem snažit, ve tvých prvních krocích radit. Je to život plný akce. Kouzelný předmět vystřídá legendární zbraň a krajina je zase o jednu příšeru bezpečnější. Tvé činny jsou rychlé, a přesto stojí za to, každý dobře promyslet.
+
+# Herní prvky
+
+Mapa leží uprostřed stolu. Stojí na ní figurky a leží na ní žetony příšer a vítězných bodů. Zbylé žetony příšer jsou v losovacím váčku.
+
+Vedle mapy leží lícem dolů šest dobíracích balíčků: kopí, palice, meče, luky, úkoly a předměty. Vedle mapy je také veřejná nabídka úkolů lícem nahoru (tři) a odkládací balíček zahraných karet.
+Hráč drží na ruce karty zbraní, předmětů a úkolů. Má na ruce také dvě karty příběhu: Povolání a Kartu EPIC. Před sebou má hromádku získaných vítězných bodů, karty splněných úkolů a žetony poražených příšer jako trofeje.
+
++++
+Hra obsahuje 40 polí mapy (5 speciálních), 6 figurek postav, 44 žetonů příšer, 36 vítězných bodů, 11 miniatur hor a 2 velké skály. Dále obsahuje 4 balíčky po 23 kartách zbraní, 22 karet předmětů, 24 karet úkolů, 8 karet příběhu, 11 karet nápovědy a tato pravidla.
+
+Flavour:
+Informace o tom, co leží na mapě, kde stojí figurky a kde jsou příšery, jsou veřejné. Karty na ruce hráče jsou tajné. Hráč je ukáže pouze tehdy, když to pravidla výslovně nařizují.
+Speciální pole mapy se poznají podle odlyšné zadní strany. Ve hře je šest figurek, aby si mohl opravdu každý vybrat, i když je hra jen pro čtyři hráče.
+
+# Příšery a zbraně
+
+Kulaté žetony na mapě představují příšery. Barva a symbol žetonu určují druh příšery a zbraň, která ji porazí.
+
+Zvíře - Zelený, s rohy - Kopí
+Nemrtvý -Žlutý, s křížky místo očí - Palice
+Člověk - Modrý, napůl plný - Meč
+Démon - Červený, rozetnutý bleskem - Luk
+Univerzální - Pole ze čtyř barev - Bomba
+
+Pro poražení příšery stačí odhodit správnou zbraň. Žeton poražené příšery si hráč vezme jako trofej a položí ho před sebe. Pokud na příšeře ležel vítězný bod, vezme si i ten.
+
++++
+Na líci karty zbraně ukazuje symbol v levém horním rohu, na který druh příšery zbraň platí.
+Jsou čtyři balíčky zbraní (kopí, palice, meče a luky), ale zbraně jsou v balíčcích namíchané a čtvrtina karet v každém balíčku neodpovídá rubu karty.
+Případný druhý symbol v levém horním rohu karty zbraně je kouzlo. Kouzlo nemění, který druh příšery zbraň porazí. Může však hráči pomoci vhodnou příšeru najít. Kouzla jsou popsána v kapitole „Kouzla“.
+
+Flavour:
+Zvíře je dravec, se kterým si místní sami neporadí. Může jít o obřího lidožravého medvěda, smečku hladových vlků, nebo dokonce draka.
+Nemrtvý je oživlá mrtvola — třeba zombie nebo kostlivec.
+Člověkem může být banda mordýřů i rozezlený čaroděj. Lidé stojí někde mezi dobrem a zlem, proto mají žeton nabarvený "napůl".
+Démon je tvor co prošel bránou z jiného světa. Lidově řečeno přišel „z pekla“.
+
+# Příprava hry
+Určete začínajícího hráče. Vyberte jeden z nabízených tvarů mapy. Hraje se po směru hodinových ručiček; hráč napravo od začínajícího hráče hraje poslední a stává se Velitelem mapy.
+Velitel mapy při stavbě rozhoduje případné spory. Odloží stranou pět speciálních polí: hrad, dvě skály a dva starty. Ostatní pole zamíchá. Speciální pole rozmístí podle obrázku a ze zbývajících polí sestaví vybraný tvar mapy. Každé pole položí lícem nahoru a náhodně je otočí. Jedno nepoužité pole odloží stranou.
+Nyní může každý hráč v pořadí od začínajícího vzít odložené pole a vyměnit je s jiným obyčejným polem na mapě. Nakonec hráč přidá na mapu miniatury skal a hor.
+Hráč náhodně vytáhne příšery z váčku. Na každé pole určené pro příšeru umístí jednu, na hrad dvě. Na start, skálu, vesnici ani teleport příšeru neumístí. Na každou umístěnou příšeru položí vítězný bod. Zbylé příšery vrátí do váčku a zbylé vítězné body do krabice.
+Pak připraví a zamíchá šest dobíracích balíčků: kopí, palice, meče, luky, předměty a úkoly. Každý hráč získá dvě karty příběhu: kartu „Jsem EPIC“ a náhodně vylosovanou kartu povolání. Poté si v pořadí od začínajícího hráče vybere figurku a jeden ze startů, na který ji umístí.
+Každý hráč si dobere jednu kartu úkolu a jednu kartu předmětu. Následně si v pořadí od začínajícího hráče dobere dvě počáteční zbraně. Pro každou z nich si může vybrat libovolný balíček zbraní.
+Nakonec hráč otočí tři vrchní karty z dobíracího balíčku úkolů a vyloží je jako veřejnou nabídku. Hra je připravena.
+
++++
+Karty nápovědy hráč položí na dobře dostupné místo.
+Hráč orientuje pole mapy náhodně; nesrovnává je tak, aby všechna směřovala stejně.
+Na stavbě mapy se může podílet každý hráč, konečné rozhodnutí však patří Veliteli mapy.
+Hráč si může vybrat kterýkoli start, i když na něm již stojí jiný hráč.
+Volba figurky nemá vliv na hru. Karta povolání ani karta „Jsem EPIC“ neurčuje hráčovy schopnosti a nijak ho neomezuje; obě jsou zvláštními druhy úkolů.
+Při výběru startu hráč zná svou kartu povolání, ale ještě nezná kartu úkolu, kterou si dobere později.
+Hráč si může obě počáteční zbraně dobrat ze stejného balíčku nebo každou z jiného.
+Nepoužité příšery zůstávají ve váčku pro další průběh hry. Nepoužité vítězné body se v této hře již nepoužijí.
+
+Flavour:
+Karty nápovědy shrnují nejdůležitější pravidla.
+Pozor! Výběr počátečních zbraní je zásadní. Než budeš pokračovat v přípravě, přečti si kapitolu „Tah hráče“.
+S výběrem druhé zbraně se často vyplatí počkat, až uvidíš, jakou zbraň jsi získal jako první.
+Začínající hráč má podle zvoleného druhu hry výhodu. Tato role se proto hodí pro někoho méně zkušeného nebo třeba pro hráče, který minulou hru skončil poslední.
+Úkoly budou pro všechny překvapením.
+Než si vytáhneš první zbraň, přečti si, jak se zbraně používají. Ať třeba víš, že luk na kostlivce nestačí.
+
+Karty nápovědy se položí na dobře dostupné místo. Obsahují shrnutí nejdůležitějších pravidel.
+Hráči určí začínajícího hráče. Hraje se po směru hodinových ručiček. Hráč napravo od začínajícího hráče hraje poslední a stává se Velitelem mapy. Velitel mapy vybere jeden z vyobrazených tvarů mapy. Na stavbě mapy se podílejí všichni, rozhoduje však velitel mapy.
+Velitel mapy odloží stranou pět speciálních polí: hrad, dvě skály a dva starty. Ostatní pole zamíchá. Speciální pole rozmístí podle obrázku a ze zbývajících polí sestaví vybraný tvar mapy. Každé pole položí lícem nahoru a při pokládání je náhodně otočí. Jedno nepoužité pole položí stranou.
+Velitel mapy zkontroluje průchodnost mapy. Pohyb je možný vodorovně a svisle, nikoli přes skály a hory. Pokud se na některé pole nelze dostat od startu nebo teleportu, velitel mapy vybere pole, které pootočí, aby cestu zpřístupnil.
+Nyní může každý hráč, od začínajícího, vzít vyřazené pole a vyměnit ho s jiným obyčejným polem mapy. Nesmí už při tom vytvořit novou nedostupnou oblast mapy. Nakonec na mapu hráči přidají miniatury skal a hor.
+Hráči náhodně vytahují příšery z váčku. Na každé pole, na které patří příšera, umístí jednu; na hrad umístí dvě. Na pole startu, skály, vesnice a teleportu příšeru neumísťují. Na každou umístěnou příšeru položí vítězný bod. Zbylé příšery vrátí do váčku a zbylé vítězné body do krabice.
+Hráči připraví a zamíchají šest dobíracích balíčků: kopí, palice, meče, luky, předměty a úkoly. Každý hráč získá dvě karty příběhu: kartu „Jsem EPIC“ a náhodně vylosovanou kartu povolání. Poté si hráč v pořadí od začínajícího hráče vybere figurku a jeden ze startů, na který ji umístí.
+Pozor!! Výběr počátečních zbraní je zásadní. Než budou hráči pokračovat v přípravě, měli by si přečíst kapitolu "Tah hráče".
+Každý hráč si dobere jednu kartu úkolu a jednu kartu předmětu. Poté si dobere dvě počáteční zbraně. Hráči je dobírají postupně v pořadí od začínajícího hráče; hráč si pro každou zbraň může zvolit libovolný balíček zbraní.
+Nakonec hráči otočí tři vrchní karty z dobíracího balíčku úkolů a vyloží je jako veřejnou nabídku. Hra je připravena.
+
+Hráči se snaží o náhodnou orientaci polí mapy; nesrovnávají je tak, aby byla všechna otočená stejně.
+Hráč si může vybrat kterýkoli start, i když na něm již stojí jiný hráč.
+Volba figurky nemá vliv na hru. Karta povolání ani karta „Jsem EPIC“ neurčuje hráčovy schopnosti a nijak ho neomezuje; obě jsou zvláštními druhy úkolů.
+Při volbě startu hráč zná svou kartu povolání, ale ještě nezná karty úkolů.
+Hráč si může obě počáteční zbraně dobrat ze stejného balíčku nebo každou z jiného.
+Nepoužité příšery zůstávají ve váčku pro další průběh hry. Nepoužité vítězné body se v této hře již nepoužijí.
+
+S výběrem druhé zbraně se často vyplatí počkat, až hráč uvidí, jakou zbraň získal jako první.
+Začínající hráč má výhodu, dle zvoleného druhu hry, proto se tato role hodí pro někoho méně zkušeného, nebo třeba hráče co minulou hru zkončil poslední.
+Úkoly budou pro všechny překvapením.
+Než si táhneš první zbraň, přečti si jak se používají, ať třeba víš, že luk na kostlivce nestačí.
+
+# Tah hráče
+
+Hráči se střídají v tazích. Vždy hraje jeden hráč a ostatní do jeho tahu nezasahují. Na ruce může mít nejvýše dvě zbraně, dvě karty příběhu získané na začátku hry a libovolný počet karet úkolů a předmětů.
+1. Pohyb nebo odpočinek. Hráč posune figurku o jedno pole vodorovně nebo svisle; přes hory se pohybovat nesmí. Při pohybu odhodí zbraň. Pokud na cílovém poli porazí příšeru, vezme si její žeton jako trofej a případný vítězný bod položí před sebe. Pokud se nepohybuje, odpočívá.
+2. Vybavení. Pokud hráč přišel do vesnice nebo věže, vezme si jednu kartu předmětu. Karty úkolů získává pouze ve vesnici.
+3. Dobrání zbraní. Hráč si dobere zbraně tak, aby měl na ruce dvě. Zbraň si vybere podle symbolu na poli, na které vstoupil, a vezme si kartu z příslušného balíčku. Pokud dobírá druhou zbraň, vybere si ji libovolně.
+4. Plnění úkolů. Hráč může před sebe vyložit úkol, jehož podmínky splňuje. Každý splněný úkol má hodnotu jednoho vítězného bodu. Pokud se ve veřejné nabídce uvolnilo místo, hráč ji doplní na tři karty.
+5. Kontrola vítězství. Hráč sečte své vítězné body, splněné úkoly a karty příběhu. K vítězství potřebuje 12 bodů ve hře dvou hráčů, 10 bodů ve hře tří hráčů nebo 9 bodů ve hře čtyř hráčů. Pokud cíle nedosáhl, hraje další hráč.
+
++++
+Hráč se může přesunout i na pole bez příšery; zbraň odhodí i tehdy. Pokud se pohnout nechce nebo nemůže, odpočívá. Po pohybu i po odpočinku pokračuje částmi tahu 2–5. Ostatní hráči mu mohou radit, ale nemohou do jeho tahu zasahovat.
+
+Flavour:
+Vítězné body se vyplatí hledat u příšer. Nejlepší cíl je taková příšera, u které leží i vítězný bod.
+Hráč drží palici a na sousedním poli vidí nemrtvého se žlutým žetonem. Palice je proti němu určená: hráč ji odhodí, přesune se na jeho pole a vezme si vítězný bod i žeton příšery jako trofej.
+
+# Tah 1A) Pohyb
+
+Základem tahu je pohyb figurky o jedno pole vodorovně nebo svisle. Hráč nemůže přejít přes hory ani přes skálu. Ostatní hrdinové mu nepřekážejí; na jednom poli může stát více figurek.
+Při každém pohybu hráč zahodí zbraň. Pokud je na cílovém poli příšera, musí použít zbraň, kterou ji porazí (viz „Příšery a zbraně“).
+• Start: Na startu má hráč stan a může se sem vrátit při odpočinku. Příšery se sem při umisťování nedávají.
+• Vesnice: Příšery se sem neumisťují. Hráč zde může navštívit obchody (viz „Tah 2) Vybavení“).
+• Věž: Je zde příšera a truhla s kouzelným předmětem. Po poražení příšery může hráč truhlu prozkoumat (viz „Tah 2) Vybavení“).
+• Teleport: Hráč na jeho poli nikdy nestojí a příšera se sem neumisťuje. Stojí-li vedle teleportu, může jedním krokem projít na pole sousedící s kterýmkoli teleportem na mapě. Za tento krok zahodí zbraň stejně jako při běžném pohybu.
+• Skála: Hráč přes ni nemůže přejít. Příšery se sem neumisťují.
+• Hrad: Jsou-li na něm dvě příšery, hráč musí porazit obě současně. Každou příšeru poráží jednou zbraní; v tomto boji může použít obě své zbraně. Za poražení obou příšer získá dva vítězné body.
+
++++
+• S kouzlem létání může hráč překonat hory, ale ne skálu (viz „Kouzla“).
+• Zbraň hráč zahodí i při vstupu na pole bez příšery, včetně vesnice.
+• Kouzlem vábení může hráč přivolat příšeru na každé pole, na kterém může stát, tedy i na start.
+• Při průchodu teleportem nesmí hráč vstoupit na pole, ze kterého vyšel. Při vstupu do teleportu ani při výstupu z něj nemůže překonat hory bez kouzla létání. Zbraň použitá při průchodu musí porazit příšeru na cílovém poli, pokud tam nějaká je.
+• Při boji na hradě může hráč použít kouzlo na každou zbraň, ale nemusí. Kouzlo tvrdosti mu umožňuje použít jednu zbraň dvakrát. Díky kouzlu vábení také může být na hradě už jen jedna příšera.
+
+Flavour:
+Naběhl jsi tam a mlátil tou palicí kolem sebe, až se rozbila. Nikdo tam nebyl, tak tomu říkejme trénink, ano?
+Skoro to vypadá, jako by tvým největším nepřítelem byly hory. S tím, co vše do boje táhneš, se vlastně není čemu divit.
+Tajemné, strach nahánějící hory.
+Na hradě nemusí být vždy dvě příšery. Někdo ti mohl kouzlem vábení jednu ukrást. Smůla.
+
+# Tah 1B) Odpočinek
+
+Pokud se hráč nemůže nebo nechce pohnout po mapě, odpočívá. Nejprve zahodí všechny zbývající zbraně z ruky. Poté na každé volné pole mapy vylosuje z váčku novou příšeru. Novým příšerám nepřidává vítězné body. Má-li v ruce úkol, může jeden zahodit a teprve potom si dobrat nový z dobíracího balíčku úkolů. Nakonec si zvolí místo odpočinku: buď zůstane na svém poli, nebo se ihned přesune na libovolné pole startu.
+
++++
+Hráč nedoplňuje příšery na hrad, start, vesnici, teleport ani skálu. Nedoplňuje je ani na pole s figurkou hrdiny nebo na pole, na kterém jeho figurka stála před přesunem na odpočinek. Losování příšer může přenechat někomu, kdo mu chce pomoci. I při odpočinku odehraje ostatní fáze tahu: ve vesnici nebo u věže si může doplnit vybavení a ve vesnici může plnit úkoly, včetně úkolu právě dobraného.
+
+Flavour:
+Když odpočívá hrdina, odpočívají i příšery. Má čas přečíst si poštu a dozvědět se novinky. Odpočinek se hodí třeba tehdy, když mu ostatní ukradnou i poslední zbraň — ale odpočívat může také dobrovolně. Nové příšery ještě nikoho nestačily postrašit, takže za ně není žádná sláva. Na hradě už hrdina všechno vymlátil a příšery se tam teď bojí.
+
+# Tah 2) Vybavení (vesnice či věž)
+
+Ve věži i ve vesnici si hráč dobere novou kartu předmětu. Ve vesnici si navíc může vzít jednu kartu úkolu z vyložené nabídky nebo z vrchu dobíracího balíčku. Jednu kartu úkolu z vyložené nabídky může také zahodit na odhazovací balíček. Nabídka se doplní před tahem příštího hráče.
+Hráč řeší vybavení po skončení pohybu, ale před dobíráním zbraní. Počet předmětů ani karet úkolů, které může mít v ruce, není omezen.
+
++++
+Hráč si ve věži nebo ve vesnici dobere kartu předmětu v tahu, kdy na pole vstoupil, nikoli v tahu, kdy z něj pouze odešel. Pokud na poli odpočívá, může nakoupit. Nakoupit může i tehdy, když jím prošel s kouzlem vzteku. Pokud na něm začal tah a během tahu pouze odešel, nakoupit už nestihne.
+Nově dobraný předmět hráč ve stejném tahu použít nemůže. Nově získaný úkol však může splnit hned. Pokud hráč doplní nabídku úkolů ještě během svého tahu, položí nové karty lícem dolů; otočí je až příští hráč před svým tahem.
+
+Flavour:
+V noci mě někdo teleportoval do vesnice. Tak jsem se ráno nezdržoval. Sebral jsem svůj ranec a utekl. Dříve než krámy otevřely.
+Znal jsem jednoho lovce. Přišel do vesnice a trvalo mu tři dny, než se probral nabídkou místního obchodu.
+Za poflakování po hospodách sláva není. Jsi hrdina, ne bard. Ale dají se tu doplnit zásoby.
+A hele, tady píšou „Hledá se hrdina“. Tenhle letáček ostatní vidět nemusí. Vezmu si ho, děkuji.
+Je až zvláštní, jak z vývěsních cedulí rychle mizí ty snadnější úkoly. Ale že by někdo sundal ten nesplnitelný úkol „Ulovte draka“, to ne.
+
+# Tah 3) Dobrání karet zbraní
+
+Hráč si dobere zbraně tak, aby měl dvě. První zbraň si dobere z balíčku povoleného polem, na kterém stojí; povolené balíčky jsou na poli vyznačené. Pokud mu chybí i druhá zbraň, dobere si ji z libovolného balíčku.
+Po dobrání zbraní hráč odhodí nadbytečné trofeje, tedy žetony poražených příšer. Nechat si může nejvýše tři. Při výběru může zohlednit, které se mu budou hodit k plnění úkolů, viz „Tah 4) Plnění úkolů“.
+
++++
+Pokud má hráč dvě zbraně, žádnou si nedobírá.
+Na poli start, hrad nebo vesnice si hráč může i první zbraň dobrat z libovolného balíčku.
+Pomocí kouzla krádeže, viz kapitola „Kouzla“, může hráč ukrást zbraň z ruky libovolného hráče. Pokud si doplňuje dvě zbraně, krádež nahrazuje dobrání první z nich, tedy zbraně, jejíž výběr by jinak omezovalo pole mapy.
+Pokud některý dobírací balíček dojde, hráči roztřídí odhazovací balíček a obnoví dobírací balíčky.
+
+Flavour:
+Nediv se, amuletů, papírů a dalších cetek máš plný pytel, ale zbraně fakt uneseš jen dvě. Jednu v ruce a druhou náhradní.
+Pokud některý dobírací balíček došel, hrajete už opravdu nečekaně dlouho.
+Nikdo s sebou netahá všechno a nikoho nezajímá, co jsi zapíchl před půl rokem.
+
+# Tah 4) Plnění úkolů
+
+Na konci svého tahu hráč vyhodnotí úkoly z veřejné nabídky, úkoly na ruce a své karty příběhu. Může splnit libovolný počet úkolů a příběhů. Každou splněnou kartu vyloží před sebe; každá má hodnotu jednoho vítězného bodu. Pro splnění úkolů se počítá jeho pozice na mapě na konci tahu.
+Po vyložení splněných úkolů hráč doplní veřejnou nabídku z dobíracího balíčku na tři karty pro dalšího hráče. Doplňované karty položí lícem dolů; otočí se až na začátku tahu dalšího hráče. Pokud jsou po doplnění všechny tři úkoly v nabídce stejného typu, zahodí je a doplní nové tři. Úkoly jsou typu Trofej, Formace nebo Bariéra.
+Kartu příběhu Povolání hráč splní, pokud po dobrání zbraní drží v ruce právě zbraně uvedené na kartě. Ukáže je a kartu vyloží před sebe. Zbraně si ponechá a hraje s nimi dál.
+Kartu příběhu Jsem EPIC hráč vyloží současně s prvním splněným úkolem, který vykládá z ruky. Získá tak za tento úkol druhý vítězný bod.
+Úkol typu Trofej hráč splní, pokud má u sebe trofeje zobrazené na kartě: dvě stejné, nebo tři různé podle konkrétního úkolu. Trofeje neodevzdává.
+Úkoly typu Formace a Bariéra zobrazují kromě příšer také hrdinu, případně vesnici nebo hory. Hráč je splní, pokud jeho pozice a ostatní vyobrazené prvky tvoří na mapě souvislou vodorovnou nebo svislou řadu bez mezer. Při úkolu „stůj mezi“ stojí mezi vyobrazenými příšerami; při úkolu „stůj v řadě“ stojí vyobrazené příšery v řadě od něj. Při úkolu „chraň vesnici“ má hráč po jedné straně vesnici a po druhé vyobrazenou příšeru, nebo stojí ve vesnici sousedící s vyobrazenou příšerou. Při úkolu „zažeň ke skále“ stojí vedle příšery, za níž bezprostředně leží skála nebo hory.
+
++++
+Hráč nemůže v jednom tahu splnit více než jeden úkol typu Trofej. U úkolu vyžadujícího dvě trofeje zvířat mu nevadí, pokud má navíc jakoukoli třetí trofej.
+Hráč získá během hry pouze jednu kartu Povolání, a to na začátku. Karta ho neomezuje ve výběru zbraní. Jakmile ji splní a vyloží, pokračuje ve hře.
+Hráč získá pouze jednu kartu Jsem EPIC, a to na začátku hry. Může ji vyložit i s úkolem získaným v témže tahu, ale ne s kartou Povolání.
+Pro splnění Formace nebo Bariéry nestačí sousedství přes teleport. Řada nesmí vést do zatáčky ani po úhlopříčce a mezi hráčem a požadovaným prvkem nesmí být hory. Při úkolu „chraň vesnici“ nelze vesnici nahradit věží.
+Hráč může splnit úkol až na konci tahu: nestačí, že požadovaným místem během tahu prošel nebo na něm stál na začátku. Nově doplněné úkoly z veřejné nabídky už splnit nemůže, protože jeho tah doplněním skončil. Doplňuje pouze veřejnou nabídku; úkoly na ruce získává ve vesnici nebo při odpočinku.
+
+Flavour:
+Palice, to je panečku zbraň. Sním, že budu slavným bijcem. Škoda, že v okolí jsou samí loupežníci a palice by mi tu byla k ničemu.
+
+# Tah 5) Vítězství
+
+Vyhrává hráč, který jako první dosáhne potřebného skóre. Jeho skóre tvoří součet splněných úkolů, splněných karet příběhu a nasbíraných vítězných bodů. Potřebné skóre závisí na počtu hráčů. Hráč vyhrává okamžitě po jeho dosažení.
+
+Flavour: Se slávou je to jednoduché. Čím více nás po okolí pobíhá, tím méně slávy stačí jednomu z nás, aby nás místní už měli opravdu dost.
+
+# Kouzla
+
+Kouzlo může být vázané na zbraň nebo volné, uvedené na kartě předmětu. Vázané kouzlo působí pouze na zbraň, na které je nakreslené; volné kouzlo působí na zbraň, se kterou hráč předmět použije. Při kroku po mapě hráč použije zbraň a může s ní použít jedno kouzlo. Kouzlo použít nemusí, ani když je na zbrani. Se zbraní nemůže použít dvě kouzla současně a vázané kouzlo nemůže přenést na jinou zbraň. Použije-li se zbraní kouzlo z předmětu, odhodí po použití zbraň i předmět na odkládací balíček.
+Kouzlo tvrdosti: Po prvním použití hráč zbraň neodhodí. Je-li kouzlo vázané na zbraň, vyčerpá se a při příštím použití hráč zbraň odhodí. Je-li kouzlo na předmětu, hráč odhodí pouze předmět a zbraň si ponechá.
+Kouzlo záměny: Před útokem si hráč vymění místo na mapě s jiným hrdinou. Poté zaútočí ze svého nového místa.
+Kouzlo vábení: Hráč vybere libovolnou příšeru na mapě, kterou může zvolenou zbraní porazit, a přemístí ji na pole, na které útočí. Je-li na tomto poli jiná příšera, obě příšery si vymění místa. S příšerami se přesunou i jejich body slávy.
+Kouzlo vzteku: Hráč použije zbraň s tímto kouzlem k pohybu a útoku. Poté může svou druhou zbraní provést další krok po mapě a další útok. Zbraně a předměty si dobírá až po dokončení celého pohybu.
+Kouzlo krádeže: Hráč si může místo první zbraně, kterou by po pohybu dobral podle omezení pole, vzít kartu z ruky jiného hráče. Případnou druhou zbraň si dobere z libovolného balíčku.
+Kouzlo létání: Při útoku zbraní s tímto kouzlem může hráč překročit hory.
+
++++
+Hráč může se zbraní použít kouzlo z předmětu místo kouzla vázaného na zbraň; vázané kouzlo pak nemá žádný účinek. Zbraň i kouzlo může použít také při kroku na pole bez příšery. Za tah může použít více kouzel, pouze pokud použije více zbraní; u každé zbraně přitom dodrží limit jednoho kouzla.
+Zbraň s vyčerpaným kouzlem tvrdosti si hráč může v ruce otočit; v pravém dolním rohu má symbol vyčerpaného kouzla. V ruce může držet nejvýše dvě zbraně, i když některou díky tvrdosti neodhodil. Pokud už dvě má, novou si nedobere. Získá-li zbraň s vyčerpaným kouzlem tvrdosti jiný hráč, může její kouzlo znovu použít.
+Při záměně si hráč nejprve vymění místo s jiným hrdinou a teprve potom útočí. Vedle jeho nového místa proto musí být pole, na které může zvolenou zbraní vstoupit, ať už je na něm příšera, nebo ne.
+Vábením hráč nemůže odlákat příšeru jen proto, aby zaútočil na pole, které po ní zůstane prázdné. Příšeru může přilákat také na pole označené „Bez příšery“, například start nebo vesnici, či na pole s jiným hrdinou. Může ji přilákat z hradu nebo vyměnit za příšeru na hradě. Ani při dobývání hradu však nemůže jednou zbraní příšeru přilákat a jinou ji porazit: přilákanou příšeru musí být schopen porazit zbraní, se kterou vábení použije.
+Aby hráč využil druhý pohyb ze vzteku, musí mít druhou zbraň a nejprve použít zbraň s kouzlem vzteku. Druhá zbraň může mít vlastní kouzlo; vztek první zbraně se na ni nevztahuje. Hráč může vztek použít i při útoku na prázdné pole. Pokud během pohybu projde vesnicí nebo věží, příslušný úkol či předmět si dobere až po dokončení i druhého pohybu. Druhý pohyb může vést také na hrad, takže hráč může za tah porazit příšery až na třech polích či pozicích útoku. Protože může držet nejvýše dvě zbraně a během pohybu nedobírá, nemůže vztek smysluplně použít podruhé v témže tahu.
+Při krádeži si hráč může vybrat kartu od kteréhokoli jiného hráče bez ohledu na vzdálenost nebo druh zbraně. Vybírá si pouze podle zadních stran karet; cílený hráč mu nemusí prozradit skutečný druh zbraně ani to, zda má kouzlo.
+Létání platí jen pro útok danou zbraní. Při plnění úkolů hráč hory stále považuje za nepřekročitelné. Na pole skála vstoupit nemůže; je označené symbolem „Bez létání“. Zbraní musí být schopen porazit příšeru v cíli, pokud tam nějaká je. Při jediném útoku může překročit i dvoje hory.
+
+Flavour:
+Magie je chaos. Kouzla mění pravidla. Kdo je ovládne, může ovládnout celou hru.
+Klidně můžeš mlátit slámu.
+Také si myslíš, že záměnou jde někoho dostat do pěkných potíží?
+Příšeru můžeš přilákat i na pole, kde stojí jiný hrdina. Aspoň uvidí, jak se tahle práce dělá.
+Viděl jsem jednu lučišnici, jak zlikvidovala démona a pak vtrhla na hrad a vymlátila to tam ten samý den. Tři nula pro hrdiny.
+Epické je jednou očarovanou zbraní, jediným krokem přeletět dvoje hory a porazit příšeru.
+
+# Jak hrát víc her
+
+EPIC se může hrát jako turnaj několika her. V první hře začíná určený hráč. Každou další hru začíná hráč, který je na řadě po vítězi předchozí hry, takže předchozí vítěz hraje jako poslední. V turnaji na dvě vítězství vyhrává hráč, který jako první vyhraje dvě hry.
+Při hře na trestné body získá hráč po každé hře tolik trestných bodů, kolik mu chybí k vítězství. Turnaj vyhrává hráč s nejnižším součtem trestných bodů.
+
++++
+Hráč může použít volitelné pravidlo dohrání posledního kola. Jakmile některý hráč získá body potřebné k vítězství, hra pokračuje, dokud na řadu znovu nepřijde začínající hráč. Pokud má poté více hráčů shodný nejvyšší počet vítězných bodů, vyhrává hráč s nejvyšším počtem splněných úkolů.
+
+Flavour:
+EPIC není strategická hra na celý večer. Je dost náhodná a nejlépe si ji užijete, když si ji zahrajete několikrát za sebou.
+Všiml sis, že názvy splněných úkolů tvoří titul, kterým ti místní budou odteď říkat?
+Dohrávání není úplně v duchu této hry, ale někteří ho mají radši. Tak prosím, tady ho máš.
+Verze pro jednoho hráče zatím neexistuje. Třeba nějakou vymyslíš a podělíš se s námi.
+
+# O těchto pravidlech
+
+Toto jsou kompletní pravidla hry, v tak ucelené a vyčerpávající formě, jak jsme je jen dokázali vytvořit. Samozřejmě ne každému tento formát vyhovuje a víme, že některé hráče může přímo vyděsit. Proto pro vás máme i jiné formy, jako je videonávod, ukázková hra, nebo otázky a odpovědi. Vše je k dispozici na stránkách hry.
+
+# Slovo závěrem
+
+Naše hra se snaží překlenout most mezi hráči, kteří rádi plánují, a hráči, kteří chtějí hlavně vzít palici a něco s ní EPICky praštit. Hru jsme vyvíjeli, připravovali a testovali dva roky. Byla to skvělá jízda a ohromné množství legrace. Tak vám přejeme, ať baví i vás.
+V této hře jde hodně plánovat a bezpochyby to má vliv na výsledek. Míra náhody a chaosu je však tak velká, že šanci vyhrát máte všichni. A přesně tak jsme to chtěli. Tak ti, hrdino, přeju, ať se ti hra líbí a ať jsi dnes nejvíc EPIC právě ty.
+
+Flavour:
+Copak v tom balíčku luků není jedinej luk?!
+Když budu vábit příšery rovnou do vesnice, určitě budu brzy velmi slavná.
+Nechali jste mi jen jedinou zbraň, lumpové, ale já ten hrad stejně dobiju. Ona je to totiž tvrdá bomba!
+Neuvěříte, co jsem dneska viděl. Proběhla tudy barbarská válečnice. Šel jí kouř z uší a rozbila si meč o výlohu v obchodě s kouzelnými předměty. Asi jí to nestačilo, tak se chopila obrovského kladiva a s křikem běžela dál, kamsi za humna.
+Schválně, řekni, které z EPICkých veršů na kartách jsou tvé nejoblíbenější?

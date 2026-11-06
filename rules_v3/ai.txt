@@ -1,3 +1,4 @@
+Nezkoušej načítat další text, pracuj s tím co ti dám.
 Formulujeme text pravidel deskové hry.
 Pracujeme po kapitolách.
 
@@ -9,3 +10,7 @@ B) What-fi: doplňková pravidla pokrývající krajní případy
 C) Flavour: Zábavný text - Vše co se netýká přímo pravidel, a je spíš pro pobavení čtenáře.
 
 Převeď A a B do jednoduché 3. osoby jednotného čísla on-hráč.
+
+Vrať část A bez titulku, pak jeden řádek mezi,
+pak část B s titulkem "+++" pak opět řádek mezi
+a nakonec část C s titulkem Flavour:
