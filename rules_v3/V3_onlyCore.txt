@@ -1,0 +1,110 @@
+V tomto kraji na vás čeká dobrodružství! Obyvatele trápí příšery, a proto jste přišli Vy. Boje s příšerami jsou vaše řemeslo. A jste v nich EPICky dobří. V síni slávy však skončí jen ti nejrychlejší z vás.
+
+# Princip hry
+
+Jen buď EPIC hrají 2–4 hráči kompetitivně. Střídají se v tazích, posouvají své figurky po mapě, bojují s příšerami a plní úkoly. Hrají karty zbraní a kouzelných předmětů. Bojem s příšerami a plněním úkolů získávají vítězné body. Hry trvají přibližně 40 minut.
+
+# Herní prvky
+
+Uprostřed stolu hráči rozloží mapu. Na ní stojí figurky a leží žetony příšer a vítězných bodů. Zbylé žetony příšer jsou v losovacím váčku.
+
+Vedle mapy hráči položí lícem dolů šest dobíracích balíčků: kopí, palice, meče, luky, úkoly a předměty. Vedle mapy také vyloží tři karty do veřejné nabídky úkolů lícem nahoru a položí odkládací balíček zahraných karet.
+Hráči drží na ruce karty zbraní, předmětů a úkolů. Na ruce mají také dvě karty příběhu: Povolání a Kartu EPIC. Před sebou mají hromádku získaných vítězných bodů, karty splněných úkolů a žetony poražených příšer (trofeje).
+
+# Příšery a zbraně
+
+Kulaté žetony na mapě představují příšery. Barvy a symboly žetonů určují druhy příšer a zbraně, kterými je hráči porazí.
+Zvířata, zelené žetony s rohy, hráči porážejí kopími.
+Nemrtvé, žluté žetony s křížky místo očí, hráči porážejí palicemi.
+Lidi, modré napůl plné žetony, hráči porážejí meči.
+Démony, červené žetony rozetnuté bleskem, hráči porážejí luky.
+Pole ze čtyř barev představují univerzální symboly na kartách Bomb. Takovými zbraněmi hráči porážejí libovolné příšery.
+Pro poražení příšery hráči odhodí zbraň se správným symbolem. Žetony poražených příšer si vezmou jako trofeje a položí je před sebe. Pokud na příšerách ležely vítězné body, vezmou si i ty.
+
+# Příprava hry
+
+Hráči si zvolí, zda jsou již dobrodruhy, nebo začátečníky. Podle toho si vezmou kartu Budu EPIC (začátečníci) nebo kartu Jsem EPIC (zkušení dobrodruzi). Tím získají svou první kartu příběhu.
+Určí začínajícího hráče a vyberou jeden z nabízených Tvarů mapy. Hrají po směru hodinových ručiček; jako poslední hraje hráč napravo od začínajícího hráče a přebírá roli Velitele mapy.
+Hráč v roli Velitele mapy při stavbě rozhoduje případné spory. Odloží stranou pět speciálních polí: hrad, dvě skály a dva starty. Ostatní pole zamíchá. Speciální pole rozmístí podle obrázku a ze zbývajících polí sestaví vybraný Tvar. Každé pole položí lícem nahoru a náhodně otočí. Jedno nepoužité pole odloží stranou.
+Nyní si hráči v pořadí od začínajícího hráče mohou vzít odložené pole a vyměnit je s jiným obyčejným polem na mapě (speciální pole nahrazovat nemohou). Nakonec na mapu přidají miniatury skal a hor.
+Hráči náhodně vytáhnou příšery z váčku. Na každé pole určené pro příšeru umístí jednu, na hrad dvě. Na start, skálu, vesnici ani teleport příšery neumístí. Na každou umístěnou příšeru položí vítězný bod. Zbylé příšery vrátí do váčku a zbylé vítězné body do krabice.
+Pak připraví a zamíchají šest dobíracích balíčků: kopí, palice, meče, luky, předměty a úkoly. Hráči nyní získají druhou kartu příběhu: náhodně vylosovanou kartu povolání. Poté si v pořadí od začínajícího hráče vyberou figurky a každý jeden ze startů, na který svou figurku umístí.
+Hráči si doberou po jedné kartě úkolu a předmětu. Následně si v pořadí od začínajícího hráče doberou po dvou počátečních zbraních (začátečníci po třech). Pro každou z nich si mohou vybrat libovolný balíček zbraní.
+Nakonec otočí tři vrchní karty z dobíracího balíčku úkolů a vyloží je jako veřejnou nabídku. Hra může začít.
+
+# Tah hráče
+
+Hráči se střídají v tazích. Vždy hraje jeden a ostatní do jeho tahu nezasahují. Na ruce mohou mít nejvýše dvě zbraně (začátečníci tři), dvě karty příběhu a libovolný počet karet úkolů a předmětů. Tah hráče má tyto fáze:
+1. Pohyb nebo odpočinek. Hráči posunou figurku o jedno pole vodorovně nebo svisle; přes hory se pohybovat nesmějí. Při pohybu odhodí zbraň. Pokud jsou na cílovém poli příšery, porazí je (musí) a vezmou si jejich trofeje a vítězné body. Pokud se nepohybují, odpočívají. Doplňují příšery, zahazují všechny zbraně a vybírají si, kde budou odpočívat.
+2. Vybavení. Po skončení všech pohybů si hráči vezmou kartu předmětu za každou návštěvu vesnice nebo věže (ne pokud tam tah jen začínali). Ve vesnici si navíc mohou vzít kartu úkolu.
+3. Dobrání zbraní. Hráči si doberou zbraně tak, aby měli na ruce dvě (začátečníci tři). První zbraň si vyberou podle symbolu na poli, na které vstoupili, a vezmou si kartu z příslušného balíčku. Pokud dobírají víc než jednu, další zbraň si vyberou libovolně.
+4. Úprk. Po dobrání zbraní se hráči mohou rozhodnout, zda zůstanou, či ustoupí na sousední prázdné pole. Za úprk zaplatí jednu zbraň a trofej.
+5. Plnění úkolů. Hráči před sebe mohou vyložit úkoly, jejichž podmínky splňují. Za každý splněný úkol získávají jeden vítězný bod. Pokud se ve veřejné nabídce uvolnilo místo, nakonec ji doplní na tři karty.
+6. Kontrola vítězství. Hráč na tahu sečte své vítězné body, splněné úkoly a karty příběhu. K vítězství potřebuje 12 bodů ve hře dvou hráčů, 10 bodů ve hře tří hráčů nebo 9 bodů ve hře čtyř hráčů. Pokud hráč cíle nedosáhl, pokračuje další hráč.
+
+# Tah 1A) Pohyb
+
+Hráči posunou figurku o jedno pole vodorovně nebo svisle. Přes hory ani přes skálu přejít nemohou. Ostatní hrdinové jim nepřekážejí; na jednom poli může stát i více figurek.
+Při každém pohybu hráči zahodí zbraň. Pokud jsou na cílovém poli příšery, musejí je porazit. Musejí tedy mít a použít zbraně, kterými je porazí (viz „Příšery a zbraně“).
+• Start: Hráči na startu začínají a mohou se sem vrátit při odpočinku. Příšery se sem při umisťování nedávají.
+• Vesnice: Příšery se sem neumisťují. Hráči zde mohou navštívit obchody (viz „Tah 2) Vybavení“).
+• Věž: Hráči zde najdou příšeru a truhlu s kouzelným předmětem. Po poražení příšery mohou truhlu prozkoumat (viz „Tah 2) Vybavení“).
+• Teleport: Hráči na jeho poli nikdy nestojí a příšery se sem neumisťují. Stojí-li vedle teleportu, mohou jedním krokem projít na (jiné) pole sousedící s kterýmkoli teleportem na mapě. Za tento krok zahodí zbraň stejně jako při běžném pohybu.
+• Skála: Hráči přes ni nemohou přejít. Příšery se sem neumisťují.
+• Hrad: Pokud jsou na něm stále dvě příšery, hráči musejí porazit obě současně. Každou příšeru porážejí jednou zbraní; v tomto boji mohou použít dvě své zbraně. Za poražení obou příšer získají dva vítězné body. Příšery se sem na začátku umisťují dvě, ale při doplňování se sem již nové nedávají.
+
+# Tah 1B) Odpočinek
+
+Pokud se hráči nemohou nebo nechtějí pohnout po mapě, odpočívají. Nejprve zahodí všechny zbývající zbraně z ruky. Poté na každé volné pole mapy vylosují z váčku novou příšeru. Novým příšerám nepřidávají vítězné body. Mají-li v ruce úkoly, mohou jeden zahodit a dobrat si nový z dobíracího balíčku. Nakonec si zvolí místo odpočinku: buď zůstanou na svém poli, nebo se přesunou na libovolné pole start.
+
+# Tah 2) Vybavení (vesnice či věž)
+
+Když hráči dokončí všechny své akce (1A či 1B), za každou akci, při které skončí ve věži či ve vesnici, si doberou novou kartu předmětu. Ve vesnici si navíc vezmou jednu kartu úkolu z vyložené nabídky nebo z dobíracího balíčku. Jednu kartu úkolu z vyložené nabídky mohou také zahodit. Nabídku doplní na 3 karty před tahem dalšího hráče.
+
+# Tah 3) Dobrání karet zbraní
+
+Hráči si doberou zbraně tak, aby měli dvě (začátečníci tři). První zbraň si doberou z balíčku povoleného polem, na kterém stojí; povolené balíčky jsou na poli vyznačené. Pokud jim chybí i další zbraň, doberou si ji z libovolného balíčku.
+Po dobrání zbraní hráči odhodí nadbytečné trofeje. Nechat si mohou nejvýše tři. Při výběru mohou zohlednit, které se jim budou hodit k plnění úkolů, viz „Tah 5) Plnění úkolů“.
+
+# Tah 4) Úprk
+
+Po dobrání zbraní a odhození nadbytečných trofejí se hráči mohou rozhodnout, zda zůstanou na svém poli, nebo ustoupí na sousední prázdné pole. Za úprk musejí zaplatit jednu zbraň a jednu trofej. Případnou vesnici nebo věž, do které uprchnou, ještě stihnou využít, viz „Tah 2) Vybavení“.
+
+# Tah 5) Plnění úkolů
+
+Na konci svého tahu hráči vyhodnotí úkoly z veřejné nabídky, úkoly na ruce a své karty příběhu. Mohou splnit libovolný počet úkolů a příběhů. Každou splněnou kartu vyloží před sebe; za každou získají jeden vítězný bod.
+Po vyložení splněných úkolů hráči doplní veřejnou nabídku z dobíracího balíčku na tři karty pro dalšího hráče. Úkoly mají v pravém horním rohu symbol typu. Pokud jsou po doplnění všechny tři úkoly v nabídce stejného typu, hráči je zahodí a doplní nové tři. Úkoly patří k typům Trofej, Formace nebo Bariéra. Pro splnění úkolů se uvažuje pouze stav hráče na konci tahu, jak zbraně na ruce, tak pozice na mapě.
+Kartu příběhu Povolání hráči splní, pokud mají právě zbraně uvedené na kartě. Ukážou je a kartu vyloží před sebe. Zbraně si ponechají.
+Kartu příběhu Jsem EPIC hráči vyloží současně s prvním splněným úkolem, který vykládají z ruky.
+Kartu příběhu Budu EPIC hráči-začátečníci vyloží současně s libovolným prvním splněným úkolem nebo se splněným povoláním.
+Úkol typu Trofej hráči splní, pokud mají u sebe trofeje zobrazené na kartě: dvě stejné nebo tři různé podle konkrétního úkolu. Trofeje neodevzdávají.
+Úkoly typu Formace a Bariéra zobrazují kromě příšer také hrdinu, případně vesnici nebo hory. Hráči je splní, pokud jejich pozice a ostatní vyobrazené prvky tvoří na mapě souvislou vodorovnou nebo svislou řadu bez mezer. Při úkolu, kdy stojí mezi vyobrazenými příšerami, musejí stát mezi nimi; při úkolu s řadou od hráče stojí vyobrazené příšery v řadě od něj. Při úkolu na ochranu vesnice mají hráči po jedné straně vesnici a po druhé vyobrazenou příšeru, nebo stojí ve vesnici sousedící s vyobrazenou příšerou. Při úkolu se skálou stojí vedle příšery a za níž bezprostředně leží skála nebo hory. Mezi hráčem, příšerou a vyobrazenými prvky nesmí být mezera, teleport ani hory.
+
+# Tah 6) Vítězství
+
+Vyhrává hráč, který jako první dosáhne potřebného skóre. Do skóre započítávají hráči splněné úkoly, splněné karty příběhu a nasbírané vítězné body. Potřebné skóre určují podle počtu hráčů: pro 2 hráče potřebují 12 bodů, pro 3 hráče 10 bodů a pro 4 hráče 9 bodů. Vyhrávají okamžitě po jeho dosažení. Alternativní vyhodnocování hry popisují pravidla v kapitole „Varianty hry“.
+
+# Kouzla
+
+Kouzla mohou být vázaná na zbraně (druhý symbol) nebo volná, uvedená na kartách předmětů. Vázaná kouzla působí pouze na zbraně, na kterých jsou nakreslená; volná kouzla působí na zbraně, se kterými hráči předměty použijí. Při kroku po mapě hráči použijí zbraň a mohou s ní použít jedno kouzlo. Kouzlo použít nemusejí, ani když je na zbrani. Se zbraní nemohou použít dvě kouzla současně a vázané kouzlo nemohou přenést na jinou zbraň. Použijí-li se zbraní kouzlo z předmětu, odhodí po použití zbraň i předmět na odkládací balíček.
+Kouzlo tvrdosti: Po použití hráči zbraň neodhodí, ale vyloží před sebe. Budou ji moct využít znovu a nebude jim překážet na ruce. Pokud použité kouzlo mají na zbrani, vyloží zbraň otočenou na znamení, že kouzlo použili.
+Kouzlo záměny: Před pohybem si hráč vymění místo na mapě s jiným hrdinou. Poté vyrazí ze svého nového místa.
+Kouzlo vábení: Hráči vyberou libovolnou příšeru na mapě, kterou mohou zvolenou zbraní porazit, a přemístí ji na pole, na které útočí. Pokud už na tomto poli stojí jiná příšera, příšery si vymění místa. S příšerami se přesunou i jejich body slávy.
+Kouzlo vzteku: Hráči použijí zbraň s tímto kouzlem k pohybu. Poté mohou se svou další zbraní provést další pohyb. Zbraně a předměty si dobírají až po dokončení celé fáze tahu "pohyb".
+Kouzlo krádeže: Hráči si mohou místo první zbraně, kterou by po pohybu dobrali podle omezení pole, vzít kartu z ruky jiného hráče. Případné další zbraně si doberou z libovolného balíčku.
+Kouzlo létání: Tento tah mohou hráči překračovat hory. Mohou také libovolné hory ignorovat při plnění úkolů.
+
+# Jak hrát víc her
+
+Hráči mohou EPIC hrát jako turnaj několika her. V první hře začínají od určeného hráče. Každou další hru začínají od hráče, který přichází na řadu po vítězi předchozí hry, takže předchozí vítězové hrají jako poslední.
+V turnaji na dvě vítězství vyhrávají hráči, kteří jako první vyhrají dvě hry.
+Při hře na trestné body získávají hráči po každé hře tolik trestných bodů, kolik jim chybí k vítězství. Turnaj vyhrávají hráči s nejnižším součtem trestných bodů.
+
+# O těchto pravidlech
+
+Toto jsou kompletní pravidla hry, v tak ucelené a vyčerpávající formě, jak jsme je jen dokázali vytvořit. Samozřejmě víme, že ne všem hráčům takto podrobná pravidla vyhovují a některé hráče mohou přímo vyděsit. Proto pro vás máme i jiné formy, jako jsou videonávod, ukázková hra nebo otázky a odpovědi. Všechny najdete na stránkách hry.
+
+# Slovo závěrem
+
+Naší hrou se snažíme překlenout most mezi hráči, kteří rádi plánují, a hráči, kteří chtějí hlavně vzít palici a něco s ní EPICky praštit. Hru jsme vyvíjeli, připravovali a testovali dva roky. Zažili jsme skvělou jízdu a ohromné množství legrace. Tak vám přejeme, ať baví i vás.
+V této hře mohou hráči hodně plánovat a jejich plány bezpochyby ovlivňují výsledek. Náhoda a chaos jsou však tak velké, že šanci vyhrát máte všichni. A přesně tak jsme to chtěli. Tak ti, hrdino, přeju, ať se ti hra líbí a ať jsi dnes nejvíc EPIC právě ty.
