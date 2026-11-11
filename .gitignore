@@ -5,3 +5,5 @@
 .vscode/
 *~
 
+# Generated rulebook PDFs
+/rules_v3/*.pdf
